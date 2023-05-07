@@ -1,8 +1,7 @@
 title: Finality
 description: Pushing Create to its limits with a side of adventure and combat.
 theme: just-the-docs
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: vyre_theme
 
 url: https://just-the-docs.github.io
 
