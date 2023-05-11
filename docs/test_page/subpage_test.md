@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Extra Formatting Testing
-nav_order: 5
 parent: Formatting Testing
 ---
 # h1 Readme.md

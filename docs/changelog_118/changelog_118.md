@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Finality 1.18.2 Changelog
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /docs/changelog_118
 ---
