@@ -1,9 +1,34 @@
-title: Finality
+title: Finality Wiki
 description: Pushing Create to its limits with a side of adventure and combat.
 theme: just-the-docs
 color_scheme: vyre_theme
 
 url: https://just-the-docs.github.io
 
+# Aux links for the upper right navigation
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# For copy button on code
+enable_copy_code_button: true

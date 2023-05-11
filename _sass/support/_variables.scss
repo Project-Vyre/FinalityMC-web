@@ -30,34 +30,34 @@ $font-size-10-sm: 48px !default;
 
 $white: #1C1B1E !default; // bg
 $grey-dk-000: #CAC4CF !default; // inactive icons and path slash 48464A
-$grey-dk-100: #F4EFF4 !default; // text color
+$grey-dk-100: #AEAAAE !default; // primary text color, not headings
 $grey-dk-200: #E6E1E6 !default;
 $grey-dk-250: #CAC5CA !default;
-$grey-dk-300: #AEAAAE !default;
+$grey-dk-300: #F4EFF4 !default; // h1 color and site title
 $grey-lt-000: #34313C !default; // sidebar
-$grey-lt-100: #49454E !default;  // outline
+$grey-lt-100: #49454E !default; // outline
 $grey-lt-200: #615D66 !default;
-$grey-lt-300: #79747E !default;
+$grey-lt-300: #79747E !default; // btn outline color
 $purple-000: #CFBDFE !default;
-$purple-100: #B3A2E1 !default;
+$purple-100: #B3A2E1 !default; // purple label color
 $purple-200: #9887C5 !default;
-$purple-300: #7D6DA8 !default;
-$blue-000: #2c84fa !default;
-$blue-100: #2869e6 !default;
-$blue-200: #264caf !default;
-$blue-300: #183385 !default;
-$green-000: #41d693 !default;
-$green-100: #11b584 !default;
-$green-200: #009c7b !default;
-$green-300: #026e57 !default;
+$purple-300: #CFBDFE !default; // note callout title and accent color ... old color #7D6DA8 THOUGHT previously it was the parent page icon and txt color in search maybe
+$blue-000: #343f90 !default; // important callout bg container color
+$blue-100: #9aa5fd !default; // blue label color
+$blue-200: #dfe0ff !default;
+$blue-300: #bcc2ff !default; // important callout title color
+$green-000: #005233 !default; // new callout bg container color
+$green-100: #003822 !default; 
+$green-200: #6dfcb5 !default; // green label color
+$green-300: #4cdf9b !default; // new callout title color
 $yellow-000: #ffeb82 !default;
 $yellow-100: #fadf50 !default;
-$yellow-200: #f7d12e !default;
+$yellow-200: #8f7503 !default; // yellow label color
 $yellow-300: #e7af06 !default;
-$red-000: #f77e7e !default;
-$red-100: #f96e65 !default;
-$red-200: #e94c4c !default;
-$red-300: #dd2e2e !default;
+$red-000: #93000a !default; // warning callout bg container color
+$red-100: #690005 !default;
+$red-200: #ff897d !default; // red label color
+$red-300: #ffb4ab !default; // warning callout title color
 
 /* original light theme color variables
 $white: #fff !default;
