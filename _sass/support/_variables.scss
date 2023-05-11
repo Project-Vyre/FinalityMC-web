@@ -27,17 +27,15 @@ $font-size-10: 42px !default;
 $font-size-10-sm: 48px !default;
 
 // Colors
-// bg color
-$white: #1C1B1E !default;
-$grey-dk-000: #313033 !default;
-// text color
-$grey-dk-100: #F4EFF4 !default;
-$grey-dk-200: #605D62 !default;
-$grey-dk-250: #787579 !default;
-$grey-dk-300: #938F94 !default;
-// sidebar color
-$grey-lt-000: #34313C !default;
-$grey-lt-100: #49454E !default;
+
+$white: #1C1B1E !default; // bg
+$grey-dk-000: #CAC4CF !default; // inactive icons and path slash 48464A
+$grey-dk-100: #F4EFF4 !default; // text color
+$grey-dk-200: #E6E1E6 !default;
+$grey-dk-250: #CAC5CA !default;
+$grey-dk-300: #AEAAAE !default;
+$grey-lt-000: #34313C !default; // sidebar
+$grey-lt-100: #49454E !default;  // outline
 $grey-lt-200: #615D66 !default;
 $grey-lt-300: #79747E !default;
 $purple-000: #CFBDFE !default;
