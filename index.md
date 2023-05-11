@@ -16,7 +16,16 @@ Changelogs, recipes and tips are going to be located on the LEFT side of your sc
 [Trello Board]{: .btn .btn-primary .fs-4 .mr-2 }
 [GitHub Repository]{: .btn .btn-outline .fs-4 }
 
+Colors theming provided by Material Design 3 tools.[^1]
+
+Also, note to self in that footnotes will not show up unless called beforehand.[^2]
+
 ---
+
+[^1]: Colors would not be possible without my Google Pixel and Google's Material You dynamic color theming tool which can be found at [Material Theme Builder (Web)].
+
+[^2]: Testing foot note why are you not showing up??
 
 [GitHub Repository]: https://github.com/CelestialAbyss/Finality-Minecraft-Things
 [Trello Board]: https://trello.com/b/60JjUmBh/finality-development
+[Material Theme Builder (Web)]: https://goo.gle/material-theme-builder-web
