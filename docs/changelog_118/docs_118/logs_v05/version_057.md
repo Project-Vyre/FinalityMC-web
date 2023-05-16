@@ -6,7 +6,9 @@ grand_parent: Finality 1.18.2 Changelog
 nav_order: 3
 ---
 # Version 0.5.7b (1.18.2)
-Unfortunately I am thinking about removing a few mods from the modpack for performance reasons, but this might be for the better.
+**Notice: Modpack version 0.5.7b is not yet out!**
+
+Unfortunately I am thinking about removing a few mods from the modpack for performance reasons, but this might be for the better. This update *will* require a world regeneration as structure mods have been added. 
 
 * Just updated the modpack icon with a cube instead of a sphere.
 
@@ -17,8 +19,10 @@ All patch notes related to FTB Quests and the Tome of Finality.
 ### FTB Quests changes
 * Moved Wither Storm to the top of the FTB Quests lists to make it more visible as I don't want it to be a *late* endgame mod as it destroys the overworld. I will be adding alternative recipes later on for players who want to acquire the Withered Beacon without having to fight the Wither Storm at all.
 * Added subtitle line "This is Create." to line 1 of the `Age of Creation` chapter.
+* Added the Sustenance chapter group to meet parity with the Tome of Finality.
 * Moved Create's Architect Age chapter to a new chapter group `Architecture and Decor`
   * Added Spice it Up! to this new chapter group to start the decor quests.
+* Added a dedicated entry for The Graveyard.
 * Changed description lines on `Hi! Welcome to Finality` from:
 
 | Line # | Text |
@@ -32,8 +36,8 @@ to
 
 | Line # | Text |
 | --- | --- |
-| Line 1 | If you wish to play the modpack on its intended difficulty, set the difficulty to Hard. |
-| Line 2 | For obvious reasons, this is optional. |
+| Line 1 | If you wish to play the modpack on its intended difficulty, set the difficulty to Hard. For obvious reasons, this is optional. |
+| Line 2 | The rest of the chapters can be accessed after you click the checkmark here and move your cursor to the left edge of your screen. |
 | Line 3 | If you lose the Tome of Finality, it is reclaimable from Emergency Items (broken heart icon) on the right. You can also craft the guidebook with two sticks! |
 | Line 4 | Also, take the time now to SET YOUR KEYBINDS, only if you want to." |
 
@@ -47,6 +51,7 @@ to
 * Added more information into certain entries in the Momentum category.
 * Added the Create: Central Kitchen entry in the Sustenance category.
 * Added the BIG SANDWICH entry in the Sustenance category.
+* Added more text to previously existing Sustenance entries.
 
 ## Core changes (1.18.2)
 Changes that actually affect gameplay.
@@ -56,6 +61,11 @@ Changes that actually affect gameplay.
 
 ### Recipes changelog
 * For some reason I put the Beacon recipe to be exclusive to ExtendedCrafting's crafting tables. The recipe can now be used on regular crafting tables.
+* Fixed Create: Stuff & Additions recipes for the following items. Interestingly there were a few typos from the mod's jar file directly. The items `minecraft:copper_nugget` and `create:crushed_brass_ore` were listed as outcomes, but neither **actually exist**. 
+  * Steam Engine 
+  * Heat Engine
+  * Hydraulic Engine
+* Added alternative recipes to acquire the Withered Nether Star, Tainted Flesh Blocks and Tainted Glass.
 
 ### Item removals
 * Waystones related items
@@ -67,12 +77,24 @@ Changes that actually affect gameplay.
 Six new mod additions, and two carried over from the 1.19.2 modpack variant.
 * Added Hypothermic by MuffinsQw
   * Just carrying this over from the 1.19.2 variant of the modpack.
+* Added SereneSeasons, a Glitchfiend mod.
+  * This was supposed to be added to both variants of the modpack, but now it's here.
 * Added Decorative Blocks
   * Just carrying this over from the 1.19.2 variant of the modpack.
 * Added Create Enchantment Industries
   * Apparently forgot to add this one over from the 1.19.2 variant as well.
 * Added Create Deco
   * Carried over from the 1.19.2 variant of the modpack.
+* Added Better Third Person 
+  * Another QoL mod that I forgot to add... *sigh*
+* Added Boat Break Fix by ElocinDev
+* Added Vinery - Let's Do Wine! by satisfyL
+  * Re-adding this.
+* Added [Gardens of the Dead by ochotonida](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead)
+  * Re-adding this.
+* Added [Twigs](https://www.curseforge.com/minecraft/mc-mods/twigs)
+  * Re-adding this.
+* Re-added Server Performance - Smooth Chunk by someaddon
 * Added Create: Central Kitchen
 * Added Some Assembly Required
 * Added Molten Vents
@@ -96,7 +118,6 @@ Six new mod additions, and two carried over from the 1.19.2 modpack variant.
 * Updated Cyclops Core by kroeser to `CyclopsCore-1.18.2-1.17.3`
 
 ### Removed mods
-These three mods were removed as my FPS dropped considerably after installing these optimization mods on the 1.19.2 variant. Out of curiosity, I also removed the same three mods on the 1.18.2 variant. Surprisingly, FPS went back to tolerable levels.
+These two mods were removed as my FPS dropped considerably after installing these optimization mods on the 1.19.2 variant. Out of curiosity, I also removed the same three mods on the 1.18.2 variant. Surprisingly, FPS went back to tolerable levels.
 * Removed Better FPS - Render Distance
-* Removed Server Performance - Smooth Chunk Save
 * Removed Dynamic View
