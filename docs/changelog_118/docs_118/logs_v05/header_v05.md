@@ -5,4 +5,9 @@ parent: Finality 1.18.2 Changelog
 has_children: true
 nav_order: 1
 ---
-This is the home page for Finality iteration 0.5
+# Iteration 0.5
+This is the home page for Finality major numerical iteration 0.5.
+
+Also, just to keep something in mind: not every minor numerical iteration is a small update.
+
+Please select the entries you are interested in viewing below.

@@ -5,8 +5,10 @@ parent: Finality Iteration 0.5
 grand_parent: Finality 1.18.2 Changelog
 nav_order: 3
 ---
+Latest
+{: .label .label-green }
 # Version 0.5.7b (1.18.2)
-**Notice: Modpack version 0.5.7b is not yet out!**
+**Version 0.5.7b has now been released.**
 
 Unfortunately I am thinking about removing a few mods from the modpack for performance reasons, but this might be for the better. This update *will* require a world regeneration as structure mods have been added. 
 
