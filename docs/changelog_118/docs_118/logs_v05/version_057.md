@@ -110,6 +110,7 @@ Several new mod additions, and three carried over from the 1.19.2 modpack varian
 * Added Atmospheric by TeamAbnormals
 * Added Picke Tweaks by BlakeBr0
 * Added [Connected Glass by SuperMartijn642](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+* Added [Chunk Loaders by SuperMartijn642](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
 
 ### Mod updates
 * Updated Integrated Dungeons and Structures by CraisinLord to version `idas_forge-1.6.4+1.18.2.jar`. His changelog can be read below. However, this also means that I have to update the config pack soooo yeah... You can regenerate your world in case there are Interated Dungeons / Structures that have been affected by this.
