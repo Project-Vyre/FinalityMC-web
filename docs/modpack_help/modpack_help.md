@@ -13,3 +13,8 @@ I will write down more tips here as time goes on.
 * The endgame was made with the expectation that you have figured out how to fully automate everything with Create.
 * Dungeons and other structures may be very rewarding! Exploration is recommended.
 * Enigmatic Legacy is a double edged sword. Actually READ the tooltips.
+
+## Artifacts
+I won't try to spoil anything regarding artifacts, but carefully read their names and their tooltips. 
+* There is a certain necklace upon wearing it causes you to sink but also walk freely in water. **Be careful.**
+* Not all artifacts are 100% beneficial, some will cost you either temporarily or permanently.
