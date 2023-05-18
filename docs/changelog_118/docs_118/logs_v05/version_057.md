@@ -10,8 +10,8 @@ nav_order: 3
 
 Unfortunately I am thinking about removing a few mods from the modpack for performance reasons, but this might be for the better. This update *will* require a world regeneration as structure mods have been added. 
 
-* Just updated the modpack icon with a cube instead of a sphere.
-
+* Updated the modpack icon with a cube instead of a sphere.
+* Fixed typo in one of my assets in FancyMenu
 * Someone pointed out to me that Quark's chest variations are not showing up and I looked into this issue. It turns out this is actually intended. By default, Quark disables its chest variations when the Woodworks by TeamAbnormals is installed to avoid overlap, but I have Polymorph to handle conflicting recipes. Honestly speaking, I prefer style of the chests from Woodworks over Quark's variations, so I will not be disabling the Anti-overlap feature built into Quark.
 
 ## Documentation Changelog (1.18.2)
@@ -52,6 +52,7 @@ to
 * Added the Create: Central Kitchen entry in the Sustenance category.
 * Added the BIG SANDWICH entry in the Sustenance category.
 * Added more text to previously existing Sustenance entries.
+* Added Technology category for other tech related entries.
 
 ## Core changes (1.18.2)
 Changes that actually affect gameplay.
@@ -74,7 +75,7 @@ Changes that actually affect gameplay.
   * Removed and hid Attuned Shards
 
 ### Mod additions
-Six new mod additions, and two carried over from the 1.19.2 modpack variant.
+Several new mod additions, and three carried over from the 1.19.2 modpack variant.
 * Added Hypothermic by MuffinsQw
   * Just carrying this over from the 1.19.2 variant of the modpack.
 * Added SereneSeasons, a Glitchfiend mod.
@@ -88,12 +89,10 @@ Six new mod additions, and two carried over from the 1.19.2 modpack variant.
 * Added Better Third Person 
   * Another QoL mod that I forgot to add... *sigh*
 * Added Boat Break Fix by ElocinDev
-* Added Vinery - Let's Do Wine! by satisfyL
-  * Re-adding this.
-* Added [Gardens of the Dead by ochotonida](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead)
-  * Re-adding this.
 * Added [Twigs](https://www.curseforge.com/minecraft/mc-mods/twigs)
   * Re-adding this.
+* Added ItemZoom
+  * Having a GUI scale of 2 has its own issues.
 * Re-added Server Performance - Smooth Chunk by someaddon
 * Added Create: Central Kitchen
 * Added Some Assembly Required
@@ -107,6 +106,9 @@ Six new mod additions, and two carried over from the 1.19.2 modpack variant.
   * At the suggestion of Jacqueline Vile
 * Added Colossal Chests by kroeser
 * Added EnergeticcSheep by kroeser
+* Added Atmospheric by TeamAbnormals
+* Added Picke Tweaks by BlakeBr0
+* Added [Connected Glass by SuperMartijn642](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
 
 ### Mod updates
 * Updated Integrated Dungeons and Structures by CraisinLord to version `idas_forge-1.6.4+1.18.2.jar`. His changelog can be read below. However, this also means that I have to update the config pack soooo yeah... You can regenerate your world in case there are Interated Dungeons / Structures that have been affected by this.
@@ -121,3 +123,5 @@ Six new mod additions, and two carried over from the 1.19.2 modpack variant.
 These two mods were removed as my FPS dropped considerably after installing these optimization mods on the 1.19.2 variant. Out of curiosity, I also removed the same three mods on the 1.18.2 variant. Surprisingly, FPS went back to tolerable levels.
 * Removed Better FPS - Render Distance
 * Removed Dynamic View
+* Removed Sons of Sins
+  * May make a return at some point, but for now it is being removed because of the loud sounds, will make adjustments in the resourcepack to fix this in another update.
