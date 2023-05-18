@@ -20,6 +20,12 @@ Colors theming provided by Material Design 3 tools.[^1]
 
 Also, note to self in that footnotes will not show up unless called beforehand.[^2]
 
+# Wiki Tasks
+- [ ] uhm. Checkboxes look weird.
+- [x] Uhhhhh
+- [x] Fixed the testing formatting pages and placed them under Miscellaneous.
+
+
 ---
 
 [^1]: Colors would not be possible without my Google Pixel and Google's Material You dynamic color theming tool which can be found at [Material Theme Builder (Web)].

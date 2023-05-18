@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Formatting Testing
-nav_order: 6
+nav_order: 2
 has_children: true
-permalink: /docs/test_page
+parent: Miscellaneous
+permalink: /docs/miscellaneous
 ---
 Hi! This is the test page for all sorts of formatting, using the markdown text from just-the-docs!
 
