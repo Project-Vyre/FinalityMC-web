@@ -52,7 +52,8 @@ to
 * Added the Create: Central Kitchen entry in the Sustenance category.
 * Added the BIG SANDWICH entry in the Sustenance category.
 * Added more text to previously existing Sustenance entries.
-* Added Technology category for other tech related entries.
+* Added the Technology category for other tech related entries.
+* Added the Decoration category for decoration related entries.
 
 ## Core changes (1.18.2)
 Changes that actually affect gameplay.
