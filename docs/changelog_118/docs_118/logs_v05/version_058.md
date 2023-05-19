@@ -19,6 +19,7 @@ nav_order: 2
   - Fixes crash with wilden guardian
   - Catches errors for the scribes tables when other mods do dumb things
 * Updated `Architectury` from `architectury-4.11.90-forge.jar` to `architectury-4.11.93-forge.jar`
+* Updated `SuperMartijn642's Core Lib` from `supermartijn642corelib-1.1.7-forge-mc1.18.jar` to `supermartijn642corelib-1.1.8-forge-mc1.18.jar`
 
 ## Mod additions
 * [Healing Campfire by Serilum](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
