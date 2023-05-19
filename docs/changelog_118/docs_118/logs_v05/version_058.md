@@ -5,6 +5,8 @@ parent: Finality Iteration 0.5
 grand_parent: Finality 1.18.2 Changelog
 nav_order: 2
 ---
+{: .warning}
+`supermartijn642corelib-1.1.8-forge-mc1.18.jar` causes the modpack to crash. DO NOT UPDATE IT! Remain on `supermartijn642corelib-1.1.7-forge-mc1.18.jar`
 
 # Core Changes
 
