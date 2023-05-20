@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# Finality Wiki
+# Finality
 Finality is a modpack designed for pushing Create to its limits with a side of adventure and combat.
 {: .fs-6 .fw-300 }
 
