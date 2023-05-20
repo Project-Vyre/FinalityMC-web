@@ -10,6 +10,8 @@ nav_order: 2
 
 This update I changed the main menu around a little bit, also going to re-render the black hole in Blender...
 
+Hopefully you guys like it.
+
 # Documentation Changes
 Documentation changes for the in-game experience.
 
@@ -40,6 +42,15 @@ Upgraded from `Forge 40.2.1` to `Forge 40.2.4`. The Forge changelog is below.
 | 40.2.1 | Fire TickEvent.WorldTickEvent on ClientLevel tick (#9304) |
 | 40.2.0 | Mark 1.18.2 Recommended Build 2 |
 
+## Config changes
+Config changes.
+
+### Default configs 
+These changes are not retroactive as they are in the `defaultconfigs` folder, so be sure to synchronize them with your world's internal `serverconfig` folder.
+* Increased Wither Storm evolution speed, so now it should evolve faster.
+* Increased Player Protection time for the Wither Storm to 5 minutes. 
+* The nights now last longer, good luck.
+
 ## Mod updates
 * Updated `UnusualEnd1.18.2_V1.4.1.jar` to `UnusualEnd1.18.2_V1.4.2.jar`
   - Buffed the Nether Orb from 15 to 30s Fire Protection
@@ -64,3 +75,4 @@ Upgraded from `Forge 40.2.1` to `Forge 40.2.4`. The Forge changelog is below.
 * [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass)
 * [Create: Alloyed](https://www.curseforge.com/minecraft/mc-mods/create-alloyed)
 * [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+
