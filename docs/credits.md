@@ -2,6 +2,7 @@
 title: Credits & Contributors
 layout: default
 nav_order: 4
+permalink: /docs/credits
 ---
 This was just pasted over from the original GitHub repository wiki, I apologize for the formatting being rough around the edges.
 

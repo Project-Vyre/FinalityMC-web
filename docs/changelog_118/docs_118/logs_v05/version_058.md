@@ -42,8 +42,12 @@ Upgraded from `Forge 40.2.1` to `Forge 40.2.4`. The Forge changelog is below.
 | 40.2.1 | Fire TickEvent.WorldTickEvent on ClientLevel tick (#9304) |
 | 40.2.0 | Mark 1.18.2 Recommended Build 2 |
 
+## Soundtrack additions
+* [end.ogg] [Shattered Glass - Cjbeards](https://youtu.be/rjumdHtHU5U)
+* [boss.ogg] [Brave the Storm - Cjbeards](https://youtu.be/dGmLKmxvJ0I)
+
 ## Config changes
-Config changes.
+Some minor config changes...
 
 ### Default configs 
 These changes are not retroactive as they are in the `defaultconfigs` folder, so be sure to synchronize them with your world's internal `serverconfig` folder.
