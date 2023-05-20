@@ -11,6 +11,8 @@ Please check out Cjbeards, very awesome music! [Cjbeards music is free use as me
 * [menu2.ogg] [From the Shadows - Cjbeards](https://youtu.be/m2IA-rXEKPk)
 * [menu3.ogg] [Cubeponk - Cjbeards & Fayr](https://youtu.be/Id2LUBrnHh4)
 * [menu4.ogg] [Mirror Mirror (Instrumental) - Cjbeards](https://youtu.be/u91uppHLfS4)
+* [end.ogg] [Shattered Glass - Cjbeards](https://youtu.be/rjumdHtHU5U)
+* [boss.ogg] [Brave the Storm - Cjbeards](https://youtu.be/dGmLKmxvJ0I)
 
 # Contributors
 ## Modpack Team

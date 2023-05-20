@@ -8,7 +8,37 @@ nav_order: 2
 {: .warning}
 `supermartijn642corelib-1.1.8-forge-mc1.18.jar` causes the modpack to crash. DO NOT UPDATE IT! Remain on `supermartijn642corelib-1.1.7-forge-mc1.18.jar`
 
+This update I changed the main menu around a little bit, also going to re-render the black hole in Blender...
+
+# Documentation Changes
+Documentation changes for the in-game experience.
+
+## FTB Quests
+* Added chapter for `Baubley Heart Canisters`
+* Added chapter for `Artifacts`
+* Moved chapter `Mob Grinding Utils` to chapter group `Useful Utilities`
+* Added clock decoration related quest to `Spice it Up!` 
+
+## Tome of Finality
+* Work in progress.
+
 # Core Changes
+Changes that actually affect gameplay.
+
+Upgraded from `Forge 40.2.1` to `Forge 40.2.4`. The Forge changelog is below.
+
+| 40.2 | Changes |
+| ------ | ------- | 
+| 40.2.4 | [1.18.2] Fix incorrect SpecialSpawn fire location (#9481) |
+|  | - Co-authored-by: Brennan Ward <3682588+Shadows-of-Fire@users.noreply.github.com> |
+| | [1.18.x] Make mixins work with JarJar (#9506) |
+| | - Backport of #8900 |
+| | - Update ASM to 9.5 |
+| | - Update JarJar to 0.3.19 |
+| | - Update SecureJarHandler to 1.0.8 |
+| 40.2.2 | Fix forge grindstone hooks allowing stacks of non-stackable items (#9458) |
+| 40.2.1 | Fire TickEvent.WorldTickEvent on ClientLevel tick (#9304) |
+| 40.2.0 | Mark 1.18.2 Recommended Build 2 |
 
 ## Mod updates
 * Updated `UnusualEnd1.18.2_V1.4.1.jar` to `UnusualEnd1.18.2_V1.4.2.jar`
@@ -22,6 +52,9 @@ nav_order: 2
   - Catches errors for the scribes tables when other mods do dumb things
 * Updated `Architectury` from `architectury-4.11.90-forge.jar` to `architectury-4.11.93-forge.jar`
 
+## Mod removals
+* Removed XPTome
+
 ## Mod additions
 * [Healing Campfire by Serilum](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
 * [Villager Names by Serilum](https://www.curseforge.com/minecraft/mc-mods/villager-names)
@@ -29,3 +62,5 @@ nav_order: 2
 * [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 * [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
 * [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass)
+* [Create: Alloyed](https://www.curseforge.com/minecraft/mc-mods/create-alloyed)
+* [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
