@@ -75,4 +75,5 @@ These changes are not retroactive as they are in the `defaultconfigs` folder, so
 * [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass)
 * [Create: Alloyed](https://www.curseforge.com/minecraft/mc-mods/create-alloyed)
 * [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+* [Create: Slice and Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice)
 
