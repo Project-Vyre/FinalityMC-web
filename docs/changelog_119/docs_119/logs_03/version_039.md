@@ -19,6 +19,11 @@ Work in progress.
 * True Darkness
 * Pickle Tweaks
 * The Undergarden
+* Doctor Who - Weeping Angels
+* Mahou Tsukai
 
 ## Mod removals
 * Removed Ender Crop
+* Removed Twilight Forest
+* Removed Iron Chests in favor for Sophisticated Storage
+* Removed FTB Chunks
