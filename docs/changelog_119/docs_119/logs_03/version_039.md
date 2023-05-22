@@ -21,13 +21,17 @@ Edit: I quickly found out that you can't add more lines to the existing tooltip.
 # FTB Quests
 Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
 
+# Tome of Finality (patchouli guidebook)
+Updated entries to be on par with the 1.18.2 variant where FTB Chunks was removed.
+
 ## Updated mods
-* From `flat-colored-blocks-forge-1.0.9.jar` to `flat-colored-blocks-forge-1.0.11.jar`
-* From `aquamirae-5.6.API14.jar` to `aquamirae-6.API15.jar`
-* From `Placebo-1.19.2-7.1.8.jar` to `Placebo-1.19.2-7.2.0.jar`
-* From `Apotheosis-1.19.2-6.1.5.jar` to `Apotheosis-1.19.2-6.2.1.jar`
-* From `GatewaysToEternity-1.19.2-3.1.1.jar` to `GatewaysToEternity-1.19.2-3.2.0.jar`
-* From `moonlight-1.19.2-2.2.33-forge.jar` to `moonlight-1.19.2-2.2.34-forge.jar`
+* Updated Flat Colored Blocks - Forge from `flat-colored-blocks-forge-1.0.9.jar` to `flat-colored-blocks-forge-1.0.11.jar`
+* Updated Aquamirae from `aquamirae-5.6.API14.jar` to `aquamirae-6.API15.jar`
+* Updated Placebo from `Placebo-1.19.2-7.1.8.jar` to `Placebo-1.19.2-7.2.0.jar`
+* Updated Apotheosis from `Apotheosis-1.19.2-6.1.5.jar` to `Apotheosis-1.19.2-6.2.1.jar`
+* Updated Gateways to Eternity from `GatewaysToEternity-1.19.2-3.1.1.jar` to `GatewaysToEternity-1.19.2-3.2.0.jar`
+* Updated Moonlight Lib `moonlight-1.19.2-2.2.33-forge.jar` to `moonlight-1.19.2-2.2.34-forge.jar`
+* Updated Supplementaries from `supplementaries-1.19.2-2.3.10.jar` to `supplementaries-1.19.2-2.3.12.jar`
 
 
 ## Mod additions
@@ -51,3 +55,6 @@ Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
 * Removed Ender Crop
 * Removed Twilight Forest
 * Removed Iron Chests in favor for Sophisticated Storage
+
+## Resourcepack additions
+Absolutely nothing to see there.

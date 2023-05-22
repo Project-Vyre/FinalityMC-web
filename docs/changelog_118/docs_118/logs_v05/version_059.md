@@ -6,6 +6,7 @@ grand_parent: Finality 1.18.2 Changelog
 nav_order: 1
 ---
 # Version 0.5.9b Changelog
+Soon.
 
 {: .warning}
 FTB Chunks is being replaced by xaero96's suite of mods due to its inability to share waypoints or make waypoints visible to the players in the same FTB Teams. This should have been a *basic* functionality from the mod. Please back up all your waypoints and note their exact X, Y and Z coordinates. It is not my fault if you update to this version without reading the changelog. This was made obvious while doing multiplayer playthroughs. JourneyMap will never be added due to being resource intensive.
