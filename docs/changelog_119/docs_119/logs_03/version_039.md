@@ -11,6 +11,9 @@ Soon to be released.
 {: .warning}
 FTB Chunks is being replaced by xaero96's suite of mods due to its inability to share waypoints or make waypoints visible to the players in the same FTB Teams. This should have been a *basic* functionality from the mod. Please back up all your waypoints and note their exact X, Y and Z coordinates. It is not my fault if you update to this version without reading the changelog. This was made obvious while doing multiplayer playthroughs. JourneyMap will never be added due to being resource intensive.
 
+{: .warning}
+Do NOT update Some Assembly Required. It will require Create 0.5.1a and all modpack development tools are currently still behind. Please wait for the developers of KubeJS and KubeJS Create to add support for Create 0.5.1a! Quark currently also has issues with Create 0.5.1a.
+
 # Cataclysm
 Fixed L_Ender's broken English with lang files in the modpack resourcepack, you're welcome.
 
@@ -24,7 +27,6 @@ Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
 * From `Apotheosis-1.19.2-6.1.5.jar` to `Apotheosis-1.19.2-6.2.1.jar`
 * From `GatewaysToEternity-1.19.2-3.1.1.jar` to `GatewaysToEternity-1.19.2-3.2.0.jar`
 * From `moonlight-1.19.2-2.2.33-forge.jar` to `moonlight-1.19.2-2.2.34-forge.jar`
-* From `some-assembly-required-1.19.2-3.0.1.jar` to `some-assembly-required-1.19.2-3.0.2.jar`
 
 
 ## Mod additions
