@@ -15,7 +15,8 @@ FTB Chunks is being replaced by xaero96's suite of mods due to its inability to 
 Do NOT update Some Assembly Required. It will require Create 0.5.1a and all modpack development tools are currently still behind. Please wait for the developers of KubeJS and KubeJS Create to add support for Create 0.5.1a! Quark currently also has issues with Create 0.5.1a.
 
 # Cataclysm
-Fixed L_Ender's broken English with lang files in the modpack resourcepack, you're welcome.
+~~Fixed L_Ender's broken English with lang files in the modpack resourcepack, you're welcome.~~
+Edit: I quickly found out that you can't add more lines to the existing tooltip. Back to KubeJS tooltip modification.
 
 # FTB Quests
 Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
