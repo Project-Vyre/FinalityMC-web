@@ -6,10 +6,13 @@ parent: Finality Tau 1.19.2 Changelog
 permalink: /docs/version_039
 ---
 # v0.3.9b Changelog
-Work in progress.
+Soon to be released.
 
 {: .warning}
 FTB Chunks is being replaced by xaero96's suite of mods due to its inability to share waypoints or make waypoints visible to the players in the same FTB Teams. This should have been a *basic* functionality from the mod. Please back up all your waypoints and note their exact X, Y and Z coordinates. It is not my fault if you update to this version without reading the changelog. This was made obvious while doing multiplayer playthroughs. JourneyMap will never be added due to being resource intensive.
+
+# Cataclysm
+Fixed L_Ender's broken English with lang files in the modpack resourcepack, you're welcome.
 
 # FTB Quests
 Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
@@ -17,6 +20,12 @@ Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
 ## Updated mods
 * From `flat-colored-blocks-forge-1.0.9.jar` to `flat-colored-blocks-forge-1.0.11.jar`
 * From `aquamirae-5.6.API14.jar` to `aquamirae-6.API15.jar`
+* From `Placebo-1.19.2-7.1.8.jar` to `Placebo-1.19.2-7.2.0.jar`
+* From `Apotheosis-1.19.2-6.1.5.jar` to `Apotheosis-1.19.2-6.2.1.jar`
+* From `GatewaysToEternity-1.19.2-3.1.1.jar` to `GatewaysToEternity-1.19.2-3.2.0.jar`
+* From `moonlight-1.19.2-2.2.33-forge.jar` to `moonlight-1.19.2-2.2.34-forge.jar`
+* From `some-assembly-required-1.19.2-3.0.1.jar` to `some-assembly-required-1.19.2-3.0.2.jar`
+
 
 ## Mod additions
 * Added [Vinery - Let's Do Wine! by satisfyL](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine)
@@ -32,6 +41,9 @@ Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
 * [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
 * [Doctor Who - Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod)
 * [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)
+* [Savage and Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
+* [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
+* [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders)
 
 ## Mod removals
 * Removed FTB Chunks
