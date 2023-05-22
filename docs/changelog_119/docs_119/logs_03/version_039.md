@@ -42,8 +42,6 @@ Fixed the Cataclysm and Enigmatic Legacy related chapters and their quests.
 * [Doctor Who - Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod)
 * [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)
 * [Savage and Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
-* [Droplight](https://www.curseforge.com/minecraft/mc-mods/droplight)
-* [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders)
 
 ## Mod removals
 * Removed FTB Chunks
