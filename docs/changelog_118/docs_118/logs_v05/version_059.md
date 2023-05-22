@@ -33,6 +33,7 @@ As you know, Create 0.5.1 has been released on 5.22.2023. I will have to rework 
 * [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 * [Open Parties and Claims by xaero96](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
 * [Lightspeed - Launch optimizations by ccr4ft3r](https://www.curseforge.com/minecraft/mc-mods/lightspeedmod)
+  * Thank you to squoshi
 
 ### Removed mods
 * FTB Chunks

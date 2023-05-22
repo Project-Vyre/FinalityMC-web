@@ -5,6 +5,8 @@ parent: Finality Iteration 0.5
 grand_parent: Finality 1.18.2 Changelog
 nav_order: 2
 ---
+# Version 0.5.9b Changelog
+
 {: .warning}
 `supermartijn642corelib-1.1.8-forge-mc1.18.jar` causes the modpack to crash. DO NOT UPDATE IT! Remain on `supermartijn642corelib-1.1.7-forge-mc1.18.jar`
 
@@ -12,19 +14,23 @@ This update I changed the main menu around a little bit, also going to re-render
 
 Hopefully you guys like it.
 
-# Documentation Changes
+## Soundtrack additions
+* [end.ogg] [Shattered Glass - Cjbeards](https://youtu.be/rjumdHtHU5U)
+* [boss.ogg] [Brave the Storm - Cjbeards](https://youtu.be/dGmLKmxvJ0I)
+
+## Documentation Changes
 Documentation changes for the in-game experience.
 
-## FTB Quests
+### FTB Quests
 * Added chapter for `Baubley Heart Canisters`
 * Added chapter for `Artifacts`
 * Moved chapter `Mob Grinding Utils` to chapter group `Useful Utilities`
 * Added clock decoration related quest to `Spice it Up!` 
 
-## Tome of Finality
+### Tome of Finality
 * Work in progress.
 
-# Core Changes
+## Core Changes
 Changes that actually affect gameplay.
 
 Upgraded from `Forge 40.2.1` to `Forge 40.2.4`. The Forge changelog is below.
@@ -41,10 +47,6 @@ Upgraded from `Forge 40.2.1` to `Forge 40.2.4`. The Forge changelog is below.
 | 40.2.2 | Fix forge grindstone hooks allowing stacks of non-stackable items (#9458) |
 | 40.2.1 | Fire TickEvent.WorldTickEvent on ClientLevel tick (#9304) |
 | 40.2.0 | Mark 1.18.2 Recommended Build 2 |
-
-## Soundtrack additions
-* [end.ogg] [Shattered Glass - Cjbeards](https://youtu.be/rjumdHtHU5U)
-* [boss.ogg] [Brave the Storm - Cjbeards](https://youtu.be/dGmLKmxvJ0I)
 
 ## Config changes
 Some minor config changes...
