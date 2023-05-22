@@ -5,8 +5,6 @@ parent: Finality Iteration 0.5
 grand_parent: Finality 1.18.2 Changelog
 nav_order: 3
 ---
-Latest
-{: .label .label-green }
 # Version 0.5.7b (1.18.2)
 **Version 0.5.7b has now been released.**
 
