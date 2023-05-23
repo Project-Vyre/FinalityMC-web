@@ -6,7 +6,7 @@ parent: Finality Tau 1.19.2 Changelog
 permalink: /docs/version_039
 ---
 # v0.3.9b Changelog
-Soon to be released.
+**Major changes. It is recommended to re-generate your world seed.**
 
 {: .warning}
 FTB Chunks is being replaced by xaero96's suite of mods due to its inability to share waypoints or make waypoints visible to the players in the same FTB Teams. This should have been a *basic* functionality from the mod. Please back up all your waypoints and note their exact X, Y and Z coordinates. It is not my fault if you update to this version without reading the changelog. This was made obvious while doing multiplayer playthroughs. JourneyMap will never be added due to being resource intensive.
