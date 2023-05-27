@@ -2,7 +2,7 @@
 layout: default
 title: Finality Tau 0.3.8b
 nav_order: 1
-parent: Finality Tau 1.19.2 Changelog
+parent: Finality Tau Changelog
 permalink: /docs/version_038
 ---
 # v0.3.8b Changelog

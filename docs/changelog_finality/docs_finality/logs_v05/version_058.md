@@ -2,7 +2,7 @@
 layout: default
 title: Version 0.5.8b (1.18.2)
 parent: Finality Iteration 0.5
-grand_parent: Finality 1.18.2 Changelog
+grand_parent: Finality Changelog
 nav_order: 2
 ---
 # Version 0.5.9b Changelog
