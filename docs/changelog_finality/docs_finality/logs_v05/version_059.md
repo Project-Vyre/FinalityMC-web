@@ -15,7 +15,7 @@ FTB Chunks is being replaced by xaero96's suite of mods due to its inability to 
 As you know, Create 0.5.1 has been released on 5.22.2023. I will have to rework the Create FTB Quests tree slightly to accomodate for the newest items. Also to plan ahead of time... remove all soul sand blocks from your water wheels as that will now be useless. Make room for the large water wheels which rotate at 4 RPM max and provide 512 Su. The regular water wheels provide 128 Su max. Please keep that in mind. The developers have also implemented a fix so that Deployers will no longer be plagued with the issues that come with chunk claiming. Please see the changelog here: https://github.com/Creators-of-Create/Create/wiki/0.5.1
 
 ## FTB Quests
-* Corrected `The Andesite Age` description text to use Zinc Ore instead of Nickel Ore. More corrections on the way that I may not have noticed because I am half asleep doing these things.
+* Corrected `The Andesite Age` description text to use Zinc Ore instead of Nickel Ore. More corrections on the way that I may not have noticed because I was half asleep while making the quest tree for Create.
 
 ## Tome of Finality (patchouli guidebook)
 * Changed entries to accomodate for the removal of FTB Chunks. It will not be making a return.
@@ -23,11 +23,13 @@ As you know, Create 0.5.1 has been released on 5.22.2023. I will have to rework 
 ## Core changes
 * Disabled all `Ice and Fire` copper nugget, copper ingot and copper block recipes to prevent accidental conversion. Vanilla copper should be safe now. 
 * Added recipes to convert `Ice and Fire` copper nugget, ingot and block to Create's copper nugget and Minecraft copper ingot and block.
+* Added KubeJS magic to replace `Ice and Fire` copper and silver ore on world generation.
 
 ### Config changes
 * Waystones will now reduce XP cost every 250 blocks instead of every 1000 blocks.
 * Disabled the Teleport button on Xaero's Minimap.
-* Disabled `Ice and Fire` Copper and Silver Ore generation. I am very sorry that I did not disable it as I was not aware of this being an option in the config for the mod.
+* ~~"Disabled" `Ice and Fire` Copper and Silver Ore generation. I am very sorry that I did not disable it as I was not aware of this being an option in the config for the mod.~~
+  * See above.
 
 ### Added mods
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
