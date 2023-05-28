@@ -41,3 +41,4 @@ As you know, Create 0.5.1 has been released on 5.22.2023. I will have to rework 
 
 ### Removed mods
 * FTB Chunks
+* Ding
