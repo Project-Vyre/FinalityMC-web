@@ -16,6 +16,7 @@ As you know, Create 0.5.1 has been released on 5.22.2023. I will have to rework 
 
 ## FTB Quests
 * Corrected `The Andesite Age` description text to use Zinc Ore instead of Nickel Ore. More corrections on the way that I may not have noticed because I was half asleep while making the quest tree for Create.
+* Fixed the `Alloyed` chapter showing up prematurely before introductory checkmark is checked by the user.
 
 ## Tome of Finality (patchouli guidebook)
 * Changed entries to accomodate for the removal of FTB Chunks. It will not be making a return.
