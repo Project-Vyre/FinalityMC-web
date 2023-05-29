@@ -12,7 +12,7 @@ permalink: /docs/version_039
 - Added the Aquamirae Tips entry in the Tome of Finality
 - Added more text to The Graveyard entry to serve as a hint on where to find the boss.
 - Lowered teleportation chance significantly to 1%.
-- Added Variant Crafting Tables as it was making it impossible to make the Handheld Crafting Table.
+- Fixed Handheld Crafting Table recipe script.
 
 ## v0.3.9.1b Changelog
 
