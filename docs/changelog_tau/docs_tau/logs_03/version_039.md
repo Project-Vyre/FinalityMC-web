@@ -5,6 +5,19 @@ nav_order: 1
 parent: Finality Tau Changelog
 permalink: /docs/version_039
 ---
+# v0.3.9.2b Changelog
+
+- Added "You can also now repair your tools in the crafting grid with their respective materials, so you won't have to throw away your items." to the `Useful Utilities` quests.
+- Fixed the missing reward for `I don't remember Sugar Cane growing that tall...` 
+- Added the Aquamirae Tips entry in the Tome of Finality
+- Added more text to The Graveyard entry to serve as a hint on where to find the boss.
+- Lowered teleportation chance significantly to 1%.
+- Added Variant Crafting Tables as it was making it impossible to make the Handheld Crafting Table.
+
+## v0.3.9.1b Changelog
+
+**Downgraded Flat Colored Blocks to fix the invalid recipe serializer error on multiplayer servers. A server pack can now be released.**
+
 # v0.3.9b Changelog
 **Major changes. It is recommended to re-generate your world seed.**
 
