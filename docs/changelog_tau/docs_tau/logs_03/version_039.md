@@ -15,6 +15,7 @@ Again, I am very sorry if you have not been able to progress through the introdu
 - Added more text to The Graveyard entry to serve as a hint on where to find the boss.
 - Lowered teleportation chance significantly to 1%.
 - Fixed Handheld Crafting Table recipe script.
+- Fixed (hopefully) statues teleporting players to other dimensions that can't be escaped by normal means. If this still occurs I will have to disable this mechanic entirely.
 
 ## Mod updates for 0.3.9.2b
 
@@ -56,6 +57,11 @@ Again, I am very sorry if you have not been able to progress through the introdu
   - Fix: Biomes not populating properly in Garden of Glass
   - Fix: Some structures showing up in Garden of Glass
   **Note: These two fixes do not require a GoG jar update, but will only cover newly-generated terrain.**
+
+- Updated Chipped to `chipped-forge-1.19.2-2.1.5.jar` from `chipped-forge-1.19.2-2.1.4.jar`
+  - fixed big lanterns being uncrafteable
+  - fixed the stiped bug
+  - made the mechanist table recipe use any wood type instead of specifically requiring oak and spruce
 
 - Updated Xaero's Minimap to `Xaeros_Minimap_23.4.4_Forge_1.19.1.jar` from `Xaeros_Minimap_23.4.3_Forge_1.19.1.jar`
 Update 23.4.4/23.3.6 (2023/05/24):
