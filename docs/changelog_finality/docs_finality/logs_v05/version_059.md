@@ -8,6 +8,8 @@ nav_order: 1
 # Version 0.5.9.1b Changelog
 A bunch of mods will be removed, with some of them adding new biomes. You may have to regenerate your world...
 
+Updated Forge mod loader from `Forge 40.2.4` to `Forge 40.2.8`
+
 {: .warning}
 DO NOT update Create or any of the Create related add-ons. Do not update Supplementaries, Quark and other related mods that may have had to add compatibility with Create 0.5.1. If you do decide to do so, the modpack is guaranteed to crash due to KubeJS Create not being compatible with Create 0.5.1 as it does not have support. 
 
@@ -37,11 +39,12 @@ DO NOT update Create or any of the Create related add-ons. Do not update Supplem
 - Updated Xaero's Minimap `Xaeros_Minimap_23.4.3_Forge_1.18.2.jar` to `Xaeros_Minimap_23.4.4_Forge_1.18.2.jar`
 - Updated Xaero's World Map  `XaerosWorldMap_1.30.2_Forge_1.18.2.jar` to `XaerosWorldMap_1.30.3_Forge_1.18.2.jar`
 
-## Finality Core related
+# Finality Core related
 All I will say is the following:
 - Added custom items...
 - Added singularity cores...
 - Added incomplete singularity cores...
+- Finally applied changes to Thermal Series related things.
 Good luck.
 
 ---
