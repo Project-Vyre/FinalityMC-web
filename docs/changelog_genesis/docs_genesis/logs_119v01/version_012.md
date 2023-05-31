@@ -11,6 +11,9 @@ nav_order: 7
 ## Finality Core changes
 - Added placeholder items, I am planning to make a custom set of armor and tools to replace creativerite.
 - Added singularity cores which are now required to make singularities. 
+- Removed the duplicate End Crystal recipe from CraftTweaker
+- Removed the duplicate Beacon recipe from CraftTweaker
+
 
 ## Mod updates
 
