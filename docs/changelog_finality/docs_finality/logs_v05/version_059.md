@@ -37,6 +37,13 @@ DO NOT update Create or any of the Create related add-ons. Do not update Supplem
 - Updated Xaero's Minimap `Xaeros_Minimap_23.4.3_Forge_1.18.2.jar` to `Xaeros_Minimap_23.4.4_Forge_1.18.2.jar`
 - Updated Xaero's World Map  `XaerosWorldMap_1.30.2_Forge_1.18.2.jar` to `XaerosWorldMap_1.30.3_Forge_1.18.2.jar`
 
+## Finality Core related
+All I will say is the following:
+- Added custom items...
+- Added singularity cores...
+- Added incomplete singularity cores...
+Good luck.
+
 ---
 
 # Version 0.5.9b Changelog
