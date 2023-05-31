@@ -6,6 +6,10 @@ grand_parent: Finality Changelog
 nav_order: 1
 ---
 # Version 0.5.9.1b Changelog
+
+Coming Soon
+{: .label .label-yellow }
+
 A bunch of mods will be removed, with some of them adding new biomes. You may have to regenerate your world...
 
 Updated Forge mod loader from `Forge 40.2.4` to `Forge 40.2.8`
@@ -51,6 +55,10 @@ Good luck.
 ---
 
 # Version 0.5.9b Changelog
+
+Stable
+{: .label .label-green }
+
 A small minor update, again...
 
 {: .warning}

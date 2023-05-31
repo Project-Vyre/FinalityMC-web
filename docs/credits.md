@@ -29,14 +29,15 @@ People developing the modpack:
 
 ## 3rd Party Contributors
 As for people who *helped* me in the process of developing the modpack there's quite a few:
-* squoshi 
+
+### squoshi 
   * Check out their modpack Magna here: https://www.curseforge.com/minecraft/modpacks/magna
   * A personal note to squoshi: You'll probably never see this but sorry for annoying you (if I did)
-* Reveter
+  
+### Reveter
   * Thank you for providing the following script when KubeJS wasn't respecting NBT tags of Patchouli books:
 
 ```js
-
 onEvent('item.tooltip', event => {
     event.addAdvanced('patchouli:guide_book', ((item, advanced, text) => {
         if (!item.hasNBT()) return;
@@ -46,5 +47,14 @@ onEvent('item.tooltip', event => {
     }))
 })
 ```
+
+### YT Mango (Mango is Me! on the KubeJS Discord)
+  * Provided a this fix when I encountered a 1.19.2 KubeJS related issue.
+```js
+Array(9).fill('minecraft:coal_block').concat([Fluid.of('minecraft:lava', 250)])
+```
+
+### Lexxie Raven Black (Lady Lexxie Black on the KubeJS Discord)
+
 
 More importantly, thank you to the *awesome* mod developers. Will be writing a long list below
