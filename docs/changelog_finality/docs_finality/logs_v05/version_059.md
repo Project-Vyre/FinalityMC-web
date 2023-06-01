@@ -21,6 +21,8 @@ DO NOT update Create or any of the Create related add-ons. Do not update Supplem
 - Removed CobbleForDays
 - Removed Galosphere
   - Pre-existing worlds will have biomes related to this mod, so you may have to re-generate your world.
+- Removed Darker Depths
+  - Pre-existing worlds will have biomes related to this mod, so you may have to re-generate your world.
 
 ## Mod additions
 - Added Catalogue by MrCrayFish
