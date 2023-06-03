@@ -5,10 +5,19 @@ parent: Finality Iteration 0.5
 grand_parent: Finality Changelog
 nav_order: 1
 ---
+# Version 0.5.9.2b Changelog
+
+In Development
+{: .label .label-yellow }
+
+Added Tight integration for Tinker's Construct
+
+---
+
 # Version 0.5.9.1b Changelog
 
-Coming Soon
-{: .label .label-yellow }
+Released
+{: .label .label-green }
 
 A bunch of mods will be removed, with some of them adding new biomes. You may have to regenerate your world...
 
@@ -18,6 +27,8 @@ Updated Forge mod loader from `Forge 40.2.4` to `Forge 40.2.8`
 DO NOT update Create or any of the Create related add-ons. Do not update Supplementaries, Quark and other related mods that may have had to add compatibility with Create 0.5.1. If you do decide to do so, the modpack is guaranteed to crash due to KubeJS Create not being compatible with Create 0.5.1 as it does not have support. 
 
 ## Mod removals
+- Removed Default Options
+  - KubeJS supports default options implementation, apparently.
 - Removed CobbleForDays
 - Removed Galosphere
   - Pre-existing worlds will have biomes related to this mod, so you may have to re-generate your world.
@@ -62,7 +73,6 @@ All I will say is the following:
 - Added incomplete singularity cores...
 - Added custom recipes for Mystical Agriculture related things...
 - Finally applied changes to Thermal Series related things.
-- Tight integration for Tinker's Construct
 Good luck.
 
 ---
