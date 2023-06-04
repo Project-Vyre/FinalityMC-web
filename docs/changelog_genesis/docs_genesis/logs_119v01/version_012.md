@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 ## Mod removals
 - Removed DefaultOptions
   - KubeJS will handle this.
+- Removed OpenLoader
+  - Put simply, I was using it incorrectly...
 
 ## Mod updates
 
