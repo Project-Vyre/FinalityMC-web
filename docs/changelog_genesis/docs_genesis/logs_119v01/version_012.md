@@ -50,11 +50,19 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 
 - Updated `Integrated Dungeons and Structures` to `idas_forge-1.7.4+1.19.2.jar` from `idas_forge-1.7.3+1.19.2.jar` to fix compatibility with Create 0.5.1. Thank you CraisinLord!
 - Updated `Integrated Stronghold` to `integrated_stronghold_forge-1.0.2+1.19.2.jar` from `integrated_stronghold_forge-1.0.1+1.19.2.jar` to fix compatibility with Create 0.5.1.
-- Updated the datapacks for both `Integrated Dungeons and Structures` and `Integrated Stronghold` 
+- Updated the datapacks for both `Integrated Dungeons and Structures` and `Integrated Stronghold`
+- Updated Create Cafe from `createcafe-1.1.7-1.19.2.jar` to `createcafe-1.1.8-1.19.2.jar`
+  - Fixed mixing recipe for Lychee Tea
+  - Fixed giving empty cup after drinking not functioning correctly
+  - Added Coffee Beans and Cassava Seeds to #forge:seeds tag
+  - Added Coffee Fruit and Cassava Root to #forge:crops tag
+  - Fixed Avocado Milk Tea mixing recipe not functioning correctly
 - Updated `Supplementaries` to `supplementaries-1.19.2-2.3.14a.jar` from `supplementaries-1.19.2-2.3.16.jar`. Developer changelog is below.
   - fixed recent server crash
 - Updated `Moonlight Lib` to `moonlight-1.19.2-2.2.36-forge.jar` from `moonlight-1.19.2-2.2.34-forge.jar`. Developer changelog is below.
   - no more bugs pls
+- Updated `Moonlight Lib` to `moonlight-1.19.2-2.2.37-forge.jar` from `moonlight-1.19.2-2.2.36-forge.jar` 
+  - improved wood detections. blacklisted some mods
 - Updated `Citadel` to `citadel-2.1.4-1.19.jar` from `citadel-2.1.3-1.19.jar`
   - Fixed issue with Terrablender with memory usage on relog causing worlds to be unplayable. This fix is for new worlds only; old worlds should have their level.dat reset using a NBTExplorer program.
 - Updated SehtiPhianCore from `shetiphiancore-forge-1.19.0-3.11.3.01.jar` to `shetiphiancore-forge-1.19.0-3.11.3.02.jar`. Developer changelog is below
