@@ -55,6 +55,30 @@ Array(9).fill('minecraft:coal_block').concat([Fluid.of('minecraft:lava', 250)])
 ```
 
 ### Lexxie Raven Black (Lady Lexxie Black on the KubeJS Discord)
+  * Provided a script fix for the same problem above.
+  * Helped during the KubeJS Create dark ages
+
+### EnigmaQuip
+  * Explained why KubeJS and KubeJS Legacy were behaving differently. Future modpack devs, please read (if this is still the case in the future):
+  ```
+  Celeste, I was snooping your pack and you have a note in your wiki about not being able to use twilight tools for the ars spellbook in 1.18 due to kubejs. It is possible if you want to keep that recipe, the reason it works in 1.19 and not in 1.18 is due to a change in the way recipe ingredients in kubejs are setup. In 1.18 they strictly check nbt by default, so you need to ignore it so as to not worry about enchants or damage. While in 1.19 it ignores all nbt data by default and you need to tell it to check that data. If you wrap each twilight tool in Item.of("mod:id").ignoreNBT() your recipe will work again
+  ```
+  * Also helped during the KubeJS Create dark ages 
 
 
-More importantly, thank you to the *awesome* mod developers. Will be writing a long list below
+More importantly, thank you to the *awesome* mod developers. Will be writing a long list below.
+
+## Create Team 
+Literally the only reason I got back into Minecraft *and* got into scripting with KubeJS then later modpack development.
+* simibubi
+* kryppers
+* dani.ase
+* Jozufozu
+* Pepper
+* tterrag
+
+## KubeJS
+Thank you for making modpack development so easy. I can't imagine in a decade that this would have been achievable to the same degree. The amount of customization is insane.
+* Lat
+* Max
+

@@ -13,7 +13,11 @@ The wiki is currently a work in progress and many updates will be made over time
 Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to be located on the LEFT side of your screen on this website! You can check the Trello Board by clicking the button below to keep up with the latest updates.
 
 [Trello Board]{: .btn .btn-primary .fs-4 .mr-2 }
-[GitHub Repository]{: .btn .btn-outline .fs-4 }
+[Another Create Wiki]{: .btn .btn-yellow .fs-4 .mr-2 }
+
+[Finality Repository]{: .btn .btn-outline .fs-4 }
+[Finality Tau Repository]{: .btn .btn-outline .fs-4 }
+[Finality Genesis Repository]{: .btn .btn-outline .fs-4 }
 
 Currently there are three variants of the modpack, see the table below.
 
@@ -53,10 +57,11 @@ Colors theming provided by Material Design 3 tools.[^1]
 Also, note to self in that footnotes will not show up unless called beforehand.[^2]
 
 # Wiki Tasks
-- [ ] uhm. Checkboxes look weird.
+- [ ] Fix the color scheme mess.
+- [ ] Figure out how to add more button colors other than light purple, dark purple, green and blue.
+- [ ] uhm. Checkboxes look weird. Figure out how to change color of checkboxes if possible.
 - [x] Uhhhhh
 - [x] Fixed the testing formatting pages and placed them under Miscellaneous.
-
 
 ---
 
@@ -64,6 +69,9 @@ Also, note to self in that footnotes will not show up unless called beforehand.[
 
 [^2]: Testing foot note why are you not showing up??
 
-[GitHub Repository]: https://github.com/CelestialAbyss/Finality-Minecraft-Things
+[Finality Repository]: https://github.com/CelestialAbyss/Finality-Minecraft-Things
+[Finality Tau Repository]: https://github.com/CelestialAbyss/Finality-Tau
+[Finality Genesis Repository]: https://github.com/Project-Vyre/Finality-Genesis
 [Trello Board]: https://trello.com/b/60JjUmBh/finality-development
+[Another Create Wiki]: https://project-vyre.github.io/another-create-wiki/
 [Material Theme Builder (Web)]: https://goo.gle/material-theme-builder-web
