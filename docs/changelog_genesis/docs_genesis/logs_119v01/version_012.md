@@ -10,6 +10,8 @@ nav_order: 7
 
 This update is currently in development and will be published soon.
 
+CraftTweaker will be staying until KubeJS Create is updated, I am not going to use JSON syntax for Sequenced Assembly.
+
 ## Mod update teasers - Cataclysm, by L_Ender
 Lately L_Ender has been releasing very cool teasers. I can't be more excited! 
 
@@ -40,6 +42,9 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 - Removed the duplicate Beacon recipe from CraftTweaker
 - Changed modpack versioning back to x.x.x instead of 19.x.x.x for `Better Compatibility Checker`
 
+## Mod additions
+- Added Backpacked by MrCrayFish
+
 ## Mod removals
 - Removed DefaultOptions
   - KubeJS will handle this.
@@ -63,6 +68,7 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
   - no more bugs pls
 - Updated `Moonlight Lib` to `moonlight-1.19.2-2.2.37-forge.jar` from `moonlight-1.19.2-2.2.36-forge.jar` 
   - improved wood detections. blacklisted some mods
+- Updated `Moonlight Lib` for the 3rd time to `moonlight-1.19.2-2.2.37-forge.jar`. Forgot to paste developer changelog, but it was among the lines of "please no more bugs, i dont want to touch this version again"
 - Updated `Citadel` to `citadel-2.1.4-1.19.jar` from `citadel-2.1.3-1.19.jar`
   - Fixed issue with Terrablender with memory usage on relog causing worlds to be unplayable. This fix is for new worlds only; old worlds should have their level.dat reset using a NBTExplorer program.
 - Updated SehtiPhianCore from `shetiphiancore-forge-1.19.0-3.11.3.01.jar` to `shetiphiancore-forge-1.19.0-3.11.3.02.jar`. Developer changelog is below
@@ -76,6 +82,5 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 - Updated `Architectury` to `architectury-6.5.85-forge.jar`
 - Updated `Bookshelf` to `Bookshelf-Forge-1.19.2-16.3.20.jar` from `Bookshelf-Forge-1.19.2-16.2.18.jar`
 
-# Mod additions
 
 
