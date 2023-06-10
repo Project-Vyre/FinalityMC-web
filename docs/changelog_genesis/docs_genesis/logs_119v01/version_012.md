@@ -44,6 +44,7 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 
 ## Mod additions
 - Added Backpacked by MrCrayFish
+- Added Create Enchantment Industries, it is now compatible with Create 0.5.1.
 
 ## Mod removals
 - Removed DefaultOptions
