@@ -1,30 +1,14 @@
 ---
 layout: default
-title: Version 0.5.9b (1.18.2)
-parent: Finality Iteration 0.5
+title: 0.5.9b (1.18.2)
+parent: Iteration 0.5
 grand_parent: Finality Changelog
 nav_order: 1
 ---
+
 # Version 0.5.9.2b Changelog
 
-In Development
-{: .label .label-yellow }
-
-- Added Tight integration for Tinker's Construct
-- Changed Wither Storm related recipes to use Insanium Essence, not just corruption.
-
-## Mod removals
-- Removed FastSuite
-- Removed FastWorkbench
-- Removed FastFurnace
-- Removed Rotten Creatures
-  - Log spam and the config file does not even work. Explanation for this issue can be found here: https://github.com/teamfusion/rottencreatures/pull/24
-
-## Mod updates
-- Updated Jade to `Jade-1.18.2-forge-5.3.0.jar` from `Jade-1.18.2-forge-5.2.6.jar`
-
-
----
+Changed to version 0.6.0 in preparation for major Create and Terralith changes.
 
 # Version 0.5.9.1b Changelog
 

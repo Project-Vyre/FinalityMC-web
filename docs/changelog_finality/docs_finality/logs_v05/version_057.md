@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Version 0.5.7b (1.18.2)
-parent: Finality Iteration 0.5
+title: 0.5.7b (1.18.2)
+parent: Iteration 0.5
 grand_parent: Finality Changelog
 nav_order: 3
 ---

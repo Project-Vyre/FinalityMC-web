@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Finality Iteration 0.5
+title: Iteration 0.5
 parent: Finality Changelog
 has_children: true
 nav_order: 1
