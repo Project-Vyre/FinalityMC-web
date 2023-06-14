@@ -36,8 +36,11 @@ Dimensional Dungeons has been updated with new rooms, so you may have to re-gene
 - Added tight Create integration for Tinker's Construct.
 - Changed Wither Storm related recipes to use Insanium Essence, not just corruption.
   - This should have been the original recipe.
-- Revised singularity crafting.
+- Revised singularity crafting, the first test is the Andesite Alloy singularity. The other singularities will follow.
   - Now requires dormant singularity cores to start the process.
+  - Now requires Condensed Universal Entropy, which can be extracted from compressing 9 Crying Obsidian blocks.
+
+Basically you have to extract Condensed Universal Entropy from the Crying Obsidian, then use a spout to pour it into a sequenced assembly recipe.
 
 ## Mod updates
 Mod updates in addition to the pre-existing changelog.
@@ -124,6 +127,9 @@ Unfortunately, we're still stuck on Create 0.5.0i as much as I want to update th
   - Log spam
 - Removed Stack Refill
   - Might be responsible for causing the item stacking issues with torches.
+- Removed OpenLoader
+  - KubeJS replaces this mod.
+- Removed Lightspeed
 
 ## Mod updates
 - Updated Jade to `Jade-1.18.2-forge-5.3.0.jar` from `Jade-1.18.2-forge-5.2.6.jar`
