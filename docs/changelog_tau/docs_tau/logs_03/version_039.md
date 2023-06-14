@@ -2,7 +2,8 @@
 layout: default
 title: Finality Tau 0.3.9b
 nav_order: 1
-parent: Finality Tau Changelog
+parent: Tau Iteration 0.3
+grand_parent: Finality Tau Changelog
 permalink: /docs/version_039
 ---
 # v0.3.9.2b Changelog
