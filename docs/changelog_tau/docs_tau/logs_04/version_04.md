@@ -18,6 +18,21 @@ Do not update `Flat Colored Blocks - For Forge` as the newest version still brea
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`
 
+- Fixed ProjectE's Philosopher's Stone being uncraftable with NULL singularities.
+- Fixed Quark configs which nerfs were enabled by default for whatever reason.
+  - Iron Golem's should still drop iron ingots.
+  - Mending has been restored to full functionality.
+- Fixed Cataclysm config. The times below are in ticks.
+  - Bulwark of the Flame Cooldown: 60
+  - Gauntlet of Bulwark: 60
+  - Infernal Forge: 30
+  - The Incinerator: 60
+  - VASW Cooldown: 60
+  - Void Core Cooldown: 60
+  - Void Forge Cooldown: 60
+  - WASW Howitzer Cooldown: 60
+  - WASW Missile Cooldown: 30
+
 ## Updated mods
 - Updated Create from `0.5.0i` to `0.5.1b`.
   - If you have been heavily using water wheels, you may need to make some large water wheels :3
@@ -27,8 +42,8 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`
 - Updated Create Cafe from `createcafe-1.1.6-1.19.2.jar` to `createcafe-1.1.8-1.19.2.jar`
 - Updated Create Central Kitchen from `create_central_kitchen-1.19.2-for-create-0.5.0.i-1.3.5.jar` to `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.7.c.jar`
 - Updated Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.2.0.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar`
-- Updated Create: Alloyed from `alloyed-1.19.2-v1.5.jar` to `alloyed-1.19.2-v1.5a.jar`
-  - Removed as it still causes Create to crash.
+- ~~Updated Create: Alloyed from `alloyed-1.19.2-v1.5.jar` to `alloyed-1.19.2-v1.5a.jar`~~
+  - Removed as it still causes Create to crash, even with the update.
 - Updated Create Slice & Dice from `sliceanddice-forge-2.1.1-forge.jar` to `sliceanddice-forge-2.2.0.jar`
 - Updated Create Stuff & Additions from `create-stuff-additions1.19.2_v2.0.2c.jar` to `create-stuff-additions1.19.2_v2.0.3b.jar`
 - Updated Create Confectionery from `create-confectionery1.19.2_v1.0.8.jar` to `create-confectionery1.19.2_v1.0.9.jar`
