@@ -6,14 +6,18 @@ parent: Iteration 0.6
 has_children: true
 nav_order: 2
 ---
-
-# Version 0.6.0b
+# Version 0.6.0b (Create 0.5.1b)
 
 In Development
 {: .label .label-yellow }
 
 Game Breaking
 {: .label .label-red}
+
+KubeJS Create has been updated to have compatibility with Create 0.5.1b.
+
+# Version 0.6.0b (Create 0.5.0i)
+Last edited on June 11, 2023.
 
 Unfortunately, we're still stuck on Create 0.5.0i as much as I want to update the modpack to support Create 0.5.1b.
 
