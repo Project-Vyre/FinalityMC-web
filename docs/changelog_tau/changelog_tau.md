@@ -11,6 +11,6 @@ Currently the latest publicly accessible version is `0.3.9.1b`.
 
 In development is `0.3.9.2b`.
 
-Version `0.4.0b` is postponed due to KubeJS Create not having compatibility with Create 0.5.1. DO NOT UPDATE CREATE!
+Version `0.4.0b` is now in development because of KubeJS Create compatibility with 0.5.1.
 
 Currently it is on Minecraft 1.19.2.

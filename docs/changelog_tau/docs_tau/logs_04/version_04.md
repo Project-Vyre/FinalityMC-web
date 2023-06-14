@@ -19,6 +19,8 @@ Do not update `Flat Colored Blocks - For Forge` as the newest version still brea
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+Currently there is a mod that keeps saying "This block has functions that are not fully implemented. Stay Tuned!" and I don't know which mod it is. The good thing is that this message only appears on reload or world join then disappears shortly afterward.
+
 - Essential should now zoom in smoothly by default.
 - Fixed ProjectE's Philosopher's Stone being uncraftable with NULL singularities.
 - Fixed Quark configs which nerfs were all enabled by default for whatever reason.
@@ -196,6 +198,8 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 - Create Compat
 - Create Chunkloading
   - Not compatible with Create 0.5.1
+- Hypothermic
+  - Log spam.
 
 ### Vinery - Let's do Wine!
 Vinery has been updated to 1.3.0
