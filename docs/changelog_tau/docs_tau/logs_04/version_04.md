@@ -182,6 +182,7 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 ## Added mods
 - Added Candlelight - Let's do a Candlelight Dinner! by satisfy
 - Added Beachparty - Let's Do Beachparty
+- Added Catalogue 
 
 ## Removed mods
 - OpenLoader
