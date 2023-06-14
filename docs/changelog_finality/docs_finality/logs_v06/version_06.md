@@ -18,6 +18,14 @@ This changelog has been written after I wrote the changelog for Finality Tau, so
 
 Dimensional Dungeons has been updated with new rooms, so you may have to re-generate your dungeons.
 
+## Recipe changes
+- Ars Nouveau spell book tier 1 recipe has been reverted back to using Steeleaf with charorite removed.
+  - 4 Steeleaf tools
+  - 1 Andesite Alloy
+  - 1 Golden Carrot
+  - 1 Book
+  - 1 Amethyst
+
 ## Finality Core changes
 - Added tight Create integration for Tinker's Construct.
 - Changed Wither Storm related recipes to use Insanium Essence, not just corruption.
