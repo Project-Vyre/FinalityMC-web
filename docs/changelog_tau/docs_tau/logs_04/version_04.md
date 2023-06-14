@@ -18,11 +18,17 @@ Do not update `Flat Colored Blocks - For Forge` as the newest version still brea
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+- Essential should now zoom in smoothly by default.
 - Fixed ProjectE's Philosopher's Stone being uncraftable with NULL singularities.
-- Fixed Quark configs which nerfs were enabled by default for whatever reason.
+- Fixed Quark configs which nerfs were all enabled by default for whatever reason.
   - Iron Golem's should still drop iron ingots.
   - Mending has been restored to full functionality.
-- Fixed Cataclysm config. The times below are in ticks.
+- Some other Quark tweaks:
+  - Disabled Quark's Backpack
+  - Disabed Totem of Holding as it is now overriding Enigmatic Legacy's Enigmatic Charm
+  - Disabled Matrix Enchanting
+  - Disabled Pipes
+- Fixed Cataclysm config. The times below are in seconds.
   - Bulwark of the Flame Cooldown: 60
   - Gauntlet of Bulwark: 60
   - Infernal Forge: 30
@@ -32,6 +38,8 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
   - Void Forge Cooldown: 60
   - WASW Howitzer Cooldown: 60
   - WASW Missile Cooldown: 30
+- Added changes to Savage Ender Dragon fight
+  - You'll need some protection, maybe.
 
 ## Updated mods
 - Updated Create from `0.5.0i` to `0.5.1b`.
