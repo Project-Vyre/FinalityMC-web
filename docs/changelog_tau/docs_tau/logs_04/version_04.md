@@ -16,7 +16,7 @@ In Development
 Do not update `Flat Colored Blocks - For Forge` as the newest version still breaks server joining.
 {: .warning }
 
-Updated to `Forge 43.2.14` from `Forge 43.2.11`
+Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 - Fixed ProjectE's Philosopher's Stone being uncraftable with NULL singularities.
 - Fixed Quark configs which nerfs were enabled by default for whatever reason.
