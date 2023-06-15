@@ -22,9 +22,17 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 Currently there are three variants of the modpack, see the table below.
 
 | Name | Description | Recommended Specifications | Supported Version |
-| Finality | The largest variant with 270+ mods. | Desktop grade AMD or Intel CPU paired with 6GB allocated RAM recommended. | `Minecraft 1.18.2`, `Forge 40.2.4`|
-| Finality Tau | The variant that has a focus on horror. | Desktop grade AMD or Intel CPU paired with 5-6GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
-| Finality Genesis | The lightweight variant and has a tighter focus on Create. It is also the only variant to support Create 0.5.1 natively with CraftTweaker. | High performance mobile grade AMD or Intel CPU minimum paired with 4GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
+| [Finality] | The largest variant with 270+ mods. | Desktop grade AMD or Intel CPU paired with 6GB allocated RAM recommended. | `Minecraft 1.18.2`, `Forge 40.2.4`|
+| [Finality Tau] | The variant that has a focus on horror. | Desktop grade AMD or Intel CPU paired with 5-6GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
+| [Finality Genesis] | The lightweight variant and has a tighter focus on Create. | High performance mobile grade AMD or Intel CPU minimum paired with 4GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
+
+## Create 0.5.1 Support
+
+| Name | Create 0.5.1b supported? |
+| ---- | ------------------------ |
+| Finality | 0.6.0b, in development. |
+| Finality Tau | 0.4.0b, in development. |
+| Finality Genesis | 0.1.1b, publicly available. |
 
 You might have a few questions like: What does the b stand for? It currently stands for Beta. Unfortunately, users will not be able to download Alpha builds without having to manually intervene on the CurseForge app or the website, so it will always have the Beta label for now.
 
@@ -69,6 +77,9 @@ Also, note to self in that footnotes will not show up unless called beforehand.[
 
 [^2]: Testing foot note why are you not showing up??
 
+[Finality]: https://www.curseforge.com/minecraft/modpacks/finality
+[Finality Tau]: https://www.curseforge.com/minecraft/modpacks/finality-tau
+[Finality Genesis]: https://www.curseforge.com/minecraft/modpacks/finality-genesis
 [Finality Repository]: https://github.com/CelestialAbyss/Finality-Minecraft-Things
 [Finality Tau Repository]: https://github.com/CelestialAbyss/Finality-Tau
 [Finality Genesis Repository]: https://github.com/Project-Vyre/Finality-Genesis

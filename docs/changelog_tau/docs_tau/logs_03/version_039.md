@@ -5,7 +5,7 @@ nav_order: 1
 parent: Tau Iteration 0.3
 grand_parent: Finality Tau Changelog
 ---
-# v0.3.9.2b Changelog
+# Tau v0.3.9.2b Changelog
 
 Again, I am very sorry if you have not been able to progress through the introductory quests due to the Handheld Crafting Table not being craftable. It has been fixed accordingly.
 
@@ -96,7 +96,7 @@ Minecraft versions: 1.19.4 - 1.19.1, 1.18.2, 1.17.x, 1.16.5 - 1.16.2, 1.15.2, 1.
 
 --- 
 
-# v0.3.9.1b Changelog
+# Tau v0.3.9.1b Changelog
 
 **Downgraded Flat Colored Blocks to fix the invalid recipe serializer error on multiplayer servers. A server pack can now be released.**
 

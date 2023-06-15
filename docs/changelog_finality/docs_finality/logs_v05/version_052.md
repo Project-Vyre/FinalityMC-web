@@ -6,6 +6,7 @@ grand_parent: Finality Changelog
 nav_order: 8
 ---
 # Version 0.5.2a (1.18.2)
+
 ### Client 0.5.2a 
 * Corrected Electron Tube singularity recipe.
 

@@ -5,7 +5,7 @@ nav_order: 1
 parent: Tau Iteration 0.4
 grand_parent: Finality Tau Changelog
 ---
-# Finality 0.4.0b Changelog
+# Finality Tau 0.4.0b Changelog
 
 Game Breaking
 {: .label .label-red }
