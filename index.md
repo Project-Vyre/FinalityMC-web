@@ -22,6 +22,7 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 Currently there are three variants of the modpack, see the table below.
 
 | Name | Description | Recommended Specifications | Supported Version |
+| ---- | ----------- | -------------------------- | ----------------- |
 | [Finality] | The largest variant with 270+ mods. | Desktop grade AMD or Intel CPU paired with 6GB allocated RAM recommended. | `Minecraft 1.18.2`, `Forge 40.2.4`|
 | [Finality Tau] | The variant that has a focus on horror. | Desktop grade AMD or Intel CPU paired with 5-6GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
 | [Finality Genesis] | The lightweight variant and has a tighter focus on Create. | High performance mobile grade AMD or Intel CPU minimum paired with 4GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
@@ -39,6 +40,7 @@ You might have a few questions like: What does the b stand for? It currently sta
 Need help determining if you can play the modpacks? Here's something that might help.
 
 | Intel Desktop CPUs | AMD Desktop CPUs |
+| ------------------ | ---------------- |
 | i7-9700 | AMD Ryzen 7 3700X |
 | i7-9700K | AMD Ryzen 9 7900 |
 | i7-9700F | AMD Ryzen 9 7900X |
@@ -57,6 +59,7 @@ Examples of mobile grade CPUs:
 - Anything with the letter H at the end means High Performance.
 
 | Intel | AMD |
+| ----- | --- |
 | i7-7500U | Ryzen 7 7730U |
 | i7-8850H | Ryzen 7 7745HX | 
 
