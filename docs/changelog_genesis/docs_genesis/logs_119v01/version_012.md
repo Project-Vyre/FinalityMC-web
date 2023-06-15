@@ -15,11 +15,15 @@ Please delete the `scripts` folder in your instance that contains all of the `.z
 
 ## Mod updates
 - Re-added KubeJS Create for 0.5.1 compatibility.
+- Updated KubeJS Create from 
 - Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.b.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar`
 - EnderChests from `enderchests-forge-1.19.0-1.10.1.01.jar` to `enderchests-forge-1.19.0-1.10.1.02.jar`
 - EnderTanks from `endertanks-forge-1.19.0-1.12.1.02.jar` to `endertanks-forge-1.19.0-1.12.1.03.jar`
 - FastWorkbench from `FastWorkbench-1.19.2-7.1.2.jar` to `FastWorkbench-1.19.2-7.1.3.jar`
 - Quark from `Quark-3.4-402.jar` to `Quark-3.4-404.jar`
+- Updated Quark again from `Quark-3.4-404.jar` to `Quark-3.4-405.jar`
+- Updated Tempad from `tempad-forge-1.19.2-1.4.4.jar` to `tempad-forge-1.19.2-1.4.5.jar`
+  - Fixed mod incompatibility
 - Mog Grinding Utils from `mob_grinding_utils-1.19.2-0.4.49.jar` to `mob_grinding_utils-1.19.2-0.4.50.jar`
   - Fixed interaction with Torchmaster.
 - Lootr (Forge) from `lootr-1.19-0.4.23.60.jar` to `lootr-1.19-0.4.24.61.jar`

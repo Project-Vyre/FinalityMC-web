@@ -48,6 +48,11 @@ Currently there is a mod that keeps saying "This block has functions that are no
   - If you have been heavily using water wheels, you may need to make some large water wheels :3
 - Updated Quark from `Quark-3.4-400.jar` to `Quark-3.4-404.jar`
   - Fixes quirkiness with Create's new Netherite Backtank not functioning as intended. Please check the developer's changelog notes.
+- Updated Quark from `Quark-3.4-404.jar` to `Quark-3.4-405.jar`
+  - Added config options to change which tool types pickarangs can have
+  - Echorangs can now break sculk blocks (normal pickarangs still can't)
+  - Fixed broken simple harvesting
+  - Pickarangs now also have the hoe tool type
 - Updated Create Crafts & Additions from `createaddition-1.19.2-20230507a.jar` to `createaddition-1.19.2-20230527a.jar`
 - Updated Create Cafe from `createcafe-1.1.6-1.19.2.jar` to `createcafe-1.1.8-1.19.2.jar`
 - Updated Create Central Kitchen from `create_central_kitchen-1.19.2-for-create-0.5.0.i-1.3.5.jar` to `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.7.c.jar`
@@ -64,6 +69,11 @@ Currently there is a mod that keeps saying "This block has functions that are no
   - Compatibility with Create 0.5.1.
 - `vinery-forge-1.2.10.jar` to `vinery-forge-1.3.0.jar`
   - I have pasted the developer's entire changelog below. please read as certain items have been removed and will result in the loss of certain items.
+- Updated Vinery, again. `vinery-forge-1.3.0.jar` to `vinery-forge-1.3.1.jar`
+  - Increased the size of the straw hat so it doesn’t interfere with the 2. Skinlayer
+  - Fixed a faulty tag for glass panes 
+  - Fixed the an Issue caused Wine Bottles not displaying correctly inside Wine Racks
+  - Added tooltips for WoodFiredOven and Stove
 - Updated Supplementaries from `supplementaries-1.19.2-2.3.10.jar` to `supplementaries-1.19.2-2.3.17.jar`
 - Updated Ars Nouveau from `ars_nouveau-1.19.2-3.13.4.jar` to  `ars_nouveau-1.19.2-3.15.1.jar`
   - Fixed log spam
@@ -75,12 +85,16 @@ Currently there is a mod that keeps saying "This block has functions that are no
   - Decoys in jars will attract nearby mobs (Jarva)
   - Fixes burst not targeting entiites (Alex)
   - Adds recipe to duplicate and copy warp scrolls (Alex)
+- Updated Ars Nouveau, again. `ars_nouveau-1.19.2-3.16.0.jar` to `ars_nouveau-1.19.2-3.16.1.jar`
+  - Fix crash with familiar starbuncles (Alex)
+  - Fix crash with Interact on non-living entities
 - Updated Dark Utilities from `DarkUtilities-Forge-1.19.2-13.1.7.jar` to `DarkUtilities-Forge-1.19.2-13.1.9.jar`
 - Updated Dimensional Dungeons from `dimdungeons-168-forge-1.19.0.jar` to `dimdungeons-177-forge-1.19.0.jar`
   - Ultimate Feature Parity Version - 1.18.2, 1.19.2, 1.19.4, and 1.20!
     - Added two new tower rooms.
     - Theme keys now appear in advanced dungeons.
     - New data blocks for custom room builders. ("SummonKeyholder" and "LockWithCode")
+- Updated Tempad from `tempad-forge-1.19.2-1.4.4.jar` to `tempad-forge-1.19.2-1.4.5.jar`
 - Updated EnderChests, EnderTanks and ShetiPhianCore
   - `enderchests-forge-1.19.0-1.10.1.01.jar` to `enderchests-forge-1.19.0-1.10.1.02.jar`
   - `endertanks-forge-1.19.0-1.12.1.02.jar` to `endertanks-forge-1.19.0-1.12.1.03.jar`
@@ -163,27 +177,31 @@ Currently there is a mod that keeps saying "This block has functions that are no
 - Updated Mob Grinding Utils from `mob_grinding_utils-1.19.2-0.4.49.jar` to `mob_grinding_utils-1.19.2-0.4.50.jar`
 - Updated Torchmaster from `torchmaster-19.2.0.jar` to `torchmaster-19.2.90.jar`
 - Updated Mahou Tsukai from `mahoutsukai-1.19.2-v1.34.44.jar` to `mahoutsukai-1.19.2-v1.34.45.jar`
+- Updated Mahou Tsukai again, from `mahoutsukai-1.19.2-v1.34.45.jar` to `mahoutsukai-1.19.2-v1.34.46.jar`
+  - fix bug with mystic staff mana scaling config
+  - update russian and BR portuguese translations
 - Updated Sophisticated Backpacks, Sophisticated Storage and Sophisticated Core
   - `sophisticatedstorage-1.19.2-0.8.5.402.jar` to `sophisticatedstorage-1.19.2-0.8.28.453.jar`
   - `sophisticatedbackpacks-1.19.2-3.18.47.836.jar` to `sophisticatedbackpacks-1.19.2-3.18.50.849.jar`
   - `sophisticatedcore-1.19.2-0.5.57.275.jar` to `sophisticatedcore-1.19.2-0.5.70.316.jar`
-
 
 ## Updated libraries and utilities
 - Updated Architectury from `architectury-6.5.82-forge.jar` to `architectury-6.5.85-forge.jar`
 - Cucumber Library from `Cucumber-1.19.2-6.0.6.jar` to `Cucumber-1.19.2-6.0.7.jar`
 - CreativeCore from `CreativeCore_FORGE_v2.9.3_mc1.19.2.jar` to `CreativeCore_FORGE_v2.9.4_mc1.19.2.jar`
 - Updated Collective from `collective-1.19.2-6.53.jar` to `collective-1.19.2-6.57.jar`
+- Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.5.jar` to `kubejs-create-forge-1902.2.4-build.9.jar`
 - FTB Backups from `ftbbackups2-forge-1.19.2-1.0.18.jar` to `ftbbackups2-forge-1.19.2-1.0.19.jar`
 - Updated Lootr (Forge) from `lootr-1.19-0.4.23.60.jar` to `lootr-1.19-0.4.24.61.jar`
 - Updated Moonlight Lib from `moonlight-1.19.2-2.2.34-forge.jar` to `moonlight-1.19.2-2.2.38-forge.jar`
-- Updated Puzzles Lib from `PuzzlesLib-v4.4.0-1.19.2-Forge.jar` to `PuzzlesLib-v4.4.1-1.19.2-Forge.jar`
+- Updated Puzzles Lib from `PuzzlesLib-v4.4.0-1.19.2-Forge.jar` to `PuzzlesLib-v4.4.2-1.19.2-Forge.jar`
 - Updated Open Parties and Claims from `open-parties-and-claims-forge-1.19.2-0.17.3.jar` to `open-parties-and-claims-forge-1.19.2-0.17.5.jar`
 - Updated datapacks for IDAS and Integrated Stronghold to support compatibility with Create 0.5.1
 
 ## Added mods
 - Added Candlelight - Let's do a Candlelight Dinner! by satisfy
-- Added Beachparty - Let's Do Beachparty
+- ~~Added Beachparty - Let's Do Beachparty~~
+  - Currently has an issue where the message "This block has functions that are not yet fully implemented. Stay Tuned!" keeps showing on /reload and world join.
 - Added Catalogue 
 
 ## Removed mods
