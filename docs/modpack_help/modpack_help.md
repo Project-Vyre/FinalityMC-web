@@ -3,7 +3,6 @@ layout: default
 title: Modpack Help
 nav_order: 2
 has_children: true
-permalink: /docs/modpack_help
 ---
 This is where you will find some general advice on how to progress through the modpack.
 

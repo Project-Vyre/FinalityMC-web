@@ -4,7 +4,6 @@ title: Finality Tau 0.4.0b
 nav_order: 1
 parent: Tau Iteration 0.4
 grand_parent: Finality Tau Changelog
-permalink: /docs/version_04
 ---
 # Finality 0.4.0b Changelog
 

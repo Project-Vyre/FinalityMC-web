@@ -2,7 +2,6 @@
 title: License Info
 layout: default
 nav_order: 9
-permalink: /docs/license_info
 ---
 # License Info
 License clarifications.

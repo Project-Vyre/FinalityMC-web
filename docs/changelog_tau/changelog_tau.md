@@ -3,7 +3,6 @@ layout: default
 title: Finality Tau Changelog
 nav_order: 5
 has_children: true
-permalink: /docs/changelog_tau
 ---
 This is the changelog section for the horror focused variant of Finality.
 

@@ -5,6 +5,8 @@ color_scheme: vyre_theme
 
 url: https://just-the-docs.github.io
 
+permalink: pretty
+
 # Aux links for the upper right navigation
 aux_links:
   Modpack Download: https://www.curseforge.com/minecraft/modpacks/finality

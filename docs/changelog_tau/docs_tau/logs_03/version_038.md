@@ -4,7 +4,6 @@ title: Finality Tau 0.3.8b
 nav_order: 1
 parent: Tau Iteration 0.3
 grand_parent: Finality Tau Changelog
-permalink: /docs/version_038
 ---
 # v0.3.8b Changelog
 Now (in the process of being approved by CF) released, but I may have forgotten some recipes. Just trying to get this out as soon as possible. Also, FTB Quests now requires `Forge 43.2.8` or higher now, so hopefully there aren't any broken interactions between mods. I read the changelogs and I will first release the 1.19.2 variant of the modpack on `Forge 43.2.11`. If there are any issues I will revert it back to `Forge 43.29`.

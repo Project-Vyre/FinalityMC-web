@@ -3,7 +3,6 @@ layout: default
 title: Tome of Finality
 nav_order: 3
 has_children: true
-permalink: /docs/tome_patchouli
 ---
 This is where you will find advice that is more specific on how to progress through the modpack.
 

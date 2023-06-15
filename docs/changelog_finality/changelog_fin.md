@@ -3,7 +3,6 @@ layout: default
 title: Finality Changelog
 nav_order: 4
 has_children: true
-permalink: /docs/changelog_finality
 ---
 {: .warning }
 This modpack is actively in development and updates may be published every few days, always maintain backups of your builds with Create's Schematic and Quill item in-game if possible.
