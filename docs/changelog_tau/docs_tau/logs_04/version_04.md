@@ -46,6 +46,8 @@ Currently there is a mod that keeps saying "This block has functions that are no
 ## Updated mods
 - Updated Create from `0.5.0i` to `0.5.1b`.
   - If you have been heavily using water wheels, you may need to make some large water wheels :3
+- Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.19.1-1.19.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.19.1-1.19.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder. Good thing I contacted Keksuccino about this XD
+  - Fixed: Drippy keeps adding new entries to the `config/fancymenu/customizablemenus.txt` file on every game launch
 - Updated Quark from `Quark-3.4-400.jar` to `Quark-3.4-404.jar`
   - Fixes quirkiness with Create's new Netherite Backtank not functioning as intended. Please check the developer's changelog notes.
 - Updated Quark from `Quark-3.4-404.jar` to `Quark-3.4-405.jar`

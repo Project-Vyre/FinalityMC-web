@@ -45,6 +45,8 @@ Basically you have to extract Condensed Universal Entropy from the Crying Obsidi
 ## Mod updates
 Mod updates in addition to the pre-existing changelog.
 
+- Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.18.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.18.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder. Good thing I contacted Keksuccino about this XD
+  - Fixed: Drippy keeps adding new entries to the `config/fancymenu/customizablemenus.txt` file on every game launch
 - Updated Every Compat (Wood Good) to `everycomp-1.18.2-1.5.18.jar` from `everycomp-1.18.2-1.5.17.jar`
   - REQUIRED for compatibility with Create 0.5.1b.
 - Updated Create to `0.5.1b` `create-1.18.2-0.5.1.b.jar` from `0.5.0i` `create-1.18.2-0.5.0.i.jar`
