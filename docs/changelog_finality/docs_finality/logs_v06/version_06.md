@@ -90,7 +90,7 @@ Very sorry that I switched it around over here
 - Updated Dark Utilities from `DarkUtilities-Forge-1.18.2-10.1.7.jar` to `DarkUtilities-Forge-1.18.2-10.1.6.jar`
 - Updated Grimoire of Gaia from `GrimoireOfGaia4-1.18.2-2.0.0-alpha.37.jar` to `GrimoireOfGaia4-1.18.2-2.0.0-alpha.38.jar`
 - Updated Gateways to Eternity from `GatewaysToEternity-1.18.2-2.2.1.jar` to `GatewaysToEternity-1.18.2-2.3.0.jar`
-- Updated Mahou Tsukai from `mahoutsukai-1.18.2-v1.34.44.jar` to `mahoutsukai-1.18.2-v1.34.45.jar`
+- Updated Mahou Tsukai from `mahoutsukai-1.18.2-v1.34.44.jar` to `mahoutsukai-1.18.2-v1.34.45.jar` to `mahoutsukai-1.18.2-v1.34.46.jar` as of 6/15/2023
 - Updated Mob Grinding Utils from `mob_grinding_utils-1.18.2-0.4.49.jar` to `mob_grinding_utils-1.18.2-0.4.50.jar`
 - Updated Torchmaster from `torchmaster-18.1.0.jar` to `torchmaster-18.2.0.jar`
 - Updated Mystical Agriculture from `MysticalAgriculture-1.18.2-5.1.4.jar` to `MysticalAgriculture-1.18.2-5.1.5.jar`
