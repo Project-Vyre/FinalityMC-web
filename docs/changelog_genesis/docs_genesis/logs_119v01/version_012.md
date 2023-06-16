@@ -14,8 +14,10 @@ Please delete the `scripts` folder in your instance that contains all of the `.z
 - Forgot to add Torchmaster, so it's back in.
 
 ## Mod updates
-- Re-added KubeJS Create for 0.5.1 compatibility.
-- Updated KubeJS Create from 
+- Re-added KubeJS Create for 0.5.1 compatibility, ensure that `kubejs-create-forge-1902.2.4-build.5.jar` or higher is installed.
+- Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.5.jar` to `kubejs-create-forge-1902.2.4-build.9.jar`
+- Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.19.1-1.19.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.19.1-1.19.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder.
+  - Fixed: Drippy keeps adding new entries to the `config/fancymenu/customizablemenus.txt` file on every game launch
 - Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.b.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar`
 - EnderChests from `enderchests-forge-1.19.0-1.10.1.01.jar` to `enderchests-forge-1.19.0-1.10.1.02.jar`
 - EnderTanks from `endertanks-forge-1.19.0-1.12.1.02.jar` to `endertanks-forge-1.19.0-1.12.1.03.jar`
