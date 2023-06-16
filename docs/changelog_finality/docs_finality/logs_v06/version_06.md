@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Version 0.6.0b
 grand_parent: Finality Changelog
 parent: Iteration 0.6
@@ -47,6 +47,8 @@ Mod updates in addition to the pre-existing changelog.
 
 - Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.18.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.18.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder. Good thing I contacted Keksuccino about this XD
   - Fixed: Drippy keeps adding new entries to the `config/fancymenu/customizablemenus.txt` file on every game launch
+- Updated Curios API (Forge) from `curios-forge-1.18.2-5.0.9.0.jar` to `curios-forge-1.18.2-5.0.9.1.jar`
+  - Fixed possible NullPointerException crash from SlotResult
 - Updated Every Compat (Wood Good) to `everycomp-1.18.2-1.5.18.jar` from `everycomp-1.18.2-1.5.17.jar`
   - REQUIRED for compatibility with Create 0.5.1b.
 - Updated Create to `0.5.1b` `create-1.18.2-0.5.1.b.jar` from `0.5.0i` `create-1.18.2-0.5.0.i.jar`
@@ -76,6 +78,7 @@ Mod updates in addition to the pre-existing changelog.
   - Sophisticated Backpacks from `sophisticatedbackpacks-1.18.2-3.18.48.835.jar` to `sophisticatedbackpacks-1.18.2-3.18.52.846.jar` 
   - Sophisticated Storage from `sophisticatedstorage-1.18.2-0.8.5.401.jar` to `sophisticatedstorage-1.18.2-0.8.26.454.jar`
   - Sophisticated Core from `sophisticatedcore-1.18.2-0.5.56.273.jar` to `sophisticatedcore-1.18.2-0.5.69.315.jar`
+  - Updated Sophisticated Core again from `sophisticatedcore-1.18.2-0.5.69.315.jar` to `sophisticatedcore-1.18.2-0.5.70.320.jar` - 6.16.23
 - Updated Dimensional Dungeons to `dimdungeons-177-forge-1.18.2.jar` from `dimdungeons-174-forge-1.18.2.jar`.
   - Ultimate Feature Parity Version - 1.18.2, 1.19.2, 1.19.4, and 1.20!
     - Added two new tower rooms.

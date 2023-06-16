@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Finality Tau 0.3.8b
 nav_order: 1
 parent: Tau Iteration 0.3

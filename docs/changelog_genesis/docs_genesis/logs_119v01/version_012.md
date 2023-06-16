@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Finality Genesis Version 0.1.2b (1.19.2)
+layout: minimal
+title: 0.1.2b (1.19.2)
 parent: Iteration 0.1
 grand_parent: Finality Genesis Changelog
 nav_order: 7

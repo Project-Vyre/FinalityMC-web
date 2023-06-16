@@ -1,11 +1,14 @@
 ---
-layout: default
+layout: minimal
 title: Finality Tau 0.3.9b
 nav_order: 1
 parent: Tau Iteration 0.3
 grand_parent: Finality Tau Changelog
 ---
 # Tau v0.3.9.2b Changelog
+
+{: .important }
+Finality Tau 0.3.9.2b has been changed to 0.4.0b.
 
 Again, I am very sorry if you have not been able to progress through the introductory quests due to the Handheld Crafting Table not being craftable. It has been fixed accordingly.
 

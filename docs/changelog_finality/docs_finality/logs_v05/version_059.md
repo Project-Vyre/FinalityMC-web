@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: 0.5.9b (1.18.2)
 parent: Iteration 0.5
 grand_parent: Finality Changelog
