@@ -175,6 +175,8 @@ Currently there is a mod that keeps saying "This block has functions that are no
     + Added large silver ores to crystal canyons
     + Made silver ores spawn in a smaller size
 - Updated Mystical Agriculture from `MysticalAgriculture-1.19.2-6.0.8.jar` to `MysticalAgriculture-1.19.2-6.0.9.jar`
+- Updated Mystical Agriculture again from `MysticalAgriculture-1.19.2-6.0.9.jar` to `MysticalAgriculture-1.19.2-6.0.10.jar`
+  - Fix Awakened Supremium Leggings recipe not transferring NBT
 - Updated Mystical Agradditions from `MysticalAgradditions-1.19.2-6.0.2.jar` to `MysticalAgradditions-1.19.2-6.0.3.jar`
 - Updated Mob Grinding Utils from `mob_grinding_utils-1.19.2-0.4.49.jar` to `mob_grinding_utils-1.19.2-0.4.50.jar`
 - Updated Torchmaster from `torchmaster-19.2.0.jar` to `torchmaster-19.2.90.jar`
@@ -186,6 +188,10 @@ Currently there is a mod that keeps saying "This block has functions that are no
   - `sophisticatedstorage-1.19.2-0.8.5.402.jar` to `sophisticatedstorage-1.19.2-0.8.28.453.jar`
   - `sophisticatedbackpacks-1.19.2-3.18.47.836.jar` to `sophisticatedbackpacks-1.19.2-3.18.50.849.jar`
   - `sophisticatedcore-1.19.2-0.5.57.275.jar` to `sophisticatedcore-1.19.2-0.5.70.316.jar`
+    - Updated Sophisticated Core again from `sophisticatedcore-1.19.2-0.5.70.316.jar` to `sophisticatedcore-1.19.2-0.5.71.319.jar`
+- Updated The Graveyard from `The_Graveyard_2.5.2_(FORGE)_for_1.19.2.jar` to `The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar`
+  - Fixed /kill not killing nameless hanged
+- Updated Baubley Heart Canisters from `baubley-heart-canisters-1.19.2-2.0.0.jar` to `baubley-heart-canisters-1.19.2-2.1.0.jar`
 
 ## Updated libraries and utilities
 - Updated Architectury from `architectury-6.5.82-forge.jar` to `architectury-6.5.85-forge.jar`

@@ -88,6 +88,9 @@ Mod updates in addition to the pre-existing changelog.
   - Required for Create 0.5.1b compatibility.
 - Updated Integrated Stronghold to `integrated_stronghold_forge-1.0.1+1.18.2.jar` from `integrated_stronghold_forge-1.0.2+1.18.2.jar`
   - Required for Create 0.5.1b compatibility. 
+- Updated Lootr from `lootr-1.18.2-0.3.24.61.jar` to `lootr-1.18.2-0.3.25.62.jar`
+- Updated The Graveyard
+  - Fixed /kill not killing nameless hanged
 
 Very sorry that I switched it around over here
 - Updated Dark Utilities from `DarkUtilities-Forge-1.18.2-10.1.7.jar` to `DarkUtilities-Forge-1.18.2-10.1.6.jar`
