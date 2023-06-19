@@ -47,6 +47,7 @@ Basically you have to extract Condensed Universal Entropy from the Crying Obsidi
 ## Mod updates
 Mod updates in addition to the pre-existing changelog.
 
+- Updated Just Enough Items from `jei-1.18.2-forge-10.2.1.1004.jar` to `jei-1.18.2-forge-10.2.1.1005.jar`
 - Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.18.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.18.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder. Good thing I contacted Keksuccino about this XD
   - Fixed: Drippy keeps adding new entries to the `config/fancymenu/customizablemenus.txt` file on every game launch
 - Updated Curios API (Forge) from `curios-forge-1.18.2-5.0.9.0.jar` to `curios-forge-1.18.2-5.0.9.1.jar`
