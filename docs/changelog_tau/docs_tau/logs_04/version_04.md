@@ -16,6 +16,9 @@ In Development
 Do not update `Flat Colored Blocks - For Forge` as the newest version still breaks server joining.
 {: .warning }
 
+{: .highlight }
+All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.19.23
+
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 Currently there is a mod that keeps saying "This block has functions that are not fully implemented. Stay Tuned!" and I don't know which mod it is. The good thing is that this message only appears on reload or world join then disappears shortly afterward.

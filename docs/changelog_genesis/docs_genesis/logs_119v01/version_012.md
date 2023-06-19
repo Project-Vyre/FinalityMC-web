@@ -10,7 +10,11 @@ KubeJS Create has been updated to support Create 0.5.1.
 
 Please delete the `scripts` folder in your instance that contains all of the `.zs` files as they are no longer necessary.
 
+{: .highlight }
+All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.19.23
+
 ## Mod additions
+- Forgot to add Catalogue, so it's back in as well.
 - Forgot to add Torchmaster, so it's back in.
 
 ## Mod updates
@@ -18,6 +22,9 @@ Please delete the `scripts` folder in your instance that contains all of the `.z
 - Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.5.jar` to `kubejs-create-forge-1902.2.4-build.9.jar`
 - Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.19.1-1.19.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.19.1-1.19.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder. Good thing I contacted Keksuccino about this XD
   - Fixed: Drippy keeps adding new entries to the `config/fancymenu/customizablemenus.txt` file on every game launch
+- Updated Baubley Heart Canisters from `baubley-heart-canisters-1.19.2-2.0.0.jar` to `baubley-heart-canisters-1.19.2-2.1.0.jar`
+  - Added Tooltips for Vitality Blade
+  - Added new Healing Patch Mechanic from 1.20.1 version (Back-Ported)
 - Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.b.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar`
 - EnderChests from `enderchests-forge-1.19.0-1.10.1.01.jar` to `enderchests-forge-1.19.0-1.10.1.02.jar`
 - EnderTanks from `endertanks-forge-1.19.0-1.12.1.02.jar` to `endertanks-forge-1.19.0-1.12.1.03.jar`
@@ -26,16 +33,27 @@ Please delete the `scripts` folder in your instance that contains all of the `.z
 - Updated Quark again from `Quark-3.4-404.jar` to `Quark-3.4-405.jar`
 - Updated Tempad from `tempad-forge-1.19.2-1.4.4.jar` to `tempad-forge-1.19.2-1.4.5.jar`
   - Fixed mod incompatibility
+- Updated Supplementaries again from `supplementaries-1.19.2-2.3.17.jar` to `supplementaries-1.19.2-2.3.18.jar`. Mod author changelog is below.
+  - fixed yet anothe recent server issue. pls no more bugs now i dont want to touch this version ever again
 - Mog Grinding Utils from `mob_grinding_utils-1.19.2-0.4.49.jar` to `mob_grinding_utils-1.19.2-0.4.50.jar`
   - Fixed interaction with Torchmaster.
 - Lootr (Forge) from `lootr-1.19-0.4.23.60.jar` to `lootr-1.19-0.4.24.61.jar`
 - Mystical Agriculture from `MysticalAgriculture-1.19.2-6.0.8.jar` to `MysticalAgriculture-1.19.2-6.0.9.jar`
+- Updated Mystical Agriculture again, from `MysticalAgriculture-1.19.2-6.0.9.jar` to `MysticalAgriculture-1.19.2-6.0.10.jar`
+  - Release 6.0.10 for MC 1.19.2
+  - Changes:
+    - Fix Awakened Supremium Leggings recipe not transferring NBT
 - Mystical Agradditions from `MysticalAgradditions-1.19.2-6.0.2.jar` to `MysticalAgradditions-1.19.2-6.0.3.jar`
+- Updated The Graveyard from `The_Graveyard_2.5.2_(FORGE)_for_1.19.2.jar` to `The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar`. Also I have no idea why the .jar file has two .. in the file name. Most likley an unintended typo.
+  - Fixed /kill not killing nameless hanged
 - Open Parties and Claims from `open-parties-and-claims-forge-1.19.2-0.17.3.jar` to `open-parties-and-claims-forge-1.19.2-0.17.5.jar`
-
+- Updated Xaero's Minimap again, from `XaerosWorldMap_1.30.3_Forge_1.19.1.jar` to `XaerosWorldMap_1.30.6_Forge_1.19.1.jar`
 
 ## Lib updates
 - Collective from `collective-1.19.2-6.53.jar` to `collective-1.19.2-6.57.jar`
+- Updated Collective from `collective-1.19.2-6.57.jar` to `collective-1.19.2-6.59.jar`
+  - Fixed FABFunctions scanning unloaded chunks.
+  - Improved chat mixin compatibility, thanks to @SCPRedMage on Github!
 - Cucumber Library from `Cucumber-1.19.2-6.0.6.jar` to `Cucumber-1.19.2-6.0.7.jar`
 - ShetiPhianCore from `shetiphiancore-forge-1.19.0-3.11.3.02.jar` to `shetiphiancore-forge-1.19.0-3.11.3.03.jar`
 - Moonlight Lib from `moonlight-1.19.2-2.2.37-forge.jar` to `moonlight-1.19.2-2.2.38-forge.jar`

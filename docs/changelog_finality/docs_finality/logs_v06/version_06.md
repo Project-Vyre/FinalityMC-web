@@ -11,6 +11,8 @@ nav_order: 2
 In Development
 {: .label .label-yellow }
 
+{: .highlight }
+All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.19.23
 
 KubeJS Create has been updated to have compatibility with Create 0.5.1b.
 
