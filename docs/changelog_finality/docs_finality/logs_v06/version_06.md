@@ -33,6 +33,9 @@ Dimensional Dungeons has been updated with new rooms, so you may have to re-gene
   - 2x Tertium Essence (instead of ProjectE dark matter)
   - 3x Precision Mechanism
   - 1 Totem of Undying
+- Re-enabled Mystical Agriculture's furnaces
+  - Yes, all 5 tiers.
+- Re-enabled ProjectE's furnaces
 
 ## Finality Core changes
 - Added tight Create integration for Tinker's Construct.
