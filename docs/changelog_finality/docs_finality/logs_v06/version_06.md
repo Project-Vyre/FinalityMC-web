@@ -47,6 +47,31 @@ Dimensional Dungeons has been updated with new rooms, so you may have to re-gene
 
 Basically you have to extract Condensed Universal Entropy from the Crying Obsidian, then use a spout to pour it into a sequenced assembly recipe.
 
+## Mod updates pt. 2
+6/25/2023
+Just going to separate updates for mods now into multiple parts in case it gets overwhelming to keep track of if a mod has been updated multiple times and has been documented here. I can't keep pasting changelogs for each update, so you will have to find the mod author changelogs yourself.
+
+| Mod name | Updated from | Updated to | Changelog (if applicable) |
+| -------- | ------------ | ---------- | ------------------------- |
+| CodeChicken Lin 1.8.+ | CodeChickenLib-1.18.2-4.1.3.480-universal.jar | CodeChickenLib-1.18.2-4.1.4.488-universal.jar | https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/4607274 |
+| Collective | collective-1.18.2-6.57.jar | collective-1.18.2-6.62.jar | https://www.curseforge.com/minecraft/mc-mods/collective/files/4601901 |
+| Create Central Kitchen | create_central_kitchen-1.18.2-for-create-0.5.1.b-1.3.7.c.jar | create_central_kitchen-1.18.2-for-create-0.5.1.b-1.3.7.d.jar | https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen/files/4599771 |
+| Create Crafts & Additions | createaddition-1.18.2-20230527a.jar | createaddition-1.18.2-20230623a.jar | https://www.curseforge.com/minecraft/mc-mods/createaddition/files/4605624 |
+| Create Enchantment Industry | create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.c.jar | create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.5.jar | https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry/files/4604040 |
+| Lightspeed - Launch optimizations | lightspeed-1.18.2-1.0.4.jar | lightspeed-1.18.2-1.0.5.jar | https://www.curseforge.com/minecraft/mc-mods/lightspeedmod/files/4594803 |
+| Lootr (Forge) | lootr-1.18.2-0.3.25.62.jar | lootr-1.18.2-0.3.25.63.jar | https://www.curseforge.com/minecraft/mc-mods/lootr/files/4596362 |
+| Mahou Tsukai | mahoutsukai-1.18.2-v1.34.46.jar | mahoutsukai-1.18.2-v1.34.50.jar | https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai/files/4606624 |
+| Occultism | occultism-1.18.2-1.80.4.jar | occultism-1.18.2-1.80.12.jar | https://www.curseforge.com/minecraft/mc-mods/occultism/files/4607182 |
+| Open Parties and Claims | open-parties-and-claims-forge-1.18.2-0.17.5.jar | open-parties-and-claims-forge-1.18.2-0.17.6.jar | https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/4603053 |
+| Puzzles Lib [Forge & Fabric] | PuzzlesLib-v3.4.5-1.18.2-Forge.jar | PuzzlesLib-v3.4.6-1.18.2-Forge.jar | https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/4597628 |
+| Re-chiseled | rechiseled-1.0.13-forge-mc1.18.jar | rechiseled-1.1.0a-forge-mc1.18.jar | https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/4598514 |
+| Sophisticated Backpacks | sophisticatedbackpacks-1.18.2-3.18.52.846.jar | sophisticatedbackpacks-1.18.2-3.18.53.859.jar | https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4608437 |
+| Sophisticated Core | sophisticatedcore-1.18.2-0.5.70.320.jar | sophisticatedcore-1.18.2-0.5.72.331.jar | https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/4608423 |
+| Sophisticated Storage | sophisticatedstorage-1.18.2-0.8.26.454.jar | sophisticatedstorage-1.18.2-0.8.28.481.jar | https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/4608435 |
+| SuperMartijn642's Core Lib | supermartijn642corelib-1.1.9a-forge-mc1.18.jar | supermartijn642corelib-1.1.10-forge-mc1.18.jar | https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/4601824 |
+| Xaero's Minimap | Xaeros_Minimap_23.4.4_Forge_1.18.2.jar | Xaeros_Minimap_23.5.0_Forge_1.18.2.jar | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4593177 |
+| Xaero's World Map | XaerosWorldMap_1.30.3_Forge_1.18.2.jar | XaerosWorldMap_1.30.6_Forge_1.18.2.jar | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4594980 |
+
 ## Mod updates
 Mod updates in addition to the pre-existing changelog.
 
