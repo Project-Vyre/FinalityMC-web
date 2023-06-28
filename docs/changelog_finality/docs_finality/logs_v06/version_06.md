@@ -12,13 +12,27 @@ In Development
 {: .label .label-yellow }
 
 {: .highlight }
-All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.19.23
+All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.28.23
 
-KubeJS Create has been updated to have compatibility with Create 0.5.1b.
+- Updated Forge from 40.2.8 to 40.2.9.
+- KubeJS Create has been updated to have compatibility with Create 0.5.1b.
 
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
-Dimensional Dungeons has been updated with new rooms, so you may have to re-generate your dungeons.
+## 6.28.2023 Mod updates
+- Updated Max Health Fix from `MaxHealthFix-Forge-1.18.2-5.0.1.jar` to `MaxHealthFix-Forge-1.18.2-5.0.4.jar`
+  - Fix mobs being unintentionally revived in some circumstances. ([8eb3736](https://github.com/Darkhax-Minecraft/Max-Health-Fix/commit/8eb3736b74264118bf874301a7250bdfae1ab0df))
+  - https://www.curseforge.com/minecraft/mc-mods/max-health-fix/files/4609586
+- Updated Dungeon Crawl from `DungeonCrawl-1.18.2-2.3.12.jar` to `DungeonCrawl-1.18.2-2.3.14.jar`
+  - `[2.3.14]` Fixed an issue causing the biome used for the dungeon type/theme selection to be probed not at the dungeon entrance's location but at an offset from it
+  - https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/files/4612221
+
+Here are some important things to note:
+- Dimensional Dungeons has been updated with new rooms, so you may have to re-generate your dungeons.
+- ~~JEI has been replaced with REI.~~ Edit: Apotheosis requires JEI 9.999999999999999999 so I can't replace JEI with REI. These changes have been reversed.
+  - ~~Just a change of pace as I got tired of JEI's rigidity even though it is faster than REI. Don't worry, everything still works as intended and you may make use of REI's features. You might even like how nice it is as well. Did I mention REI has dark mode built in?~~
+    - ~~Just Enough Resources removed.~~
+    - ~~Just Enough Professions removed.~~
 
 ## Recipe changes
 - Ars Nouveau spell Book Tier 1 recipe has been reverted back to using Steeleaf with charorite removed.
