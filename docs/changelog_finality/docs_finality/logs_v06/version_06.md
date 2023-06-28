@@ -20,6 +20,32 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
 ## 6.28.2023 Mod updates
+- Updated Ice and Fire from `iceandfire-2.1.12-1.18.2-beta2.jar` to `iceandfire-2.1.12-1.18.2.jar` https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/4614465
+  - new riding system, courtesy of quinnfrost
+  - added Terralith and Biomes You'll Go biome support
+  - removed dimension config entries since they don't really serve a purpose anymore
+  - split configs for dragon related feature generation into cave and non cave configs
+  - faster swim for ice and fire dragons
+  - ice dragons are now unaffected by the bubble columns
+  - fire dragons are now unaffected by the soul sands
+  - fixed dragons in water no longer float forwards
+  - fixed shallow water blocking dragon movement
+  - fixed larger dragons not stepping up more blocks
+  - fixed debug pathfind node rendering failed to update properly in dedicated server mode
+  - fixed move wrongly error
+  - fixed camera not adjust accordingly when auto 3rd person is disabled
+  - fixed null error for riding swimming mounts
+  - fixed flight on servers might get kicked
+  - fixed rider dismount position
+  - fixed mob AI not working whilst riding
+  - fixed some pathfinding crashes
+  - fixed durability of tools and swords
+  - fixed dragons and the likes not being able to pathfind below y 0
+  - fixed hippocampus riding issues
+  - fixed cockatrice not moving
+  - fixed incorrect biome entry type for custom biomes
+- Updated Artifacts from `artifacts-1.18.2-4.2.1.jar` to `artifacts-1.18.2-4.2.2.jar` https://www.curseforge.com/minecraft/mc-mods/artifacts/files/4614546
+  - Fix Charm of Sinking not working after switching dimensions
 - Updated Max Health Fix from `MaxHealthFix-Forge-1.18.2-5.0.1.jar` to `MaxHealthFix-Forge-1.18.2-5.0.4.jar`
   - Fix mobs being unintentionally revived in some circumstances. ([8eb3736](https://github.com/Darkhax-Minecraft/Max-Health-Fix/commit/8eb3736b74264118bf874301a7250bdfae1ab0df))
   - https://www.curseforge.com/minecraft/mc-mods/max-health-fix/files/4609586
