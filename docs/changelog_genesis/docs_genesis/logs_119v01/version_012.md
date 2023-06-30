@@ -5,7 +5,33 @@ parent: Iteration 0.1
 grand_parent: Finality Genesis Changelog
 nav_order: 7
 ---
+# Changelog June 30 2023
+This changelog is still for 0.1.2b. 
+
+Updated to Forge `43.2.14`.
+
+## Mod updates
+- Chunk Loaders updated from `chunkloaders-1.2.3-forge-mc1.19.jar` to `chunkloaders-1.2.4-forge-mc1.19.jar` https://www.curseforge.com/minecraft/mc-mods/chunk-loaders/files/4616515
+- Collective updated from `collective-1.19.2-6.59.jar` to `collective-1.19.2-6.62.jar` https://www.curseforge.com/minecraft/mc-mods/collective/files/4601903
+- Create Cafe updated from `createcafe-1.1.8-1.19.2.jar` to `createcafe-1.2.1-1.19.2.jar` https://www.curseforge.com/minecraft/mc-mods/create-cafe/files/4606222
+- Create Crafts & Additions updated from `createaddition-1.19.2-20230527a.jar` to `createaddition-1.19.2-20230623a.jar` https://www.curseforge.com/minecraft/mc-mods/createaddition/files/4605623
+- Create Enchantment Indsutry updated from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar`
+- Enhanced Celestials updated from `Enhanced_Celestials-forge-1.19.2-2.1.0.5.jar` to `Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar` https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials/files/4598311
+- Extended Crafting updated from `ExtendedCrafting-1.19.2-5.1.5.jar` to `ExtendedCrafting-1.19.2-5.1.6.jar` https://www.curseforge.com/minecraft/mc-mods/extended-crafting/files/4601720
+Sorry I got tired of linking the changelogs ;-;
+- FTB Quests updated from `ftb-quests-forge-1902.4.16-build.235.jar` to `ftb-quests-forge-1902.4.17-build.240.jar`
+- FTB Teams updated from `ftb-teams-forge-1902.2.13-build.100.jar` to `ftb-teams-forge-1902.2.14-build.123.jar`
+- Just Enough Items updated from `jei-1.19.2-forge-11.6.0.1015.jar` to `jei-1.19.2-forge-11.6.0.1016.jar`
+- Lootr (Forge) updated from `lootr-1.19-0.4.24.61.jar` to `lootr-1.19-0.4.24.62.jar`
+- Moonlight Lib updated from `moonlight-1.19.2-2.2.38-forge.jar` to `moonlight-1.19.2-2.2.40-forge.jar`
+- Open Parties and Claims updated from `open-parties-and-claims-forge-1.19.2-0.17.5.jar` to `open-parties-and-claims-forge-1.19.2-0.18.0.jar`
+- Polymorph (Forge) updated from `polymorph-forge-0.46.1+1.19.2.jar` to `polymorph-forge-0.46.2+1.19.2.jar`
+- SuperMartijn642's Core Lib updated from `supermartijn642corelib-1.1.9a-forge-mc1.19.2.jar` to `supermartijn642corelib-1.1.10-forge-mc1.19.2.jar`
+- Supplementaries updated from `supplementaries-1.19.2-2.3.18.jar` to `supplementaries-1.19.2-2.3.20.jar`
+- Xaero's Minimap updated from `Xaeros_Minimap_23.4.4_Forge_1.19.1.jar` to `Xaeros_Minimap_23.5.0_Forge_1.19.1.jar`
+
 # Version 0.1.2 (KubeJS Create 0.5.1)
+
 KubeJS Create has been updated to support Create 0.5.1.
 
 Please delete the `scripts` folder in your instance that contains all of the `.zs` files as they are no longer necessary.
