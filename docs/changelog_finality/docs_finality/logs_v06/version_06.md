@@ -11,6 +11,9 @@ nav_order: 2
 In Development
 {: .label .label-yellow }
 
+Game Breaking
+{: .label .label-red}
+
 {: .highlight }
 All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.28.23
 
@@ -20,6 +23,14 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
 ## 7.3.2023 Changes
+
+### Finality Core Changes
+- Fixed missing texture on the armor. Currently it will be using the Netherite Armor texture as a placeholder for the time being. (The armor was recently implemented on Finality Mote)
+- Added texture to the Particula Eversorem pickaxe.
+
+### Mod removals
+- Removed Ender's Delight 
+- Removed Enlightend
 
 ### Mod additions
 - Re-added Default Options because KubeJS `defaultoptions.txt` keybind boogaloo.
