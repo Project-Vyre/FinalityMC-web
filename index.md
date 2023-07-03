@@ -18,6 +18,7 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 [Finality Repository]{: .btn .btn-outline .fs-4 }
 [Finality Tau Repository]{: .btn .btn-outline .fs-4 }
 [Finality Genesis Repository]{: .btn .btn-outline .fs-4 }
+[Finality Mote Repository]{: .btn .btn-outline .fs-4 }
 
 Currently there are three variants of the modpack, see the table below.
 
@@ -86,6 +87,7 @@ Also, note to self in that footnotes will not show up unless called beforehand.[
 [Finality Repository]: https://github.com/CelestialAbyss/Finality-Minecraft-Things
 [Finality Tau Repository]: https://github.com/CelestialAbyss/Finality-Tau
 [Finality Genesis Repository]: https://github.com/Project-Vyre/Finality-Genesis
+[Finality Mote Repository]: https://github.com/Project-Vyre/finality-mote
 [Trello Board]: https://trello.com/b/60JjUmBh/finality-development
 [Another Create Wiki]: https://project-vyre.github.io/another-create-wiki/
 [Material Theme Builder (Web)]: https://goo.gle/material-theme-builder-web
