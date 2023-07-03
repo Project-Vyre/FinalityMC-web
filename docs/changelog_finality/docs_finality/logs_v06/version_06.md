@@ -19,6 +19,23 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
+## 7.3.2023 Changes
+
+### Mod additions
+- Re-added Default Options because KubeJS `defaultoptions.txt` keybind boogaloo.
+
+### Mod updates
+- Updated Chunk Loaders from `chunkloaders-1.2.3-forge-mc1.18.jar` to `chunkloaders-1.2.4-forge-mc1.18.jar` https://www.curseforge.com/minecraft/mc-mods/chunk-loaders/files/4616512
+- Updated Dimensional Dungeons from `dimdungeons-177-forge-1.18.2.jar` to `dimdungeons-178-forge-1.18.2.jar` https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons/files/4619978
+- Updated Ender's Delight from `endersdelight-1.18.2-1.0.1.jar` to `endersdelight-1.18.2-1.2.jar` https://www.curseforge.com/minecraft/mc-mods/enders-delight/files/4620613
+- Updated Fusion (Connected Textures) from `fusion-1.0.1-forge-mc1.18.jar` to `fusion-1.0.2-forge-mc1.18.jar` https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/4621066
+- Updated Macaw's Lights and Lamps from `mcw-lights-1.0.5-mc1.18.2forge.jar` to `mcw-lights-1.0.6-mc1.18.2forge.jar` https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps/files/4618176
+- Updated Open Parties and Claims from `open-parties-and-claims-forge-1.18.2-0.17.6.jar` to `open-parties-and-claims-forge-1.18.2-0.18.0.jar` https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/4617202
+- Updated Polymorph from `polymorph-forge-1.18.2-0.46.jar` to `polymorph-forge-1.18.2-0.48.jar` https://www.curseforge.com/minecraft/mc-mods/polymorph/files/4617431
+- Updated Sophisticated Backpacks from `sophisticatedbackpacks-1.18.2-3.18.53.859.jar` to `sophisticatedbackpacks-1.18.2-3.18.55.869.jar` https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4618523
+- Updated Sophisticated Core from `sophisticatedcore-1.18.2-0.5.72.331.jar` to `sophisticatedcore-1.18.2-0.5.76.345.jar` https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/4620053
+- Updated Sophisticated Storage from `sophisticatedstorage-1.18.2-0.8.28.481.jar` to `sophisticatedstorage-1.18.2-0.8.31.508.jar` https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/4620059
+
 ## 6.28.2023 Mod updates
 - Updated Ice and Fire from `iceandfire-2.1.12-1.18.2-beta2.jar` to `iceandfire-2.1.12-1.18.2.jar` https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/4614465
   - new riding system, courtesy of quinnfrost
