@@ -26,3 +26,7 @@ This is not a game breaking update, so everything should be working normally.
   - Changelog can be found here: https://www.curseforge.com/minecraft/mc-mods/endertanks/files/4623823
 - Updated ShetiPhianCore from `shetiphiancore-forge-1.19.0-3.11.3.03.jar` to `shetiphiancore-forge-1.19.0-3.11.3.04.jar`
   - Changelog can be found here: https://www.curseforge.com/minecraft/mc-mods/shetiphiancore/files/4623803
+
+## Mod additions
+- Connectivity by someaddon
+- AttributeFix by DarkhaxDev
