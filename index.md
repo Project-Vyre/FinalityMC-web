@@ -20,6 +20,9 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 [Finality Genesis Repository]{: .btn .btn-outline .fs-4 }
 [Finality Mote Repository]{: .btn .btn-outline .fs-4 }
 
+# Developer Announcements
+After further playtesting, the Create Mixing recipe for creating Mystical Agriculture's Infusion Crystal does not work on 1.19.2. This will require some further testing on the other 1.19.2 modpack variants.
+
 Currently there are **four** variants of the modpack, see the table below.
 
 | Name | Description | Recommended Specifications | Supported Version |
