@@ -22,6 +22,52 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
+## 7.7.2023 Changes
+- Updated Carry On from `carryon-1.18.2-1.17.1.11.jar` to `carryon-1.18.2-1.17.1.12.jar`
+- Updated Chunk Loaders from `chunkloaders-1.2.4-forge-mc1.18.jar` to `chunkloaders-1.2.5-forge-mc1.18.jar`
+- Updated Connected Glass from `connectedglass-1.1.6-forge-mc1.18.jar` to `connectedglass-1.1.7-forge-mc1.18.jar`
+- Updated CreativeCore from `CreativeCore_FORGE_v2.6.16_mc1.18.2.jar` to `CreativeCore_FORGE_v2.6.17_mc1.18.2.jar`
+- Updated EnderChests from `enderchests-forge-1.18.2-1.9.10.jar` to `enderchests-forge-1.18.2-1.9.11.jar`
+- Updated EnderTanks from `endertanks-forge-1.18.2-1.11.12.jar` to `endertanks-forge-1.18.2-1.11.13.jar`
+- Updated Fusion (Connected Textures) from `fusion-1.0.2-forge-mc1.18.jar` to `fusion-1.0.3-forge-mc1.18.jar`
+- Updated Mahou Tsukai from `mahoutsukai-1.18.2-v1.34.50.jar` to `mahoutsukai-1.18.2-v1.34.51.jar`
+- Updated Open Parties and Claims from `open-parties-and-claims-forge-1.18.2-0.18.0.jar` to `open-parties-and-claims-forge-1.18.2-0.19.0.jar`
+- Updated Re-chiseled from `rechiseled-1.1.0a-forge-mc1.18.jar` to `rechiseled-1.1.1-forge-mc1.18.jar`
+- Updated SuperMartijn642's Config Lib from `supermartijn642configlib-1.1.6-forge-mc1.18.jar` to `supermartijn642configlib-1.1.7-forge-mc1.18.jar`
+- Removed Create: Alloyed.
+- Removed Enlightend
+
+
+---
+
+## 7.6.2023 Changes
+- Fixed Mystical Agriculture recipes. Backported from Finality Mote.
+- Restored recipe for the Akashic Tome, I was honestly half asleep designing the original recipe and couldn't think much of it.
+- Updated Create from `0.5.1b` to `0.5.1c` https://github.com/Creators-of-Create/Create/wiki/0.5.1c
+  - Now using Flywheel 0.6.9
+  - New translations from Crowdin
+  - Added the entity type tag #create:ignore_seat
+  - Added a config option to prevent hostile mobs from getting picked up by seats
+  - Potato cannons can no longer plant crops on the side of farmland
+  - Fixed Mechanical rollers consuming filter items despite not supporting them
+  - Fixed brass tunnels not refunding previous filter items when changed
+  - Fixed catalyst ingredients getting consumed in the basin
+  - Fixed Smart observers not activated by funnels when facing up or down
+  - Fixed custom sequenced assembly recipes conflicting when starting with a filling step
+  - Fixed item slots of powered and unpowered redstone link models not matching in size
+  - Fixed custom fluids not rendering fog underwater
+  - Fixed improved diving helmet vision applied without it being equipped
+  - Fixed incompatibility with Supplementaries
+  - Fixed wood cutting recipe compatibility for Hexcasting (AndreAugustoAAQ)
+  - Updates to the Bogey API (rabbitminers)
+  - Separated config options for placing fluid blocks with Create (attackeight)
+  - Optimisations to some of Create's vector math shortcuts (Timo van Veen)
+  - Addons can now register backtank-esque air sources placed in any armor and curios slots (Michael C)
+  - Addressed a number of memory leaks and server crashes
+- Removed Lightspeed in favor of ModernFix which basically deleted load times.
+- Removed Flywheel 0.6.8a.
+---
+
 ## 7.3.2023 Changes
 
 ### Finality Core Changes
@@ -46,6 +92,8 @@ This changelog has been written after I wrote the changelog for Finality Tau, so
 - Updated Sophisticated Backpacks from `sophisticatedbackpacks-1.18.2-3.18.53.859.jar` to `sophisticatedbackpacks-1.18.2-3.18.55.869.jar` https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4618523
 - Updated Sophisticated Core from `sophisticatedcore-1.18.2-0.5.72.331.jar` to `sophisticatedcore-1.18.2-0.5.76.345.jar` https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/4620053
 - Updated Sophisticated Storage from `sophisticatedstorage-1.18.2-0.8.28.481.jar` to `sophisticatedstorage-1.18.2-0.8.31.508.jar` https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/4620059
+
+---
 
 ## 6.28.2023 Mod updates
 - Updated Ice and Fire from `iceandfire-2.1.12-1.18.2-beta2.jar` to `iceandfire-2.1.12-1.18.2.jar` https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/4614465
