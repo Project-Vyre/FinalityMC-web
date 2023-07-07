@@ -21,6 +21,72 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+# 7.7.2023 Changelog
+It's been a while. Let's see the amount of mods that need updating... Fortunately I have spoken to the developer of Let's Do Beach Party and the "This block has functions that are not fully implemented. Stay Tuned!" message no longer appears on /reload.
+
+Create has been updated to `0.5.1c`. Make sure to remove Flywheel 0.6.8a locally in your mods folder if CurseForge fails to automatically remove it for some reason.
+
+- Updated Just Enough Items (JEI) from `jei-1.19.2-forge-11.6.0.1015.jar` to `jei-1.19.2-forge-11.6.0.1016.jar`
+
+## Mod updates
+I am shuddering at the amount of mod updates... There's a total of 41 mod updates. 
+Some important things to mention: 
+**Flat Colored Blocks has been removed.**
+**Ad Astra has been removed and will remain on Finality Genesis.**
+**Added ModernFix**
+
+For all of the Let's Do mods...
+- Added Let's Do API `letsdo-api-forge-1.1.0.jar`
+- Updated Let's Do Beachparty from `beachparty-1.0.7.jar` to `letsdo-beachparty-forge-1.0.9.jar`
+- Updated Let's Do Candlelight from `candlelight-forge-1.1.0.jar` to `letsdo-candlelight-forge-1.1.4.jar`
+- Updated Let's Do Vinery from `vinery-forge-1.3.1.jar` to `letsdo-vinery-forge-1.3.4.jar`
+
+Create addons:
+- Updated Create Cafe from `createcafe-1.1.8-1.19.2.jar` to `createcafe-1.2.1-1.19.2.jar`
+- Updated Create Central Kitchen from `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.7.c.jar` to `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.jar`
+- Updated Create Crafts & Additions from `createaddition-1.19.2-20230527a.jar` to `createaddition-1.19.2-20230623a.jar`
+- Updated Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar`
+
+Everything else:
+- Updated Ars Nouveau from `ars_nouveau-1.19.2-3.16.1.jar` to `ars_nouveau-1.19.2-3.17.6.jar`
+- Updated Carry On from `carryon-forge-1.19.2-2.0.5.16.jar` to `carryon-forge-1.19.2-2.0.5.17.jar`
+- Updated Chat Heads from `chat_heads-0.10.14-forge-1.19.2.jar` to `chat_heads-0.10.16-forge-1.19.2.jar`
+- Updated Chunk Loaders from `chunkloaders-1.2.3-forge-mc1.19.jar` to `chunkloaders-1.2.5-forge-mc1.19.jar`
+- Updated Collective from `collective-1.19.2-6.57.jar` to `collective-1.19.2-6.62.jar`
+- Updated Connected Glass from `connectedglass-1.1.6-forge-mc1.19.jar` to `connectedglass-1.1.7-forge-mc1.19.jar`
+- Updated Connectivity from `connectivity-1.19.2-4.2.jar` to `connectivity-1.19.2-4.4.jar`
+- Updated Dimensional Dungeons from `dimdungeons-177-forge-1.19.0.jar` to `dimdungeons-178-forge-1.19.0.jar`
+- Updated EnderChests from `enderchests-forge-1.19.0-1.10.1.02.jar` to `enderchests-forge-1.19.0-1.10.1.03.jar`
+- Updated EnderTanks from `endertanks-forge-1.19.0-1.12.1.03.jar` to `endertanks-forge-1.19.0-1.12.1.04.jar`
+- Updated Enhanced Celestials from `Enhanced_Celestials-forge-1.19.2-2.1.0.5.jar` to `Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar`
+- Updated Extended Crafting from `ExtendedCrafting-1.19.2-5.1.5.jar` to `ExtendedCrafting-1.19.2-5.1.6.jar`
+- Updated FTB Quests from `ftb-quests-forge-1902.4.16-build.235.jar` to `ftb-quests-forge-1902.4.18-build.244.jar`
+- Updated FTB Teams from `ftb-teams-forge-1902.2.13-build.100.jar` to `ftb-teams-forge-1902.2.14-build.123.jar`
+- Updated Lootr from `lootr-1.19-0.4.24.61.jar` to `lootr-1.19-0.4.24.62.jar`
+- Updated Mahou Tsukai from `mahoutsukai-1.19.2-v1.34.46.jar` to `mahoutsukai-1.19.2-v1.34.51.jar`
+- Updated Moonlight Lib from `moonlight-1.19.2-2.2.38-forge.jar` to `moonlight-1.19.2-2.2.43-forge.jar`
+- Updated Open Parties and Claims from `open-parties-and-claims-forge-1.19.2-0.17.5.jar` to `open-parties-and-claims-forge-1.19.2-0.19.0.jar`
+- Updated Placebo from `Placebo-1.19.2-7.2.0.jar` to `Placebo-1.19.2-7.3.0.jar`
+- Updated Polymorph from `polymorph-forge-0.46.1+1.19.2.jar` to `polymorph-forge-0.46.4+1.19.2.jar`
+- Updated Puzzles Lib from `PuzzlesLib-v4.4.2-1.19.2-Forge.jar` to `PuzzlesLib-v4.4.3-1.19.2-Forge.jar`
+- Updated Re-chiseled from `rechiseled-1.0.13-forge-mc1.19.jar` to `rechiseled-1.1.1-forge-mc1.19.2.jar`
+- Updated ShetiPhianCore from `shetiphiancore-forge-1.19.0-3.11.3.03.jar` to `shetiphiancore-forge-1.19.0-3.11.3.04.jar`
+- Updated Sophisticated Backpacks from `sophisticatedbackpacks-1.19.2-3.18.50.849.jar` to `sophisticatedbackpacks-1.19.2-3.18.53.868.jar`
+- Updated Sophisticated Core from `sophisticatedcore-1.19.2-0.5.71.319.jar` to `sophisticatedcore-1.19.2-0.5.77.346.jar`
+- Updated Sophisticated Sophisticated Storage from `sophisticatedstorage-1.19.2-0.8.28.453.jar` to `sophisticatedstorage-1.19.2-0.8.32.510.jar`
+- Updated SuperMartijn642's Config Lib from `supermartijn642configlib-1.1.6b-forge-mc1.19.jar` to `supermartijn642configlib-1.1.7-forge-mc1.19.jar`
+- Updated SuperMartijn642's Core Lib from `supermartijn642corelib-1.1.9a-forge-mc1.19.2.jar` to `supermartijn642corelib-1.1.10-forge-mc1.19.2.jar`
+- Updated Supplementaries from `supplementaries-1.19.2-2.3.17.jar` to `supplementaries-1.19.2-2.3.20.jar`
+- Updated Xaero's Minimap from `Xaeros_Minimap_23.4.4_Forge_1.19.1.jar` to `Xaeros_Minimap_23.5.0_Forge_1.19.1.jar`
+- Updated Xaero's World Map from `XaerosWorldMap_1.30.3_Forge_1.19.1.jar` to `XaerosWorldMap_1.30.6_Forge_1.19.1.jar`
+
+Removed mods: 
+- Removed Ad Astra and Botarium.
+- Removed Flat Colored Blocks until it is fixed by the developer.
+---
+
+# 6.14.2023 Changelog
+
 Currently there is a mod that keeps saying "This block has functions that are not fully implemented. Stay Tuned!" and I don't know which mod it is. The good thing is that this message only appears on reload or world join then disappears shortly afterward.
 
 - Essential should now zoom in smoothly by default.
