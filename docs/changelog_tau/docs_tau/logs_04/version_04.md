@@ -24,9 +24,12 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 # 7.7.2023 Changelog
 It's been a while. Let's see the amount of mods that need updating... Fortunately I have spoken to the developer of Let's Do Beach Party and the "This block has functions that are not fully implemented. Stay Tuned!" message no longer appears on /reload.
 
-Create has been updated to `0.5.1c`. Make sure to remove Flywheel 0.6.8a locally in your mods folder if CurseForge fails to automatically remove it for some reason.
+- Create has been updated to `0.5.1c`. Make sure to remove Flywheel 0.6.8a locally in your mods folder if CurseForge fails to automatically remove it for some reason.
+- Just Enough Items (JEI) has been updated from `jei-1.19.2-forge-11.6.0.1015.jar` to `jei-1.19.2-forge-11.6.0.1016.jar`
+- Ported fixed Mystical Agriculture recipes and quests from Finality Mote.
 
-- Updated Just Enough Items (JEI) from `jei-1.19.2-forge-11.6.0.1015.jar` to `jei-1.19.2-forge-11.6.0.1016.jar`
+## Mod additions
+- Added EnhancedVisuals
 
 ## Mod updates
 I am shuddering at the amount of mod updates... There's a total of 41 mod updates. 
