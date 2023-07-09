@@ -41,3 +41,19 @@ Make sure Flywheel 0.6.8a is not installed separately and remove it if it is sti
 - Updated Polymorph from `polymorph-forge-0.46.3+1.19.2.jar` to `polymorph-forge-0.46.4+1.19.2.jar` https://www.curseforge.com/minecraft/mc-mods/polymorph/files/4629009
   - Fixed configuration sync attempts on empty packets
 - Updated Open Parties and Claims from `open-parties-and-claims-forge-1.19.2-0.18.0.jar` to `open-parties-and-claims-forge-1.19.2-0.19.0.jar` https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/4627631
+
+---
+
+# 7.8.2023 Updates
+- Implemented recipes for EnderChests and EnderTanks from the other Finality variants. Apologies for not including this sooner.
+- Implemented durability changes for Farmer's Delight knives. Apologies for not including this sooner.
+- Implemented changed recipes for the following items:
+  - Piston
+  - All vanilla pressure plates
+- Added Mangrove Window to a quest under the Decoration chapter group.
+- Removed the Lead and Silver counterparts for doors and trapdoors from a related quest in the Decoration chapter group.
+
+## Mod updates
+- Updated Artifacts from `artifacts-1.19.2-5.0.2.jar` to `artifacts-1.19.2-5.0.3.jar`
+- Updated FTB Quests from `ftb-quests-forge-1902.4.17-build.240.jar` to `ftb-quests-forge-1902.4.18-build.244.jar`
+- Updated Raised from `raised-forge-1.19.2-1.2.2.jar` to `raised-forge-1.19.2-1.2.3.jar`
