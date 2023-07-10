@@ -22,6 +22,22 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
+# Alpha Build 06a2
+Changelog for 7.10.23
+
+Just because Apotheosis lowered the JEI version requirement from 10 to 9 does not mean that I will put REI back in. REI has been a buggy mess and has failed to hide certain uncraftable items like the encased variations of Create's shaft, cogwheel and large cogwheel on BOTH Create Forge and Create Fabric. I like the functionality, but I simply can't use it for modpack development.
+
+- Updated Apotheosis from `Apotheosis-1.18.2-5.8.0.jar` to `Apotheosis-1.18.2-5.8.1.jar`
+- Updated Cloth Config from `cloth-config-6.4.90-forge.jar` to `cloth-config-6.5.102-forge.jar`
+- Updated Mahou Tsukai from `mahoutsukai-1.18.2-v1.34.51.jar` to `mahoutsukai-1.18.2-v1.34.52.jar`
+- Updated ModernFix from `modernfix-forge-5.1.0+mc1.18.2.jar` to `modernfix-forge-5.2.2+mc1.18.2.jar`
+- Updated Occultism from `occultism-1.18.2-1.80.12.jar` to `occultism-1.18.2-1.81.0.jar`
+- Updated Polymorph from `polymorph-forge-1.18.2-0.48.jar` to `polymorph-forge-1.18.2-0.49.jar`
+- Updated Raised from `raised-forge-1.18.2-1.2.2.jar` to `raised-forge-1.18.2-1.2.3.jar`
+- Updated Sophisticated Backpacks from `sophisticatedbackpacks-1.18.2-3.18.55.869.jar` to `sophisticatedbackpacks-1.18.2-3.18.56.880.jar`
+- Updated Sophisticated Core from `sophisticatedcore-1.18.2-0.5.76.345.jar` to `sophisticatedcore-1.18.2-0.5.77.360.jar`
+- Updated Sophisticated Storage from `sophisticatedstorage-1.18.2-0.8.31.508.jar` to `sophisticatedstorage-1.18.2-0.8.35.544.jar`
+
 ## 7.7.2023 Changes
 - Updated Carry On from `carryon-1.18.2-1.17.1.11.jar` to `carryon-1.18.2-1.17.1.12.jar`
 - Updated Chunk Loaders from `chunkloaders-1.2.4-forge-mc1.18.jar` to `chunkloaders-1.2.5-forge-mc1.18.jar`
