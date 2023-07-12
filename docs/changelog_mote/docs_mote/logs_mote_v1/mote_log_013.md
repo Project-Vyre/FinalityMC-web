@@ -21,6 +21,7 @@ Also I forgot to remove an Extended Crafting singularity that used Ars Nouveau's
 - Added FerriteCore (why did I not add this earlier?)
 - Added LazyDFU (why did I also not add this earlier?)
 - Added Loot Journal 
+- Added Better Third Person
 
 ## Mod updates
 - Updated AttributeFix from `AttributeFix-Forge-1.19.2-17.2.6.jar` to `AttributeFix-Forge-1.19.2-17.2.7.jar`
