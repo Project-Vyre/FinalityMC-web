@@ -31,4 +31,5 @@ Also I forgot to remove an Extended Crafting singularity that used Ars Nouveau's
   - Need to update the config datapack because of this update give me a moment...
 - Updated L_Ender's Cataclysm from `L_Enders_Cataclysm-0.84-1.19.2.jar` to `L_Enders_Cataclysm-1.13 Terror Of The Abyss Update-1.19.2.jar`
   - Updated L_Ender's Cataclysm a second time to fix a chunk loading bug. From `L_Enders_Cataclysm-1.13 Terror Of The Abyss Update-1.19.2.jar` to `L_Enders_Cataclysm-1.14-1.19.2.jar`.
+  - Updated L_Ender's Cataclysm a third time for changes related to the Lionfish Spike and being able to configure it, also fixes for the Netherite Monstrosity's lava absoption pattern. Updated from `L_Enders_Cataclysm-1.14-1.19.2.jar` to `L_Enders_Cataclysm-1.16-1.19.2.jar`
 - Updated Mystical Agriculture from `MysticalAgriculture-1.19.2-6.0.10.jar` to `MysticalAgriculture-1.19.2-6.0.11.jar`
