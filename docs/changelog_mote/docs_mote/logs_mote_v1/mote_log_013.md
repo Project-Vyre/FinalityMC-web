@@ -8,9 +8,13 @@ nav_order: 8
 
 # Version 0.1.3b
 
+7.11.23
 This is not a game breaking update, so everything should work as usual. However, Cataclysm was recently updated earlier today (10:56 AM EST) which adds the new boss that I've been very excited about.
 
 Also I forgot to remove an Extended Crafting singularity that used Ars Nouveau's Source Gem blocks which would result in an unnecessary error, apologies.
+
+- Added new quests to suit Cataclysm's new update.
+- Apparently the quest requirement for The Harbinger got changed to look at block instead of an entity, soooo that's fixed.
 
 ## Mod additions
 - Added ModernFix to delete load time.
