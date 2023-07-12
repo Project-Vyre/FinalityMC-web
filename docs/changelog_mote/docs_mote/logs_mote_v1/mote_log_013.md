@@ -20,9 +20,6 @@ Also I forgot to remove an Extended Crafting singularity that used Ars Nouveau's
 - Added ModernFix to delete load time.
 - Added FerriteCore (why did I not add this earlier?)
 - Added LazyDFU (why did I also not add this earlier?)
-- Added Rubidium
-- Added Magnesium/Rubidium Extras
-- Added Magnesium/Rubdium Dynamic Lights
 - Added Loot Journal 
 
 ## Mod updates

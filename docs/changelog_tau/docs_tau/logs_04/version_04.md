@@ -24,9 +24,6 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 # 7.12.2023 Changelog
 
 - Added ModernFix. Thank you for deleting the load time.
-- Added Rubidium
-- Added Rubidium Extras
-- Added Rubdium Dynamic Lights
 - Added LazyDFU
   - This should have been in the modpack from the start but looks like I forgot...
 - Added Loot Journal
