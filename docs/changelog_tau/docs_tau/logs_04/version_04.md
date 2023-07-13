@@ -22,6 +22,7 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 # 7.13.2023 Changelog
+Changed version to 04a1 for an in progress update.
 
 Updated to Forge `43.2.17` from `Forge 43.2.14`.
 
@@ -42,6 +43,8 @@ Changed the cooldown for Cataclysm's weapons:
 - Removed Create Stuff & Additions (NOT Create Crafts & Additions)
 - Removed Create Confectionery
 - Removed Ender's Delight, replaced with End's Delight
+- Removed Enlightend
+- Removed Phantasmic
 
 - Updated the Let's Do mods.
   - Candlelight from `letsdo-candlelight-forge-1.1.4.jar` to `letsdo-candlelight-forge-1.1.5.jar`
