@@ -27,6 +27,7 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 - ~~Changed config for Eyes in the Darkness to limit spawn rate~~
   - Ended up just removing the mod entirely.
 - Added the logs that burn tag to Palm Logs from Beach Party to be able to be converted into charcoal.
+- Removed EMC values from singularities.
 
 ## 04a2 Alpha Update Release
 - Fixed recipes for Extended Crafting using invalid transitional items.
