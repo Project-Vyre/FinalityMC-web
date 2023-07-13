@@ -25,6 +25,17 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 Updated to Forge `43.2.17` from `Forge 43.2.14`.
 
+Changed the cooldown for Cataclysm's weapons:
+- BulwarkOfTheFlameCooldown = 45
+- GauntletOfBulwarkCooldown = 45
+- InfernalForgeCooldown = 30
+- VoidForgeCooldown = 30
+- TheIncineratorCooldown = 60
+- WASWMissileCooldown = 40
+- WASWHowitzerCooldown = 100
+- VASWCooldown = 30
+- VoidCoreCooldown = 45
+
 - Added DefaultOptions to fix KubeJS keybind boogaloo.
 - Added Yeetus Experimentus to actually remove Experimental Settings warning on world generation to replace Shut Up Experimental Settings.
 
