@@ -23,6 +23,11 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 # 7.13.2023 Changelog
 
+## 04a3 Alpha Update Release
+- Changed config for Eyes in the Darkness to limit spawn rate
+- Added the logs that burn tag to Palm Logs from Beach Party to be able to be converted into charcoal.
+- Removed the Eyes in the Darkness mod.
+
 ## 04a2 Alpha Update Release
 - Fixed recipes for Extended Crafting using invalid transitional items.
 - Removed Item Pickup because it's been replaced by Obscuria's Loot Journal
