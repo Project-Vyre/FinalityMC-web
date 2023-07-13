@@ -23,6 +23,8 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 # 7.13.2023 Changelog
 
+Updated to Forge `43.2.17` from `Forge 43.2.14`.
+
 - Added DefaultOptions to fix KubeJS keybind boogaloo.
 - Added Yeetus Experimentus to actually remove Experimental Settings warning on world generation to replace Shut Up Experimental Settings.
 
