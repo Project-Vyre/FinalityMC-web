@@ -22,6 +22,13 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 # 7.13.2023 Changelog
+
+## 04a2 Alpha Update Release
+- Fixed recipes for Extended Crafting using invalid transitional items.
+- Removed Item Pickup because it's been replaced by Obscuria's Loot Journal
+- Restored recipe for Handheld Crafting Table
+
+## 04a1 Alpha Update Release
 Changed version to 04a1 for an in progress update.
 
 Updated to Forge `43.2.17` from `Forge 43.2.14`.
