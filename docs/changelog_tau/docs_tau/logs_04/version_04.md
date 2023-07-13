@@ -21,6 +21,37 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+# 7.13.2023 Changelog
+
+- Added DefaultOptions to fix KubeJS keybind boogaloo.
+- Added Yeetus Experimentus to actually remove Experimental Settings warning on world generation to replace Shut Up Experimental Settings.
+
+- Removed Create Stuff & Additions (NOT Create Crafts & Additions)
+- Removed Create Confectionery
+- Removed Ender's Delight, replaced with End's Delight
+
+- Updated the Let's Do mods.
+  - Candlelight from `letsdo-candlelight-forge-1.1.4.jar` to `letsdo-candlelight-forge-1.1.5.jar`
+  - Vinery from `letsdo-vinery-forge-1.3.4.jar` to `letsdo-vinery-forge-1.3.6.jar`
+- Updated Ars Nouveau from `ars_nouveau-1.19.2-3.17.6.jar` to `ars_nouveau-1.19.2-3.17.8.jar`
+- Updated Artifacts from `artifacts-1.19.2-5.0.2.jar` to `artifacts-1.19.2-5.0.3.jar`
+- Updated AttributeFix from `AttributeFix-Forge-1.19.2-17.2.6.jar` to `AttributeFix-Forge-1.19.2-17.2.7.jar`
+- Updated Cloth Config from `cloth-config-8.2.88-forge.jar` to `cloth-config-8.3.103-forge.jar`
+- Updated Collective from `collective-1.19.2-6.62.jar` to `collective-1.19.2-6.65.jar`
+- Updated Extended Crafting from `ExtendedCrafting-1.19.2-5.1.6.jar` to `ExtendedCrafting-1.19.2-5.1.7.jar`
+- Updated Farmer's Delight from `FarmersDelight-1.19-1.2.1.jar` to `FarmersDelight-1.19.2-1.2.2.jar`
+- Updated Integrated Dungeons and Structures from `idas_forge-1.7.4+1.19.2.jar` to `idas_forge-1.7.6+1.19.2.jar`
+- Updated L_Ender's Cataclysm from `L_Enders_Cataclysm-0.84-1.19.2.jar` to `L_Enders_Cataclysm-1.16-1.19.2.jar`
+- Updated Mahou Tsukai from `mahoutsukai-1.19.2-v1.34.51.jar` to `mahoutsukai-1.19.2-v1.34.52.jar`
+- Updated ModernFix from `modernfix-forge-5.1.0+mc1.19.2.jar` to `modernfix-forge-5.2.3+mc1.19.2.jar`
+- Updated Mystical Agriculture from `MysticalAgriculture-1.19.2-6.0.10.jar` to `MysticalAgriculture-1.19.2-6.0.11.jar`
+- Updated Raised from `raised-forge-1.19.2-1.2.2.jar` to `raised-forge-1.19.2-1.2.3.jar`
+- Updated Sophisticated Backpacks from `sophisticatedbackpacks-1.19.2-3.18.53.868.jar` to `sophisticatedbackpacks-1.19.2-3.18.55.889.jar`
+- Updated Sophisticated Core from `sophisticatedcore-1.19.2-0.5.77.346.jar` to `sophisticatedcore-1.19.2-0.5.78.363.jar`
+- Updated Sophisticated Storage from `sophisticatedstorage-1.19.2-0.8.32.510.jar` to `sophisticatedstorage-1.19.2-0.8.38.555.jar`
+- Updated Waystones from `waystones-forge-1.19.2-11.4.0.jar` to `waystones-forge-1.19.2-11.4.1.jar`
+
+
 # 7.12.2023 Changelog
 
 - Added ModernFix. Thank you for deleting the load time.
