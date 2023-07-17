@@ -21,7 +21,13 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 [Finality Mote Repository]{: .btn .btn-outline .fs-4 }
 
 # Developer Announcements
-After further playtesting, the Create Mixing recipe for creating Mystical Agriculture's Infusion Crystal does not work on 1.19.2. This will require some further testing on the other 1.19.2 modpack variants.
+After further playtesting, the Create Mixing recipe for creating Mystical Agriculture's Infusion Crystal does not work on 1.19.2 and 1.18.2. The issue at hand is that the crystal is just never made despite the recipe being able to be executed in-game with the correct ingredients.
+This has since been fixed in the following Finality versions:
+
+- Mote 0.1.1b and higher
+- Tau 04a1 and higher
+- Omnia 06a2 and higher
+- Genesis 0.1.2b and higher
 
 Currently there are **four** variants of the modpack, see the table below.
 
