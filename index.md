@@ -45,6 +45,7 @@ Currently there are **four** variants of the modpack, see the table below.
 | Finality | 0.6.0b, in development. |
 | Finality Tau | 0.4.0b, in development. |
 | Finality Genesis | 0.1.1b, publicly available. |
+| Finality Mote | Since 0.1.0b |
 
 You might have a few questions like: What does the b stand for? It currently stands for Beta. Unfortunately, users will not be able to download Alpha builds without having to manually intervene on the CurseForge app or the website, so it will always have the Beta label for now.
 
