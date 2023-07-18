@@ -69,6 +69,8 @@ I have isolated the cause for the flooding of errors in the server console log t
 - Removed Inventory HUD+
 - Removed BotanyPots
 - Removed Botany Trees
+- Removed Create Slice & Dice
+- Removed Kotlin for Forge
 
 # 7.13.2023 Changelog
 
