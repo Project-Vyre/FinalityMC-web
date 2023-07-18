@@ -12,6 +12,8 @@ Currently in development!
 
 Not a world or game breaking update, so it is safe to update.
 
+7.17.23
+
 ## Config and core updates
 
 - Apparently the Alex's Mobs compat datapack for IDAS was implemented, this has now been removed.
