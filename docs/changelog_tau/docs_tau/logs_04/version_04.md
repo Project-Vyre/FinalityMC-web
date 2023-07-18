@@ -21,6 +21,55 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+## 04a4 Alpha Update Release
+
+### 7.17.23 Changelog
+
+- Added additional descriptions to Create related quests.
+- Fixed structure detection to detect YUNG's Better Nether Fortress instead of the vanilla Nether Fortress.
+- Moved Jade to the top left corner to provide unobstructed viewing of Cataclysm's boss health bars.
+- Enigmatic Legacy's Amulet Vessel now can only be claimed by the original owner.
+- Reduced Tempad's cooldown to 30 seconds.
+- Added Nicer Rain by Lat
+- Tridents are now craftable.
+
+Exclusive to Tau
+- Added Herobrine.
+
+Added the following mods:
+- Added Realistic Torches
+- Added Lucky's Spelunker's Charm II
+  - Unfortunately Lucent appears to be a required dependency, so Flywheel's optimizations may be disabled.
+  - This mod has returned and I was looking forward to including it in this modpack.
+- Re-added Eyes in the Darkness as sounds have been changed.
+  - You will need to update your server configs manually, however.
+
+Updated the following mods: 
+- Updated Let's Do Candlelight from `letsdo-candlelight-forge-1.1.5.jar` to `letsdo-candlelight-forge-1.1.6.jar`
+- Updated Let's Do Vinery from `letsdo-vinery-forge-1.3.6.jar` to `letsdo-vinery-forge-1.3.7.jar`
+- Updated Apotheosis from `Apotheosis-1.19.2-6.2.1.jar` to `Apotheosis-1.19.2-6.3.0.jar`
+- Updated Ars Nouveau from `ars_nouveau-1.19.2-3.17.8.jar` to `ars_nouveau-1.19.2-3.17.9.jar`
+- Updated Chat Heads from `chat_heads-0.10.16-forge-1.19.2.jar` to `chat_heads-0.10.18-forge-1.19.2.jar`
+- Updated FTB Library from `ftb-library-forge-1902.3.19-build.214.jar` to `ftb-library-forge-1902.4.0-build.232.jar`
+- Updated L_Ender's Cataclysm from `L_Enders_Cataclysm-1.16-1.19.2.jar` to `L_Enders_Cataclysm-1.18-1.19.2.jar`
+- Updated ModernFix from `modernfix-forge-5.2.3+mc1.19.2.jar` to `modernfix-forge-5.2.5+mc1.19.2.jar`
+- Updated Placebo from `Placebo-1.19.2-7.3.0.jar` to `Placebo-1.19.2-7.3.1.jar`
+- Updated Raised from `raised-forge-1.19.2-1.2.3.jar` to `raised-forge-1.19.2-2.0.0.jar`
+- Updated Some Assembly Required from `some-assembly-required-1.19.2-3.0.2.jar` to `some-assembly-required-1.19.2-3.0.3.jar`
+- Updated Sophisticated Core from `sophisticatedcore-1.19.2-0.5.78.363.jar` to `sophisticatedcore-1.19.2-0.5.81.377.jar`
+
+I have isolated the cause for the flooding of errors in the server console log to a certain mod.
+- Removed Deeper and Darker.
+  - They have stated that they will fix patch this, but the fix is not yet available.
+
+- Removed Rotten Creatures
+  - Waiting on fix from developers regarding config files.
+- Removed Dynamic Asset Generator
+- Removed BetterF3
+- Removed Inventory HUD+
+- Removed BotanyPots
+- Removed Botany Trees
+
 # 7.13.2023 Changelog
 
 ## 04a3 Alpha Update Release

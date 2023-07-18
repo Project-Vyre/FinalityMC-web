@@ -23,6 +23,7 @@ These changes will be applied to all versions of Finality.
 - Enigmatic Legacy's Amulet Vessel now can only be claimed by the original owner.
 - Reduced Tempad's cooldown to 30 seconds.
 - Added Nicer Rain by Lat
+- Tridents are now craftable.
 - Increased inventory space for Backpacked's backpacks please update your server's config files if it does not synchronize over!
   - Added a recipe that uses Leather to make the item more accessible. Bunnies don't seem to spawn all that often.
 

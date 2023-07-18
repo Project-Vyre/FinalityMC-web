@@ -22,6 +22,11 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
+# Alpha Build 06a3
+A few mistakes that I missed, the lack of sleep is really affecting this.
+
+- Corrected amount of Inferior Infusion Essence required to make the Infusion Crystal.
+
 # Alpha Build 06a2
 Changelog for 7.10.23
 
