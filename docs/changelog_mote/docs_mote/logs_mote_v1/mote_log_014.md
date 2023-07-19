@@ -12,10 +12,31 @@ Currently in development!
 
 Not a world or game breaking update, so it is safe to update.
 
-7.17.23
+# 7.18.23 Changelog
+
+Apparently I wrote duplicate scripts and never caught my own mistake, that's been fixed now and will be patched to all versions of Finality.
+
+## Singularity Recipe Changes
+These changes will be applied to all versions of Finality.
+- Changed the Mechanical Crafting singularities to utilize Dormant Singularity Cores at the center.
+- Brass Singularity now uses the new singularity creation method.
+- Changed the Rose Quartz Singularity recipe to use regular Rose Quartz.
+
+## Mod updates
+- KubeJS has been updated to 6.1.
+  - `kubejs-forge-1902.6.0-build.142.jar` to `kubejs-forge-1902.6.1-build.300.jar`
+- KubeJS Create has been updated to support KJS 6.1. Updated a second time after item quantities for both Mixing and Compacting have been fixed by Max yaaay
+  - `kubejs-create-forge-1902.2.4-build.9.jar` to `kubejs-create-forge-1902.2.4-build.16.jar`
+  - `kubejs-create-forge-1902.2.4-build.16.jar` to `kubejs-create-forge-1902.2.4-build.18.jar`
+- As a result, I have cleaned up some scripts.
+- Cataclysm updated from `L_Enders_Cataclysm-1.18-1.19.2.jar` to `L_Enders_Cataclysm-1.19-1.19.2.jar`
+- Updated texture used for the Trident Prong.
+- Fixed the quest for Sandpaper to now detect any kind of sandpaper, this is a mistake on my part.
+
+--- 
+7.15.23 - 7.17.23
 
 ## Config and core updates
-
 - Apparently the Alex's Mobs compat datapack for IDAS was implemented, this has now been removed.
 - Added additional descriptions to Create related quests.
 - Fixed structure detection to detect YUNG's Better Nether Fortress instead of the vanilla Nether Fortress.
@@ -44,6 +65,7 @@ These changes will be applied to all versions of Finality on Forge MC 1.19.2 and
 
 ## Mod updates
 - Updated Cataclysm from `L_Enders_Cataclysm-1.16-1.19.2.jar` to `L_Enders_Cataclysm-1.17-1.19.2.jar`.
+- Updated Cataclysm from `L_Enders_Cataclysm-1.17-1.19.2.jar` to `L_Enders_Cataclysm-1.18-1.19.2.jar`
 - Updated FTB Library from `ftb-library-forge-1902.3.19-build.214.jar` to `ftb-library-forge-1902.4.0-build.232.jar`.
 - Updated ModernFix from `modernfix-forge-5.2.3+mc1.19.2.jar` to `modernfix-forge-5.2.5+mc1.19.2.jar`.
 - Updated Raised from `raised-forge-1.19.2-1.2.3.jar` to `raised-forge-1.19.2-2.0.0.jar`.

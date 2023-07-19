@@ -23,6 +23,17 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 ## 04a4 Alpha Update Release
 
+### 7.18.23 Changelog
+
+- KubeJS has been updated to 6.1.
+  - `kubejs-forge-1902.6.0-build.142.jar` to `kubejs-forge-1902.6.1-build.300.jar`
+- KubeJS Create has been updated to support KJS 6.1. Updated a second time after item quantities for both Mixing and Compacting have been fixed by Max yaaay
+  - `kubejs-create-forge-1902.2.4-build.9.jar` to `kubejs-create-forge-1902.2.4-build.16.jar`
+  - `kubejs-create-forge-1902.2.4-build.16.jar` to `kubejs-create-forge-1902.2.4-build.18.jar`
+- KubeJS Thermal has been updated to support KJS 6.1.
+  - `kubejs-thermal-1902.1.6-build.22.jar` to `kubejs-thermal-1902.1.9-build.9.jar`
+- Cataclysm updated from `L_Enders_Cataclysm-1.18-1.19.2.jar` to `L_Enders_Cataclysm-1.19-1.19.2.jar`
+
 ### 7.17.23 Changelog
 
 - Added additional descriptions to Create related quests.

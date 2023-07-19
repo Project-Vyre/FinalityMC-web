@@ -21,9 +21,16 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 [Finality Mote Repository]{: .btn .btn-outline .fs-4 }
 
 # Developer Announcements
+KubeJS 6.1 has been released, in addition to KubeJS Create being fixed. Thank you so much Max! <3
+
+Also, apparently I absentmindedly had duplicate recipes in one of my script files, which has since been patched in the following modpack versions:
+- Mote 0.1.4b (in progress)
+- Tau 04a4 (in progress)
+- Omnia 06a3 (in progress)
+- Genesis 0.1.2b (in progress)
+
 After further playtesting, the Create Mixing recipe for creating Mystical Agriculture's Infusion Crystal does not work on 1.19.2 and 1.18.2. The issue at hand is that the crystal is just never made despite the recipe being able to be executed in-game with the correct ingredients.
 This has since been fixed in the following Finality versions:
-
 - Mote 0.1.1b and higher
 - Tau 04a1 and higher
 - Omnia 06a2 and higher
