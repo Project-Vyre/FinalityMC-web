@@ -12,9 +12,13 @@ Currently in development!
 
 Not a world or game breaking update, so it is safe to update.
 
-# 7.18.23 Changelog
+# 7.18.23-7.20.23 Changelog
 
 Apparently I wrote duplicate scripts and never caught my own mistake, that's been fixed now and will be patched to all versions of Finality.
+
+- Custom fluids can now be used with the bucket.
+- Updated texture used for the Trident Prong.
+- Fixed the quest for Sandpaper to now detect any kind of sandpaper, this is a mistake on my part.
 
 ## Singularity Recipe Changes
 These changes will be applied to all versions of Finality.
@@ -25,13 +29,18 @@ These changes will be applied to all versions of Finality.
 ## Mod updates
 - KubeJS has been updated to 6.1.
   - `kubejs-forge-1902.6.0-build.142.jar` to `kubejs-forge-1902.6.1-build.300.jar`
+  - `kubejs-forge-1902.6.1-build.300.jar` to `kubejs-forge-1902.6.1-build.307.jar`
+  - `kubejs-forge-1902.6.1-build.311.jar`
 - KubeJS Create has been updated to support KJS 6.1. Updated a second time after item quantities for both Mixing and Compacting have been fixed by Max yaaay
   - `kubejs-create-forge-1902.2.4-build.9.jar` to `kubejs-create-forge-1902.2.4-build.16.jar`
   - `kubejs-create-forge-1902.2.4-build.16.jar` to `kubejs-create-forge-1902.2.4-build.18.jar`
+  - `kubejs-create-forge-1902.2.4-build.18.jar` to `kubejs-create-forge-1902.2.4-build.20.jar`
 - As a result, I have cleaned up some scripts.
 - Cataclysm updated from `L_Enders_Cataclysm-1.18-1.19.2.jar` to `L_Enders_Cataclysm-1.19-1.19.2.jar`
-- Updated texture used for the Trident Prong.
-- Fixed the quest for Sandpaper to now detect any kind of sandpaper, this is a mistake on my part.
+- FTB Quests updated from `ftb-quests-forge-1902.4.18-build.244.jar` to `ftb-quests-forge-1902.5.0-build.248.jar`
+  - `ftb-quests-forge-1902.5.0-build.248.jar` to `ftb-quests-forge-1902.5.1-build.250.jar`
+- Cataclysm updated from `L_Enders_Cataclysm-1.19-1.19.2.jar` to `L_Enders_Cataclysm-1.20-1.19.2.jar`
+- Updated ModernFix from `modernfix-forge-5.2.5+mc1.19.2.jar` to `modernfix-forge-5.3.1+mc1.19.2.jar`
 
 --- 
 7.15.23 - 7.17.23
