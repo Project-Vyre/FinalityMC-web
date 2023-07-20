@@ -23,6 +23,15 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 ## 04a4 Alpha Update Release
 
+### 7.20.23 Changelog
+- Updated KubeJS from `kubejs-forge-1902.6.1-build.300.jar` to `kubejs-forge-1902.6.1-build.311.jar`
+- Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.16.jar` to `kubejs-create-forge-1902.2.4-build.20.jar`
+- Updated FTB Quests from `ftb-quests-forge-1902.4.18-build.244.jar` to `ftb-quests-forge-1902.5.1-build.250.jar`
+- Updated Cataclysm from `L_Enders_Cataclysm-1.19-1.19.2.jar` to `L_Enders_Cataclysm-1.20-1.19.2.jar`
+- Updated Lucky's Spelunker's Charm from `SpelunkersCharm-3.2.0-1.19.2.jar` to `SpelunkersCharm-3.2.1-1.19.2.jar`
+- Updated ModernFix from `modernfix-forge-5.2.5+mc1.19.2.jar` to `modernfix-forge-5.3.1+mc1.19.2.jar`
+- Updated SuperMartijn642's Core Lib from `supermartijn642corelib-1.1.10-forge-mc1.19.2.jar` to `supermartijn642corelib-1.1.11-forge-mc1.19.2.jar`
+
 ### 7.18.23 Changelog
 
 - KubeJS has been updated to 6.1.
