@@ -36,6 +36,7 @@ The following will apply to all versions of Finality.
 ## Mod additions
 - Added Yeetus Experimentus 
   - This has replaced *Shut Up Experimental Settings!* as it wasn't doing its job properly.
+- Added NetherPortalFix
 
 ## Mod removals
 - Removed Shut Up Experimental Settings!
