@@ -12,6 +12,16 @@ Currently in development!
 
 Not a world or game breaking update, so it is safe to update.
 
+# 7.22.23
+IRL issues are happening, please bear with me.
+
+- Updated KubeJS from `kubejs-forge-1902.6.1-build.311.jar` to `kubejs-forge-1902.6.1-build.324.jar`
+- Updated Cataclysm from `L_Enders_Cataclysm-1.20-1.19.2.jar` to `L_Enders_Cataclysm-1.21-1.19.2.jar`
+- Updated Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.b.jar`
+- Updated FancyMenu from `fancymenu_forge_2.14.7_MC_1.19-1.19.2.jar` to `fancymenu_forge_2.14.9_MC_1.19-1.19.2.jar`
+- Updated ModernFix from `modernfix-forge-5.3.1+mc1.19.2.jar` to `modernfix-forge-5.3.2+mc1.19.2.jar`
+- Updated YUNG's Better Nether Fortresses from `YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar` to `YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar`
+
 # 7.18.23-7.20.23 Changelog
 
 Apparently I wrote duplicate scripts and never caught my own mistake, that's been fixed now and will be patched to all versions of Finality.
