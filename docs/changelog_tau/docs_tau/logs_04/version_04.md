@@ -23,6 +23,30 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 ## 04a4 Alpha Update Release
 
+### 7.22.23
+IRL issues are happening, please bear with me.
+
+#### Recipe changes
+The following will apply to all versions of Finality.
+- Mechanical Crafter singularities will now use the correct Awakened Singularity core at the center.
+- Reworked Create renewal recipes for coal and diamonds.
+  - What does this mean? It means 1 coal block will give you 1 diamond instead of 9 coal blocks giving you only 1 block. So it's now a 1:1 ratio.
+  - Also, 9 coal blocks will now give you 1 diamond block.
+
+#### Mod updates 
+- Updated KubeJS from `kubejs-forge-1902.6.1-build.311.jar` to `kubejs-forge-1902.6.1-build.324.jar`
+  - Updated to `kubejs-forge-1902.6.1-build.327.jar`
+- Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.20.jar` to `kubejs-create-forge-1902.2.4-build.23.jar`
+- Updated KubeJS Thermal from `kubejs-thermal-1902.1.9-build.9.jar` to `kubejs-thermal-1902.1.9-build.11.jar`
+- Updated Apotheosis from `Apotheosis-1.19.2-6.3.0.jar` to `Apotheosis-1.19.2-6.3.1.jar`
+- Updated Cataclysm from `L_Enders_Cataclysm-1.20-1.19.2.jar` to `L_Enders_Cataclysm-1.21-1.19.2.jar`
+- Updated Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.b.jar`
+- Updated FancyMenu from `fancymenu_forge_2.14.7_MC_1.19-1.19.2.jar` to `fancymenu_forge_2.14.9_MC_1.19-1.19.2.jar`
+- Updated ModernFix from `modernfix-forge-5.3.1+mc1.19.2.jar` to `modernfix-forge-5.3.2+mc1.19.2.jar`
+- Updated Open Parties & Claims from `open-parties-and-claims-forge-1.19.2-0.19.0.jar` to `open-parties-and-claims-forge-1.19.2-0.19.1.jar`
+- Updated Terralith from `Terralith_1.19.3_v2.3.8.jar` to `Terralith_1.19.3_v2.3.9.jar`
+- Updated YUNG's Better Nether Fortresses from `YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar` to `YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar`
+
 ### 7.20.23 Changelog
 - Updated KubeJS from `kubejs-forge-1902.6.1-build.300.jar` to `kubejs-forge-1902.6.1-build.311.jar`
 - Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.16.jar` to `kubejs-create-forge-1902.2.4-build.20.jar`
