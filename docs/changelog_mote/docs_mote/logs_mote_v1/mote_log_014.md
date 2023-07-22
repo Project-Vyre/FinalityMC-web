@@ -6,8 +6,6 @@ grand_parent: Finality Mote Changelog
 nav_order: 7
 ---
 
-Currently in development!
-
 # Version 0.1.4b
 
 Not a world or game breaking update, so it is safe to update.
