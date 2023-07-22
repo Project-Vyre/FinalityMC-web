@@ -15,6 +15,10 @@ Not a world or game breaking update, so it is safe to update.
 # 7.22.23
 IRL issues are happening, please bear with me.
 
+## Recipe changes
+- Mechanical Crafter singularities will now use the correct Awakened Singularity core at the center.
+
+## Mod updates 
 - Updated KubeJS from `kubejs-forge-1902.6.1-build.311.jar` to `kubejs-forge-1902.6.1-build.324.jar`
 - Updated Cataclysm from `L_Enders_Cataclysm-1.20-1.19.2.jar` to `L_Enders_Cataclysm-1.21-1.19.2.jar`
 - Updated Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.b.jar`
