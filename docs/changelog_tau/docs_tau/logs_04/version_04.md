@@ -23,6 +23,17 @@ Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
 ## 04a4 Alpha Update Release
 
+### 7.24.23
+- Downgraded Forge to 43.2.14 instead of 43.2.17.
+- Updated Let's Do Beachparty from `letsdo-beachparty-forge-1.0.9.jar` to `letsdo-beachparty-forge-1.0.11.jar`
+- Updated Create Central Kitchen `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.jar` to `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.b.jar`
+- Updated FTB Library `ftb-library-forge-1902.4.0-build.232.jar` to `ftb-library-forge-1902.4.1-build.236.jar`
+- Updated Cataclysm `L_Enders_Cataclysm-1.21-1.19.2.jar` to `L_Enders_Cataclysm-1.23-1.19.2.jar`
+- Updated Rechiseled `rechiseled-1.1.1-forge-mc1.19.2.jar` to `rechiseled-1.1.2-forge-mc1.19.2.jar`
+- Updated SuperMartijn's Core Lib `supermartijn642corelib-1.1.11-forge-mc1.19.2.jar` to `supermartijn642corelib-1.1.12-forge-mc1.19.2.jar`
+- Updated Torchmaster `torchmaster-19.2.90.jar` to `torchmaster-19.2.91.jar`
+- Added MemoryLeakFix.
+
 ### 7.22.23
 IRL issues are happening, please bear with me.
 
@@ -46,6 +57,12 @@ The following will apply to all versions of Finality.
 - Updated Open Parties & Claims from `open-parties-and-claims-forge-1.19.2-0.19.0.jar` to `open-parties-and-claims-forge-1.19.2-0.19.1.jar`
 - Updated Terralith from `Terralith_1.19.3_v2.3.8.jar` to `Terralith_1.19.3_v2.3.9.jar`
 - Updated YUNG's Better Nether Fortresses from `YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar` to `YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar`
+
+#### Mod additions
+- Added NetherPortalFix
+
+#### Mod removals
+- Removed Darker Depths
 
 ### 7.20.23 Changelog
 - Updated KubeJS from `kubejs-forge-1902.6.1-build.300.jar` to `kubejs-forge-1902.6.1-build.311.jar`
