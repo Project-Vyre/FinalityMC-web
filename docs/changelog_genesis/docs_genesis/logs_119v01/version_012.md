@@ -5,12 +5,77 @@ parent: Iteration 0.1
 grand_parent: Finality Genesis Changelog
 nav_order: 7
 ---
-# Changelog June 30 2023
+
+# Genesis 0.1.2b
+
+## 7.26.23
+Hi, it's been a while since I updated this modpack. MANY updates have been made, but there have been no world breaking changes.
+
+Where it will hurt most is the amount of changed recipes from the other variants of Finality, so you will definitely need to rework some sequenced assembly lines.
+
+### Mod updates
+- Updated Ad Astra from `ad_astra-forge-1.19.2-1.12.6.jar` to `ad_astra-forge-1.19.2-1.12.7.jar`
+- Updated Apotheosis from `Apotheosis-1.19.2-6.2.1.jar` to `Apotheosis-1.19.2-6.3.1.jar`
+- Updated Artifacts from `artifacts-1.19.2-5.0.2.jar` to `artifacts-1.19.2-5.0.3.jar`
+- Updated AttributeFix from `AttributeFix-Forge-1.19.2-17.2.6.jar` to `AttributeFix-Forge-1.19.2-17.2.7.jar`
+- Updated Chunk Loaders from `chunkloaders-1.2.4-forge-mc1.19.jar` to `chunkloaders-1.2.5-forge-mc1.19.jar`
+- Updated Clickable advancements from `clickadv-1.19.2-3.0.jar` to `clickadv-1.19.2-3.1.jar`
+- Updated Cloth Config API from `cloth-config-8.2.88-forge.jar` to `cloth-config-8.3.103-forge.jar`
+- Updated Collective from `collective-1.19.2-6.62.jar` to `collective-1.19.2-6.65.jar`
+- Updated Connectivity from `connectivity-1.19.2-4.2.jar` to `connectivity-1.19.2-4.4.jar`
+- Updated Create from `0.5.1b` to `0.5.1c`
+- Updated Create Enchantment Industry from `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar` to `create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.b.jar`
+- Updated Create Slice & Dice from `sliceanddice-forge-2.2.0.jar` to `sliceanddice-forge-2.2.1.jar`
+- Updated EnderChests from `enderchests-forge-1.19.0-1.10.1.02.jar` to `enderchests-forge-1.19.0-1.10.1.03.jar`
+- Updated EnderTanks from `endertanks-forge-1.19.0-1.12.1.03.jar` to `endertanks-forge-1.19.0-1.12.1.04.jar`
+- Updated ExtendedCrafting from `ExtendedCrafting-1.19.2-5.1.6.jar` to `ExtendedCrafting-1.19.2-5.1.7.jar`
+- Updated FancyMenu from `fancymenu_forge_2.14.7_MC_1.19-1.19.2.jar` to `fancymenu_forge_2.14.9_MC_1.19-1.19.2.jar`
+- Updated Farmer's Delight `FarmersDelight-1.19-1.2.1.jar` to `FarmersDelight-1.19.2-1.2.2.jar`
+- Updated FTB Library `ftb-library-forge-1902.3.19-build.214.jar` to `ftb-library-forge-1902.4.1-build.236.jar`
+- Updated FTB Quests `ftb-quests-forge-1902.4.17-build.240.jar` to `ftb-quests-forge-1902.5.2-build.256.jar`
+- Updated Integrated Dungeons and Structures `idas_forge-1.7.4+1.19.2.jar` to `idas_forge-1.7.6+1.19.2.jar`
+- Updated KubeJS `kubejs-forge-1902.6.0-build.142.jar` to `kubejs-forge-1902.6.1-build.337.jar`
+- Updated KubeJS Create `kubejs-create-forge-1902.2.4-build.9.jar` to `kubejs-create-forge-1902.2.4-build.23.jar`
+- Updated Cataclysm `L_Enders_Cataclysm-1.13 Terror Of The Abyss Update-1.19.2.jar` to `L_Enders_Cataclysm-1.25-1.19.2.jar`
+- Updated Moonlight Lib `moonlight-1.19.2-2.2.40-forge.jar` to `moonlight-1.19.2-2.2.43-forge.jar`
+- Updated Mystical Agriculture `MysticalAgriculture-1.19.2-6.0.10.jar` to `MysticalAgriculture-1.19.2-6.0.11.jar`
+- Updated Open Parties and Claims `open-parties-and-claims-forge-1.19.2-0.18.0.jar` to `open-parties-and-claims-forge-1.19.2-0.19.1.jar`
+- Updated Placebo `Placebo-1.19.2-7.2.0.jar` to `Placebo-1.19.2-7.3.1.jar`
+- Updated Polymorph `polymorph-forge-0.46.2+1.19.2.jar` to `polymorph-forge-0.46.4+1.19.2.jar`
+- Updated Raised `raised-forge-1.19.2-1.2.2.jar` to `raised-forge-1.19.2-2.0.0.jar`
+- Updated ShetiPhianCore `shetiphiancore-forge-1.19.0-3.11.3.03.jar` to `shetiphiancore-forge-1.19.0-3.11.3.04.jar`
+- Updated Some Assembly Required `some-assembly-required-1.19.2-3.0.2.jar` to `some-assembly-required-1.19.2-3.0.3.jar`
+- Updated SuperMartijn Config Lib `supermartijn642configlib-1.1.6b-forge-mc1.19.jar` to `supermartijn642configlib-1.1.7-forge-mc1.19.jar`
+- Updated SuperMartijn Core lib `supermartijn642corelib-1.1.10-forge-mc1.19.2.jar` to `supermartijn642corelib-1.1.12-forge-mc1.19.2.jar`
+- Updated Waystones `waystones-forge-1.19.2-11.4.0.jar` to `waystones-forge-1.19.2-11.4.1.jar`
+- Updated Xaero's World Map `XaerosWorldMap_1.30.6_Forge_1.19.1.jar` to `XaerosWorldMap_1.31.0_Forge_1.19.1.jar`
+
+### Mod Additions
+- Added Biomes O' Plenty
+- Added Carry On
+  - Blacklisted EnderChests and EnderTanks for visual bug reasons.
+- Re-added Create Chunkloading
+  - Thank you, **embeddedt, destroyer of launch times** for updating compat with Create 0.5.1.
+- Added Create Central Kitchen
+  - This has since become one of the important Create add ons in the other Finality variants.
+- Re-ddded Create Deco
+- Added Create Mechanical Extruder
+- Added Loot Journal, replacing 
+- Added ModernFix by **embeddedt, destroyer of launch times**
+- Added YUNG's Better Nether Fortresses
+
+### Mod Removals
+- Removed Rotten Creatures
+- Removed Create Confectionery
+
+---
+
+## Changelog June 30 2023
 This changelog is still for 0.1.2b. 
 
 Updated to Forge `43.2.14`.
 
-## Mod updates
+### Mod updates
 - Chunk Loaders updated from `chunkloaders-1.2.3-forge-mc1.19.jar` to `chunkloaders-1.2.4-forge-mc1.19.jar` https://www.curseforge.com/minecraft/mc-mods/chunk-loaders/files/4616515
 - Collective updated from `collective-1.19.2-6.59.jar` to `collective-1.19.2-6.62.jar` https://www.curseforge.com/minecraft/mc-mods/collective/files/4601903
 - Create Cafe updated from `createcafe-1.1.8-1.19.2.jar` to `createcafe-1.2.1-1.19.2.jar` https://www.curseforge.com/minecraft/mc-mods/create-cafe/files/4606222
@@ -30,7 +95,9 @@ Sorry I got tired of linking the changelogs ;-;
 - Supplementaries updated from `supplementaries-1.19.2-2.3.18.jar` to `supplementaries-1.19.2-2.3.20.jar`
 - Xaero's Minimap updated from `Xaeros_Minimap_23.4.4_Forge_1.19.1.jar` to `Xaeros_Minimap_23.5.0_Forge_1.19.1.jar`
 
-# Version 0.1.2 (KubeJS Create 0.5.1)
+## Version 0.1.2 (KubeJS Create 0.5.1)
+Note to self: find when this part of the changelog was written...
+Edit: Seems to be around June 15, 2023
 
 KubeJS Create has been updated to support Create 0.5.1.
 
@@ -39,11 +106,11 @@ Please delete the `scripts` folder in your instance that contains all of the `.z
 {: .highlight }
 All files have been scanned for Fractureiser malware before exporting. None of the files have it present as of 6.19.23
 
-## Mod additions
+### Mod additions
 - Forgot to add Catalogue, so it's back in as well.
 - Forgot to add Torchmaster, so it's back in.
 
-## Mod updates
+### Mod updates
 - Re-added KubeJS Create for 0.5.1 compatibility, ensure that `kubejs-create-forge-1902.2.4-build.5.jar` or higher is installed.
 - Updated KubeJS Create from `kubejs-create-forge-1902.2.4-build.5.jar` to `kubejs-create-forge-1902.2.4-build.9.jar`
 - Updated Drippy Loading Screen from `drippyloadingscreen_forge_2.2.1_MC_1.19.1-1.19.2.jar` to `drippyloadingscreen_forge_2.2.2_MC_1.19.1-1.19.2.jar` so you no longer have to worry about the ever growing `.txt` file in the config folder. Good thing I contacted Keksuccino about this XD
@@ -75,7 +142,7 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 - Open Parties and Claims from `open-parties-and-claims-forge-1.19.2-0.17.3.jar` to `open-parties-and-claims-forge-1.19.2-0.17.5.jar`
 - Updated Xaero's Minimap again, from `XaerosWorldMap_1.30.3_Forge_1.19.1.jar` to `XaerosWorldMap_1.30.6_Forge_1.19.1.jar`
 
-## Lib updates
+### Lib updates
 - Collective from `collective-1.19.2-6.53.jar` to `collective-1.19.2-6.57.jar`
 - Updated Collective from `collective-1.19.2-6.57.jar` to `collective-1.19.2-6.59.jar`
   - Fixed FABFunctions scanning unloaded chunks.
@@ -84,19 +151,19 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 - ShetiPhianCore from `shetiphiancore-forge-1.19.0-3.11.3.02.jar` to `shetiphiancore-forge-1.19.0-3.11.3.03.jar`
 - Moonlight Lib from `moonlight-1.19.2-2.2.37-forge.jar` to `moonlight-1.19.2-2.2.38-forge.jar`
 
-## Mod removals
+### Mod removals
 Please delete the `scripts` folder in your instance that contains all of the `.zs` files as they are no longer necessary. I never want to see that ZenScript again.
 - CraftTweaker
 - CreateTweaker
 
-# Version 0.1.2 (CraftTweaker)
+## Version 0.1.2 (CraftTweaker)
 This was while CraftTweaker was still present on June 10, 2023. 
 
 This update is currently in development and will be published soon.
 
 CraftTweaker will be staying until KubeJS Create is updated, I am not going to use JSON syntax for Sequenced Assembly.
 
-## Mod update teasers - Cataclysm, by L_Ender
+### Mod update teasers - Cataclysm, by L_Ender
 Lately L_Ender has been releasing very cool teasers. I can't be more excited! 
 
 Here are some links to the videos:
@@ -106,14 +173,14 @@ https://www.youtube.com/watch?v=V1mfYF085qA&ab_channel=%EC%97%94%EB%93%9C
 https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 
 
-## Documentation
+### Documentation
 - Updated FTB Quests in the Create chapter for the water wheel and large water wheel entries.
 - Updated Tome of Finality, it's going to be a bit difficult managing three different variations of the Patchouli guide book, but I can manage.
   - Thermal is not present, so Thermal related materials like lead and silver are missing, due to this some entries did not display properly.
   - Updated entry for getting energy to use Create Stuff & Additions accumulator instead.
 - Updated the Changelog button on the Main Menu to use the new wiki which is the one that you are on, right now.
 
-## Finality Core changes
+### Finality Core changes
 - Added placeholder items, I am planning to make a custom set of armor and tools to replace creativerite.
 - Added singularity cores which are now required to make singularities.
 - Morph-o-Tool can now accept the following tool types. Be careful while using it.
@@ -126,17 +193,17 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 - Removed the duplicate Beacon recipe from CraftTweaker
 - Changed modpack versioning back to x.x.x instead of 19.x.x.x for `Better Compatibility Checker`
 
-## Mod additions
+### Mod additions
 - Added Backpacked by MrCrayFish
 - Added Create Enchantment Industries, it is now compatible with Create 0.5.1.
 
-## Mod removals
+### Mod removals
 - Removed DefaultOptions
   - KubeJS will handle this.
 - Removed OpenLoader
   - Put simply, I was using it incorrectly...
 
-## Mod updates
+### Mod updates
 
 - Updated `Integrated Dungeons and Structures` to `idas_forge-1.7.4+1.19.2.jar` from `idas_forge-1.7.3+1.19.2.jar` to fix compatibility with Create 0.5.1. Thank you CraisinLord!
 - Updated `Integrated Stronghold` to `integrated_stronghold_forge-1.0.2+1.19.2.jar` from `integrated_stronghold_forge-1.0.1+1.19.2.jar` to fix compatibility with Create 0.5.1.
