@@ -8,6 +8,18 @@ nav_order: 6
 
 # Version 0.1.5b
 
+## 7.27.23 Changes
+
+### Mod Updates
+- Updated FTB Quests `ftb-quests-forge-1902.5.2-build.256.jar` to `ftb-quests-forge-1902.5.3-build.258.jar`
+- Updated ModernFIx by embeddedt, destroyer of launch times `modernfix-forge-5.3.2+mc1.19.2.jar` to `modernfix-forge-5.4.1+mc1.19.2.jar`
+- Updated Xaero's Minimap `Xaeros_Minimap_23.5.0_Forge_1.19.1.jar` to `Xaeros_Minimap_23.6.0_Forge_1.19.1.jar`
+- Updated Xaero's World Map `XaerosWorldMap_1.30.6_Forge_1.19.1.jar` to `XaerosWorldMap_1.31.0_Forge_1.19.1.jar`
+
+### Mod additions
+- Added Explorer's Compass
+- Added Nature's Compass
+
 ## 7.26.23 Changes
 
 ### Mod Updates
