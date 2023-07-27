@@ -60,7 +60,12 @@ Where it will hurt most is the amount of changed recipes from the other variants
   - This has since become one of the important Create add ons in the other Finality variants.
 - Re-ddded Create Deco
 - Added Create Mechanical Extruder
+- Re-added DefaultOptions
+- Added Etched
+- Added KleeSlabs
+- Added Locksmith
 - Added Loot Journal by Obscuria
+- Added NetherPortalFix
 - Added Red Power by Obscuria
 - Added ModernFix by **embeddedt, destroyer of launch times**
 - Added YUNG's Better Nether Fortresses
