@@ -8,6 +8,28 @@ nav_order: 7
 
 # Genesis 0.1.2b
 
+{: .warning }
+Create Confectionery has been removed, back up your items accordingly.
+
+## 7.27.23
+Singularity recipe changes have been implemented for the most part, but I'm still double checking everything.
+Implemented Infusion Crystals reworked recipe to avoid the disappearing output result bug.
+
+- Tempad now takes 30 seconds to recharge, a change carried over from the Mote variant of Finality.
+- Backpacked's Backpack now has 7 rows, a change carried over from the Mote variant of Finality.
+
+### Mod updates
+- Updated Cupboard `cupboard-1.19.2-1.2.jar` to `cupboard-1.19.2-1.4.jar`
+- Updated FTB Quests `ftb-quests-forge-1902.5.2-build.256.jar` to `ftb-quests-forge-1902.5.3-build.258.jar`
+- Updated Lootr `lootr-1.19-0.4.24.62.jar` to `lootr-1.19-0.4.24.64.jar`
+- Updated ModernFix by embeddedt, destroyer of launch times `modernfix-forge-5.4.0+mc1.19.2.jar` to `modernfix-forge-5.4.1+mc1.19.2.jar`
+- Updated Savage Ender Dragon `dragonfight-1.19.2-2.6.jar` to `dragonfight-1.19.2-3.9.jar`
+- Updated Xaero's Minimap `Xaeros_Minimap_23.5.0_Forge_1.19.1.jar` to `Xaeros_Minimap_23.6.0_Forge_1.19.1.jar`
+
+### Mod additions
+- Added Yeetus Experimentus
+  - Forgot to add this one.
+
 ## 7.26.23
 Hi, it's been a while since I updated this modpack. MANY updates have been made, but there have been no world breaking changes.
 
