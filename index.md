@@ -24,8 +24,8 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 KubeJS 6.1 has been released, in addition to KubeJS Create being fixed. Thank you so much Max! <3
 
 Also, apparently I absentmindedly had duplicate recipes in one of my script files, which has since been patched in the following modpack versions:
-- Mote 0.1.4b (in progress)
-- Tau 04a4 (in progress)
+- Mote 0.1.5b (in progress)
+- Tau 04a6 (in progress)
 - Omnia 06a3 (in progress)
 - Genesis 0.1.2b (in progress)
 
@@ -35,6 +35,12 @@ This has since been fixed in the following Finality versions:
 - Tau 04a1 and higher
 - Omnia 06a2 and higher
 - Genesis 0.1.2b and higher
+
+On the side of modpack contents...
+- [ ] Implement more thorough information regarding each mod to help new players understand more of each and every important component.
+- [ ] "Chapter" based progression quests.
+- [ ] Tome of Finality (in-game documentation)
+- [ ] Placeholders
 
 Currently there are **four** variants of the modpack, see the table below.
 
