@@ -29,6 +29,8 @@ Implemented Infusion Crystals reworked recipe to avoid the disappearing output r
 ### Mod additions
 - Added Yeetus Experimentus
   - Forgot to add this one.
+- Added Friendly Fire
+  - Also forgot to add this one. You can no longer hurt your pets!
 
 ## 7.26.23
 Hi, it's been a while since I updated this modpack. MANY updates have been made, but there have been no world breaking changes.
