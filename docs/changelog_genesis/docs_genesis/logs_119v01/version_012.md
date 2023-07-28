@@ -9,7 +9,7 @@ nav_order: 7
 # Genesis 0.1.2b
 
 {: .warning }
-Create Confectionery has been removed, back up your items accordingly.
+Create Confectionery has been removed.
 
 ## 7.27.23
 Singularity recipe changes have been implemented for the most part, but I'm still double checking everything.
@@ -263,6 +263,3 @@ https://www.youtube.com/watch?v=Jpbt3ZCOZ-U&ab_channel=%EC%97%94%EB%93%9C
 - Updated `Xaero's Minimap` to `Xaeros_Minimap_23.4.4_Forge_1.19.1.jar` from `Xaeros_Minimap_23.4.3_Forge_1.19.1.jar` see [changelog here](https://chocolateminecraft.com/update.php?mod_id=0)
 - Updated `Architectury` to `architectury-6.5.85-forge.jar`
 - Updated `Bookshelf` to `Bookshelf-Forge-1.19.2-16.3.20.jar` from `Bookshelf-Forge-1.19.2-16.2.18.jar`
-
-
-
