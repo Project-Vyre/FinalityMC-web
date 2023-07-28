@@ -6,6 +6,13 @@ grand_parent: Finality Genesis Changelog
 nav_order: 7
 ---
 
+# Genesis 0.1.2c
+
+- Fixed certain scripts on the KubeJS side of things. Nothing different on the user / player end, however.
+- Added another Create Extruder recipe.
+- Added JEI information to certain Cataclysm items.
+- Added tooltip information to certain Cataclysm items.
+
 # Genesis 0.1.2b
 
 {: .warning }
