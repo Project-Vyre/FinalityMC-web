@@ -8,10 +8,23 @@ nav_order: 7
 
 # Genesis 0.1.2c
 
+## 7.28.23
+
 - Fixed certain scripts on the KubeJS side of things. Nothing different on the user / player end, however.
 - Added another Create Extruder recipe.
 - Added JEI information to certain Cataclysm items.
 - Added tooltip information to certain Cataclysm items.
+- Added Supplementaries soap washing recipe for Create's Sticky Mechanical Piston. This will be applied to the other variants of Finality.
+- Added Create washing recipes for Create's Sticky Mechanical Piston and Minecraft's Sticky Piston. This will be applied to the other variants of Finality.
+- Changed configs for the Ender Dragon...
+- Added splashes.txt to modpack resourcepack. This change will be applied to the other variants of Finality.
+
+### Mod updates
+- Updated Cataclysm `L_Enders_Cataclysm-1.25-1.19.2.jar` to `L_Enders_Cataclysm-1.26-1.19.2.jar`
+- Updated Savage Ender Dragon `dragonfight-1.19.2-3.9.jar` to `dragonfight-1.19.2-4.0.jar`
+
+### Mod additions
+- Added Grimoire of Gaia
 
 # Genesis 0.1.2b
 
