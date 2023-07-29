@@ -13,7 +13,7 @@ Game Breaking
 In Development
 {: .label .label-yellow }
 
-Do not update `Flat Colored Blocks - For Forge` as the newest version still breaks server joining.
+Do not update `Flat Colored Blocks - For Forge` as the newest version still breaks server joining. Edit: The mod has since been removed in versions after 0.3.9.2b.
 {: .warning }
 
 {: .highlight }
@@ -21,7 +21,46 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+## 04b5 Update Release
+7.29.32
+
+Due to the removal of Weeping Angels, you may find missing blocks from the mod in your world. A world regeneration is not required as it does not add much.
+Variant Crafting Tables has also been removed.
+
+- Enigmatic Legacy's Enigmatic Vessel should now only be able to be picked up only by the owner.
+- Added Blue Skies compat for the Handheld Crafting Table.
+
+### Mod updates
+- Updated Cave Dweller Evolved `cave_dweller-1.19.2-1.4.0.jar` to `cave_dweller-1.19.2-1.5.1.jar`
+- Updated Clickable advancements `clickadv-1.19.2-3.0.jar` to `clickadv-1.19.2-3.1.jar`
+- Updated Crafting Tweaks `craftingtweaks-forge-1.19.2-15.1.7.jar` to `craftingtweaks-forge-1.19.2-15.1.8.jar`
+- Updated Create Central Kitchen `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.b.jar` to `create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.8.b.jar`
+- Updated FTB Quests `ftb-quests-forge-1902.5.1-build.250.jar` to `ftb-quests-forge-1902.5.3-build.258.jar`
+- Updated Fusion (Connected Textures) `fusion-1.0.3-forge-mc1.19.2.jar` to `fusion-1.0.5-forge-mc1.19.2.jar`
+- Updated KubeJS `kubejs-forge-1902.6.1-build.327.jar` to `kubejs-forge-1902.6.1-build.337.jar`
+- Updated Cataclysm `L_Enders_Cataclysm-1.23-1.19.2.jar` to `L_Enders_Cataclysm-1.26-1.19.2.jar`
+- Updated Lootr `lootr-1.19-0.4.24.62.jar` to `lootr-1.19-0.4.24.64.jar`
+- Updated ModernFix `modernfix-forge-5.3.2+mc1.19.2.jar` to `modernfix-forge-5.4.1+mc1.19.2.jar`
+- Updated Savage Ender Dragon `dragonfight-1.19.2-2.6.jar` to `dragonfight-1.19.2-4.0.jar`
+- Updated Sophisticated Core `sophisticatedcore-1.19.2-0.5.81.377.jar` to `sophisticatedcore-1.19.2-0.5.83.394.jar`
+- Updated Sophisticated Storage `sophisticatedstorage-1.19.2-0.8.38.555.jar` to `sophisticatedstorage-1.19.2-0.8.39.573.jar`
+- Updated Torchmaster `torchmaster-19.2.91.jar` to `torchmaster-19.2.93.jar`
+- Updated Xaero's Minimap `Xaeros_Minimap_23.5.0_Forge_1.19.1.jar` to `Xaeros_Minimap_23.6.0_Forge_1.19.1.jar`
+- Updated Xaero's World Map `XaerosWorldMap_1.30.6_Forge_1.19.1.jar` to `XaerosWorldMap_1.31.0_Forge_1.19.1.jar`
+
+### Mod additions
+- Re-added Create Deco
+- Re-added Create Chunkloading
+- Added Create Mechanical Extruder
+- Added Grimoire of Gaia
+
+### Mod removals
+- Removed the Weeping Angels mod due to significant performance impact in both singleplayer and multiplayer sessions. Developer will be backporting the fix soon, hopefully.
+- Removed Variant Crafting Tables
+
+
 ## 04a5 Update Release
+7.25.23
 
 - Added Cave Dweller Evolved
   - This was the missing piece.
