@@ -28,6 +28,7 @@ Due to the removal of Weeping Angels, you may find missing blocks from the mod i
 Variant Crafting Tables has also been removed.
 
 - Enigmatic Legacy's Enigmatic Vessel should now only be able to be picked up only by the owner.
+- Reconfigured the Ender Dragon fight to respawn end crystals less frequently.
 - Added Blue Skies compat for the Handheld Crafting Table.
 
 ### Mod updates
