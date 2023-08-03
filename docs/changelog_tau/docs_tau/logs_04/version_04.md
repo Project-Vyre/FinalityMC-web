@@ -59,7 +59,6 @@ Variant Crafting Tables has also been removed.
 - Removed the Weeping Angels mod due to significant performance impact in both singleplayer and multiplayer sessions. Developer will be backporting the fix soon, hopefully.
 - Removed Variant Crafting Tables
 
-
 ## 04a5 Update Release
 7.25.23
 
