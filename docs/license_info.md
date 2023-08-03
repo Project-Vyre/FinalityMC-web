@@ -11,7 +11,7 @@ Finality is released on CurseForge only as **All Rights Reserved** with the exce
 This covers the following files / folders.
 * All FTB Quests, their Rewards and arrangement in `\instance\config\ftbquests\quests`
 * All custom KubeJS **assets such as images, textures, blocks, block models, recipes** in `\instance\kubejs\`
-  * Scripts are under the **MIT license**, but remove `Finality` from the Recipe IDs when you are using them for your purposes.
+  * Recipe scripts are under the **MIT license**, but remove `Finality` from the Recipe IDs when you are using them for your purposes.
   * There is a reason why I don't like sharing my work online, and that is plagiarism and previous negative experiences. **DO NOT CLAIM MY ARTWORK AS YOUR OWN.**
 * All custom Finality FancyMenu assets in `\instance\resources` and `\instance\config\fancymenu\`
   * This also applies to customizations made with DrippyLoadingScreen and FancyMenu.
