@@ -40,7 +40,7 @@ On the side of modpack contents...
 - [ ] Implement more thorough information regarding each mod to help new players understand more of each and every important component.
 - [ ] "Chapter" based progression quests.
 - [ ] Tome of Finality (in-game documentation)
-- [ ] Placeholders
+- [*] Implement an actual cancel damage script for armor.
 
 Currently there are **four** variants of the modpack, see the table below.
 
