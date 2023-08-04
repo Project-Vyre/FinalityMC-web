@@ -8,6 +8,10 @@ nav_order: 7
 
 # Genesis 0.1.3
 
+This might not be considered a "minor" update, but I can assure you there are no world breaking changes. However, I can guarantee that you will have to change some sequenced assembly setups for the end goal if you got that far yet.
+
+Quest trees have also been reworked, so there's that...
+
 If your health is not correctly set after the addition of Spice of Life: Apply Pie Edition, you will need to respawn to reset your health. I deeply apologize if you are actually playing on Hardcore difficulty.
 
 Also got rid of the pesky GUI Scale warning, but please do not tell me why certain interface elements are intersecting with each other when you change your GUI scale to be something else other than 2.
