@@ -8,9 +8,20 @@ nav_order: 7
 
 # Genesis 0.1.3
 
+If your health is not correctly set after the addition of Spice of Life: Apply Pie Edition, you will need to respawn to reset your health. I deeply apologize if you are actually playing on Hardcore difficulty.
+
+Also got rid of the pesky GUI Scale warning, but please do not tell me why certain interface elements are intersecting with each other when you change your GUI scale to be something else other than 2.
+
 ## 8.4.23
 
+- Nights and Days have now been extended on this variant of Finality.
+  - You can also now sleep during the day.
+- Replaced Spice of Life: Carrot Edition with Spice of Life: Apple Pie Edition
+  - This might break your health a little bit.
 - Re-added the fancy animated singularity background.
+- Certain befriended entities will no longer despawn.
+- Changed Worldshaper recipe again, it now requires command blocks.
+- Switched Menu Music audio channel to use the Jukebox Record channel.
 
 ### Mod updates
 - KubeJS `kubejs-forge-1902.6.1-build.348.jar` to `kubejs-forge-1902.6.1-build.352.jar`
