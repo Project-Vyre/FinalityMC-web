@@ -8,6 +8,33 @@ nav_order: 7
 
 # Genesis 0.1.3
 
+## 8.4.23
+
+- Re-added the fancy animated singularity background.
+
+### Mod updates
+- KubeJS `kubejs-forge-1902.6.1-build.348.jar` to `kubejs-forge-1902.6.1-build.352.jar`
+
+### Mod additions
+- Added MemoryLeakFix by fxmorin
+- Added fix GPU memory leak by someaddon
+
+## 8.3.23
+
+- Added "Command Blocks" which are now required for the end goal.
+- Added a recipe to crush Apotheosis gemstones into dust without the use of an anvil by using Create's Millstones and Crushing Wheels.
+- Removed the stonecutting for pressure plates recipes due to recipe conflicts. You will still be able to make pressure plates for cheap though!
+- Going to be giving atmospheric and autumnity's logs the forge:stripped_logs tag so I don't need to make extra recipes.
+
+### Mod updates
+
+- KubeJS Create `kubejs-create-forge-1902.2.4-build.25.jar` to `kubejs-create-forge-1902.2.4-build.27.jar`
+  - If my netherrack creation recipe was not working previously, it was because of the NBT tag not being read properly. This was fixed yesterday in build 25 but build 27 adds processingTime by default to millstones.
+- Create Slice & Dice `sliceanddice-forge-2.2.1.jar` to `sliceanddice-forge-2.3.0.jar`
+- Farmer's Delight `FarmersDelight-1.19.2-1.2.2.jar` to `FarmersDelight-1.19.2-1.2.3.jar`
+- ModernFix `modernfix-forge-5.4.1+mc1.19.2.jar` to `modernfix-forge-5.5.1+mc1.19.2.jar`
+  - Bow before embeddedt, destroyer of load times
+
 ## 8.2.23
 
 - Ender Stars can now be made via a mixing recipe.
@@ -48,9 +75,6 @@ Added new singularities...
 - Grimoire of Gaia  `GrimoireOfGaia4-1.19.2-3.0.0-alpha.4.jar` to `GrimoireOfGaia4-1.19.2-3.0.0-alpha.5.jar`
 - Placebo `Placebo-1.19.2-7.3.1.jar` to `Placebo-1.19.2-7.3.2.jar`
 
-### Mod additions
-- Replaced Spice of Life: Carrot Edition with Spice of Life: Apple Edition
-
 ## 8.1.23
 
 - Adding molten gold as a liquid.
@@ -72,7 +96,7 @@ Added new singularities...
 ## 7.31.23
 
 - Continued quest tree and progression reworks and beginning to implement proper quest reward loot tables.
-- Implemented a compat recipe for Autumnity and Atmospheric's stripped logs to be compatible with Create. I'm not going to bother with tags for this for now.
+- ~~Implemented a compat recipe for Autumnity and Atmospheric's stripped logs to be compatible with Create. I'm not going to bother with tags for this for now.~~
 - Implemented a script to give players the quest book. Thanks squoshi <3
   - Also implemented a script to tell players about world lag on first load.
 - Retextured End Portal frame, again, modified with my personal touches. Will adjust later.
