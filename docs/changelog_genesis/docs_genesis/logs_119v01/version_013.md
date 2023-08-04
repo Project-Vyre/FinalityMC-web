@@ -1,9 +1,9 @@
 ---
 layout: minimal
-title: 0.1.2b (1.19.2)
+title: 0.1.3 (1.19.2)
 parent: Iteration 0.1
 grand_parent: Finality Genesis Changelog
-nav_order: 7
+nav_order: 6
 ---
 
 # Genesis 0.1.3
