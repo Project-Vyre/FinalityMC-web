@@ -8,6 +8,8 @@ nav_order: 7
 
 # Genesis 0.1.3
 
+This might seem rushed in some areas, because it is. Just IRL issues is all. As a result, I may have to release follow-up updates for this so stay tuned...
+
 This might not be considered a "minor" update, but I can assure you there are no world breaking changes. However, I can guarantee that you will have to change some sequenced assembly setups for the end goal if you got that far yet.
 
 Quest trees have also been reworked, so there's that...
