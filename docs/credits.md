@@ -9,12 +9,13 @@ This was just pasted over from the original GitHub repository wiki, I apologize 
 Please check out Cjbeards, very awesome music! [Cjbeards music is free use as mentioned here](https://docs.google.com/spreadsheets/d/1ZTM7nf4Uia19c-NQheqPnLAk1Bs6NS6XZiLt7Mk4Z1Q/edit#gid=0), but please check his [channel on YouTube.](https://www.youtube.com/channel/UCarvKz1XSCON68oeSZ1mlkg) I do not own any of his work or music. 
 * [menu1.ogg and 5.ogg] [Heart of the Wicked - Cjbeards](https://youtu.be/ZsKEZUgKaXg) {You may recognize this from FTB Legend of the Eyes.}
 * [menu2.ogg and 11.ogg] [From the Shadows - Cjbeards](https://youtu.be/m2IA-rXEKPk)
-* [Formerly menu3.ogg, now removed.] [Cubeponk - Cjbeards & Fayr](https://youtu.be/Id2LUBrnHh4)
+* [Formerly menu3.ogg, now replaced.] [Cubeponk - Cjbeards & Fayr](https://youtu.be/Id2LUBrnHh4)
 * [menu4.ogg and 13.ogg] [Mirror Mirror (Instrumental) - Cjbeards](https://youtu.be/u91uppHLfS4)
 * [end.ogg] [Shattered Glass - Cjbeards](https://youtu.be/rjumdHtHU5U)
 * [boss.ogg] [Brave the Storm - Cjbeards](https://youtu.be/dGmLKmxvJ0I)
-* [arlecchino.ogg and chirp.ogg] [Arlecchino Battle Theme Phase 1 & 2 (Fan-Made) | Genshin Impact - Farabi Hasan Music](https://youtu.be/1Jj5aAEYSeo)
+* [menu3.ogg and chirp.ogg] [Arlecchino Battle Theme Phase 1 & 2 (Fan-Made) | Genshin Impact - Farabi Hasan Music](https://youtu.be/1Jj5aAEYSeo)
   * *Feel free to use my mix as a BGM for your contents, but do please leave credits!*
+* [cjbeards_bad_deeds_inst.ogg](https://youtu.be/prrBvmXmMSY)
 
 # Contributors
 ## Modpack Team

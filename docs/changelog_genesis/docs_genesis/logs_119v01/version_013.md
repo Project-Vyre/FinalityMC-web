@@ -6,6 +6,38 @@ grand_parent: Finality Genesis Changelog
 nav_order: 6
 ---
 
+# Genesis 0.1.3a
+This update is a follow up update to the initial release of 0.1.3.
+Highlights include: 
+- Implementing that Backpacked recipe that I forgot to include in 0.1.2.
+- A few tweaks with FTB Quests and adding more rewards.
+- Cataclysm boss health adjustments.
+- Added a new soundtrack from Cjbeards.
+- WASW primary fire was somehow kept at a 40 tick cooldown. This has been reduced to 30 ticks.
+- WASW alt fire cooldown has been reduced as well from 100 to 60
+
+## 8.5.23
+Just a few mod updates.
+
+### Mod updates
+- Create Crafts & Additions `createaddition-1.19.2-20230623a.jar` to `createaddition-1.19.2-1.0.0.jar`
+- Grimoire of Gaia `GrimoireOfGaia4-1.19.2-3.0.0-alpha.5.jar` to `GrimoireOfGaia4-1.19.2-3.0.0-alpha.6.jar`
+
+## 8.4.23
+- Implemented the leather recipe for the backpack, this should have shipped with the initial 0.1.2-0.1.3 release and I'm sorry for it.
+- Updated Apotheosis `Apotheosis-1.19.2-6.3.1.jar` to `Apotheosis-1.19.2-6.3.2.jar`
+- Fixed some quest chapters showing up prematurely.
+- Fixed a reward on a certain chocolate related quest.
+- Removed the recipe override for the ender star mixing recipe.
+  - This gives you the option to still use Ender Crafting.
+- Adjusted Cataclysm boss health for the following bosses... The Harbinger will remain at 390 as he is extremely fast and can be challenging for new players.
+  - Netherite Monstrosity 1.2x, now has 600 HP. Default amount is 500.
+  - Ignis 1.2x, now has 540 HP. Default amount is 450.
+  - Leviathan 2x, now has 800 HP. Default amount is 400.
+    - Disabled block breaking for the Leviathan.
+
+---
+
 # Genesis 0.1.3
 
 This might seem rushed in some areas, because it is. Just IRL issues is all. As a result, I may have to release follow-up updates for this so stay tuned...
