@@ -6,6 +6,95 @@ grand_parent: Finality Genesis Changelog
 nav_order: 6
 ---
 
+# Important Things
+
+- Fixed solappliepie-server.toml not using the correct attribute for speed. (Patch B)
+  - VERY IMPORTANT! Copy and paste the new solappliepie-server.toml config file from the defaultconfigs folder into `saves\<your world name>\serverconfig`
+
+# Genesis 0.1.3c
+This is another follow up update to the initial release of 0.1.3.
+
+## 8.13.23
+- Removed the retexture for diorite.
+- Introduction chapter now uses Flexible progression.
+- The original gravel crushing recipe has been restored. Dirt is now renewable via mixing or with Mystical Agriculture.
+- Corrected Red Power typo. Should be *Amplifies the power of the input signal up to 10.* and not *Amplifier the power of the input signal up to 10.*
+- Reduced processing time for the Ultimate Singularity. Also now grants a guaranteed 3 ultimate nuggets, and 25% chance of giving 1-3 nuggets with a 75% chance of returning the singularity for re-processing.
+- Command Blocks are no longer consumed when making Structure Void.
+- The "Command Blocks" can now be mined.
+- Added chapter for Red Power (1.19.2+ exclusive)
+- Increased Cloud Storage chest limit to 262144 slots.
+
+### Mod updates
+- Apotheosis `Apotheosis-1.19.2-6.3.2.jar` to `Apotheosis-1.19.2-6.3.3.jar`
+- Moonlight Lib `moonlight-1.19.2-2.2.43-forge.jar` to `moonlight-1.19.2-2.2.44-forge.jar`
+- Server Performance - Smooth Chunk Save `smoothchunk-1.19.1-2.0.jar` to `smoothchunk-1.19.2-3.1.jar`
+
+### Mod additions
+- Added Lodestone
+
+## 8.10.23-8.12.23
+- Fixed non-functional red sand mixing recipe from the Mystical Agriculture Create compat script. This was never mentioned as invalid by KubeJS for some reason. As for what the typo was that resulted in this error not working: `['16x minecraft:red_sand', 16]` but it should have been `'16x minecraft:red_sand'`
+- Removed glowstone from the Create Neterrack crushing recipe. I actually forgot that glowstone is renewable via Create's automated brewing methods sooo yeah.
+- Removed more cursed vanilla recipes. Please don't be one of those people who SMELT or Blast quartz ore. This also applies to normal / deepslate diamond ore, emerald ore, old iron ore, etc.
+- Updated hiding script.
+- Iron ore blocks can now drop 1-2 by default without looting on your pickaxe.
+- Changed ItemID for High Entropy Alloy to match.
+- Changed recipe for Creativerite Ingots.
+- Changed recipe for Ultimerite Ingots.
+- Changed armor set strength effect bonus to 3.
+- Waystones actually now use inverse XP, so the further you are from a waystone the cheaper it is eventually going free after a certain distance.
+- Milk acquisition via Mystical Agriculture + Create has been added.
+- Supplementaries Quiver is now craftable.
+
+### Mod updates
+- Create Cafe `createcafe-1.2.2-1.19.2.jar` to `createcafe-1.2.3-1.19.2.jar`
+- Xaero's Minimap `Xaeros_Minimap_23.6.0_Forge_1.19.1.jar` to `Xaeros_Minimap_23.6.1_Forge_1.19.1.jar`
+
+### Mod additions
+- Added LootJS
+- Added Visual Workbench
+
+# Genesis 0.1.3b
+
+## 8.9.23 - 8.10.23
+This is another follow up update to the initial release of 0.1.3.
+- Fixed `solappliepie-server.toml` not using the correct attribute for speed.
+  - VERY IMPORTANT! Copy and paste the new .toml config from the defaultconfigs folder into `saves\<your world name>\serverconfig`
+- Quest progression in the Age of Creation chapter is now set to Flexible. Hopefully this eliminates the awkward ***"Oh, I already did this already... Why wasn't this tracked?"*** moments.
+  - Quest progression for Apotheosis is now set to Flexible.
+  - Quest progression for Storage Management is now set to Flexible.
+  - Quest progression for Epilogue is now set to Flexible. 
+  - Passangers seat quest now accepts all seat colors.
+- Damage cancellation script no longer produces errors but this is a temporary solution.
+- Blacklisted Backpacked from Carry On interaction to remove conflicting functionality.
+  - During further playtesting users were not able to pick up their backpacks by Shift + Right click because of Carry On overriding this feature. This has been fixed with the blacklist.
+- Enigmatic Legacy seems to be resetting the .omniconf file and we have been able to pick up enigmatic vessels of other players... I could have forgotten again, however.
+- Added more hints to the Apotheosis quest tree.
+- Added tooltips and hints related to Cloudstorage.
+- The Travel Staff recipe from Travel Anchors seems to have reversed materials and may have been broken for longer. This has now been fixed to what it was originally which was 2 iron ingots and 1 ender pearl.
+- Adjusted recipe for High Entropy alloy.
+- Adjusted Mechanical Extruder recipes for Create's orestones.
+- Buffed Baby Leviathan significantly.
+- Added even more Apotheosis compat recipes, this time for the arrows.
+- Added the Toggle Latch to the Create quest tree, I wasn't aware of it's existence actually...
+- Changed Mechanical Extruder recipe for orestones again. Crying Obsidian is no longer used.
+- Added actual recipes for the command blocks.
+- Added a recipe for vanilla spawners.
+- Increased Cloud Storage slots for both the cloud chest and static cloud chest from 4096 slots to 131072 slots
+
+### Mod updates
+- Connectivity `connectivity-1.19.2-4.4.jar` to `connectivity-1.19.2-4.5.jar`
+- Create Cafe `createcafe-1.2.1-1.19.2.jar` to `createcafe-1.2.2-1.19.2.jar`
+- Create Slice & Dice `sliceanddice-forge-2.3.0.jar` to `2.3.1`
+- Just Enough Resources `JustEnoughResources-1.19.2-1.2.2.200.jar` to `JustEnoughResources-1.19.2-1.2.2.236.jar`
+- Cataclysm `L_Enders_Cataclysm-1.28-1.19.2.jar` to `L_Enders_Cataclysm-1.29-1.19.2.jar`
+- Max Health Fix `MaxHealthFix-Forge-1.19.2-8.0.1.jar` to `MaxHealthFix-Forge-1.19.2-8.0.2.jar`
+- ModernFix `modernfix-forge-5.5.1+mc1.19.2.jar` to `modernfix-forge-5.6.0+mc1.19.2.jar`
+- Open Parties and Claims `open-parties-and-claims-forge-1.19.2-0.19.1.jar` to `open-parties-and-claims-forge-1.19.2-0.19.3.jar`
+- Pollen `pollen-forge-2.0.3.jar` to `pollen-forge-2.1.0.jar`
+- Xaero's World Map `XaerosWorldMap_1.31.0_Forge_1.19.1.jar` to `XaerosWorldMap_1.32.0_Forge_1.19.1.jar`
+
 # Genesis 0.1.3a
 This update is a follow up update to the initial release of 0.1.3.
 Highlights include: 
