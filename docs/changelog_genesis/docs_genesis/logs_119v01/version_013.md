@@ -12,7 +12,48 @@ nav_order: 6
   - VERY IMPORTANT! Copy and paste the new solappliepie-server.toml config file from the defaultconfigs folder into `saves\<your world name>\serverconfig`
 
 # Genesis 0.1.3c
-This is another follow up update to the initial release of 0.1.3.
+This is another follow up update to the initial release of 0.1.3 but has a hefty amount of mod additions mostly for decoration purposes. However, with the addition of Savage & Ravage, new pillager outposts will be different from existing ones in your world.
+
+## 8.14.23
+- Blacklisted Red Power blocks from being carried with Carry On.
+- Changed the retexture of the "Command Blocks" slightly.
+- Added additional information and rewards to Age of Creation quest nodes.
+- Returned orestone generation with the Mechanical Extruder. Command Block method produces a stack with every bonk.
+- Added additional food rewards and increased reward size, so you should be able to get more than 1 item.
+- GoG4 Soundpack is no longer selected by default.
+- Changed keybinds for Sitting, Crawling, Chat Peek. Only first time installations will have keybinds changed.
+- Added the primordial mechanisms.
+- Entropy Mechanism is now made with the ascendant mechanism which is made with each descending order of the primordial mechanism line. All I can say is good luck!
+- Entropy Mechanism percentage has been increased to 65% success rate.
+- Fixed Apotheosis gem recipes for Overworld, Nether and End gems!
+- You can now obtain Ancient rarity gems from Apotheosis!
+- Mystical Agriculture's Harvester block is no longer craftable.
+
+### Mod additions
+- Added NetJS for update notifications.
+- Added Abnormals Delight for Farmer's Delight compatibility
+  - This should have been here from the start...
+- Added Boatload
+- Added Clayworks
+- Added Personality
+- Added Savage & Ravage
+- Added Allurement
+- Added Chipped 
+- Added Handcrafted
+- Added Decorative Blocks
+- Added Dark Paintings
+- Added Cycle Paintings
+- Added Vertical Slabs Compat
+- Added Just Enough Painting Previews
+- Added Just Enough Effect Descriptions
+- Added Supplementaries Squared
+- Added Dimensional Paintings
+- Added BetterF3
+
+### Mod updates
+DO NOT UPDATE APOTHEOSIS to 6.3.4 as it causes a crash with Tempad!
+- Apotheosis `6.3.3` to `6.3.5`
+- Biomes o' Plenty `BiomesOPlenty-1.19.2-17.1.1.162.jar` to `1.19.2-17.1.2.544`
 
 ## 8.13.23
 - Removed the retexture for diorite.
@@ -24,6 +65,14 @@ This is another follow up update to the initial release of 0.1.3.
 - The "Command Blocks" can now be mined.
 - Added chapter for Red Power (1.19.2+ exclusive)
 - Increased Cloud Storage chest limit to 262144 slots.
+- Endgame Aquamirae gear is now unbreakable and can no longer burn in lava.
+- BHC Vitality Blade is now unbreakable and can no longer burn in lava.
+- Phantom Membranes can now be made from haunting rotten flesh.
+- Implemented Red Power recipe changes, specifically for the basic Node, Wires and Safety Glasses.
+- Implemented BHC Canister recipe change. Now uses iron sheets for the frame and soul sand as the core.
+- BHC relic apple now uses Golden Apples.
+- BHC wither bones can now be acquired from haunting bones but is not guaranteed.
+- Echo Shards can now be made by haunting Deepslate Shards, but with a low success rate.
 
 ### Mod updates
 - Apotheosis `Apotheosis-1.19.2-6.3.2.jar` to `Apotheosis-1.19.2-6.3.3.jar`
