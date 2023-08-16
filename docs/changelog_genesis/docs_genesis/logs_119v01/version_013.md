@@ -11,6 +11,33 @@ nav_order: 6
 - Fixed solappliepie-server.toml not using the correct attribute for speed. (Patch B)
   - VERY IMPORTANT! Copy and paste the new solappliepie-server.toml config file from the defaultconfigs folder into `saves\<your world name>\serverconfig`
 
+# Genesis 0.1.3e
+A follow up to Patch D with fixes for certain Mystical Agriculture recipes and more quest hints. One such example was honey essence combined with a glass bottle in a shaped recipe requiring the full 3x3 grid for some odd reason.
+
+- Default keybind for Personality's crawling has been set to X and toggled sprinting back to Ctrl (MC default)
+- Changed recipe method sorting so that Create's Item Draining method is not the first type shown to players.
+- Fixed quest branches displaying prematurely in the Age of Combat chapter without player interaction.
+- Enigmatic Legacy's darkness branch has been made entirely optional, a change that should have been applied earlier...
+- Added additional explanations for Apotheosis.
+- Added additional explanations for Mystical Agriculture.
+- Xaero's Minimap now displays IRL time.
+- Fixed shapeless version of the BHC Relic Apple recipe.
+- Fixed Honey Bottle recipe from Mystical Agriculture. Also added a vertical recipe for ease.
+- Removed extra diamond compacting recipe that I wrote, oops...
+- Fixed Honeycomb recipe from Mystical Agriculture.
+- Dragon Breath can now be crafted with a bottle and a dragon egg.
+
+### Mod updates
+- Cupboard `cupboard-1.19.2-1.5.jar` to `cupboard-1.19.2-1.6.jar`
+
+# Genesis 0.1.3d
+This is another follow up update to the initial release of 0.1.3c with very minor updates with no recipe changes. KubeJS's tag event visibility was "fixed", so you shouldn't have those illegal errors when loading a world as often. If you do still see the errors, follow the instructions provided by the error message.
+
+### Mod updates
+- KubeJS `kubejs-forge-1902.6.1-build.352.jar` to `kubejs-forge-1902.6.1-build.362.jar`
+- Quark `3.4-405` to `3.4-409`
+- Xaero's World Map `XaerosWorldMap_1.32.0_Forge_1.19.1.jar` to `XaerosWorldMap_1.33.0_Forge_1.19.1.jar`
+
 # Genesis 0.1.3c
 This is another follow up update to the initial release of 0.1.3 but has a hefty amount of mod additions mostly for decoration purposes. However, with the addition of Savage & Ravage, new pillager outposts will be different from existing ones in your world.
 
