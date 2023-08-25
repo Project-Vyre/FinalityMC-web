@@ -6,6 +6,9 @@ grand_parent: Finality Genesis Changelog
 nav_order: 5
 ---
 
+# Genesis 0.1.4a
+- Fixed Quiver recipe using forge:rope instead of forge:ropes
+
 # Genesis 0.1.4
 
 This update replaces JEI with REI and its addon counterparts where applicable. This means:
