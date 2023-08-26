@@ -6,8 +6,22 @@ grand_parent: Finality Genesis Changelog
 nav_order: 5
 ---
 
+# Genesis 0.1.4b 
+- 
+
 # Genesis 0.1.4a
-- Fixed Quiver recipe using forge:rope instead of forge:ropes
+
+## 8.25.23
+- ~~Fixed Quiver recipe using forge:rope instead of forge:ropes~~
+  - Just double checked in-game, the tag definitely **exists** and works on Genesis but not Mote.
+- Fixed early quest visibility.
+- Added information on where to acquire Farmer's Delight seeds (JEI and REI)
+- Turned of REI zoom on highlight.
+
+### Mod updates
+- Better chunk loading `betterchunkloading-1.19.2-1.9` to `betterchunkloading-1.19.2-2.1`
+- Jade `Jade-1.19.1-forge-8.8.1` to `Jade-1.19.1-forge-8.9.0`
+- REI Plugin Compatibilities `REIPluginCompatibilities-forge-9.0.63` to `REIPluginCompatibilities-forge-9.0.70`
 
 # Genesis 0.1.4
 

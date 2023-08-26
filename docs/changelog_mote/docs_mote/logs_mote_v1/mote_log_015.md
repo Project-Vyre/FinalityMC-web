@@ -6,6 +6,17 @@ grand_parent: Finality Mote Changelog
 nav_order: 6
 ---
 
+# Version 0.1.5b
+
+## 8.26.23 Changes
+- Fixed arrow recipe... coding 6 AM in the morning did this to me.
+- The addition of Elytra Slot does not add an additional slot! It only adds the ability to put elytras on your back.
+
+## Mod additions
+- Added Comforts
+- Added Elytra Slot
+- Added Caupona
+
 # Version 0.1.5a
 
 ## 8.25.23 Changes
