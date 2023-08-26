@@ -8,11 +8,19 @@ nav_order: 6
 
 # Version 0.1.5a
 
+## 8.25.23 Changes
+- I've been personally aware of Functional Storage drawers being overpowered, so a blanket recipe change has been implemented. Monobanks and Create Fluid Tanks are now required to make them.
+- Implemented version watcher.
+
+### Mod updates
+- Jade `Jade-1.19.1-forge-8.8.1` to `Jade-1.19.1-forge-8.9.0`
+
 ## 8.24.23 Changes
 Essential has added FancyMenu compatibility, so the menu has been redesigned slightly.
 - Applied Finality Genesis quest tree changes and additions.
 - Disabled Quark's Improved tooltips. Note to self: Make sure it's applied on Mote.
-- Fixed Quiver recipe using forge:rope instead of forge:ropes, need to apply this to Genesis 014a because it has the same issue.
+- ~~Fixed Quiver recipe using forge:rope instead of forge:ropes, need to apply this to Genesis 014a because it has the same issue.~~
+  - Just double checked in-game, the tag definitely **exists**.
 
 ### Mod Updates
 - Cupboard `cupboard-1.19.2-1.6` to `cupboard-1.19.2-1.8`
@@ -40,7 +48,12 @@ Essential has added FancyMenu compatibility, so the menu has been redesigned sli
 - Added Visual Workbench
 - Added The Salt
 - Added Sooty Chimneys
+- Added Monobank
 - Re-added Starlight
+
+### Mod removals
+- Removed AmbientSounds 5
+- Removed CreativeCore
 
 ## 8.15.23-8.17.23 Changes
 CurseForge decided to make file names no longer be able to be selected, so I have to type out the version numbers.
