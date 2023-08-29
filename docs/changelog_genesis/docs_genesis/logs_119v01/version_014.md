@@ -6,8 +6,29 @@ grand_parent: Finality Genesis Changelog
 nav_order: 5
 ---
 
-# Genesis 0.1.4b 
-- 
+# Genesis 0.1.4c
+
+I have a sneaking suspicion that predictive chunk loading from betterchunkloading by someaddon may be causing issues regarding chunks not visually loading... Please make an issue on the modpack repository with screenshots of this happening if this occurs and provide descriptions, steps to reproduce and the log file from `logs/latest.log`.
+
+## 8.27.23 - 8.29.23 Changes
+- Did some additional REI grouping work for Minecraft, Create, Chipped and others.
+- Forcefully applied GUI Scale 2 to all FancyMenu customized screens. In-game GUI scale is unaffected.
+- New loading screen.
+- Updated KubeJS `kubejs-forge-1902.6.1-build.364` to `kubejs-forge-1902.6.1-build.370`
+- Updated Backpacked `backpacked-2.1.12-1.19.2` to `backpacked-forge-1.19.2-2.1.13`
+- Updated ModernFix `modernfix-forge-5.7.1+mc1.19.2` to `modernfix-forge-5.7.2+mc1.19.2`
+- Added Real Camera
+- Added Observable
+
+## 8.26.23 Changes
+- Fixed a dumb mistake in FTB quests for the windmill quest node. You should have a total of 128 windmill sails not 124 and I have no idea why I made this change.
+- REI Plugin Compatibilities (REIPC) `REIPluginCompatibilities-forge-9.0.70` to `REIPluginCompatibilities-forge-9.0.78`
+
+# Genesis 0.1.4b
+This is just a very minor update, nothing new unfortunately.
+
+- Fixed arrow recipe using two feathers and one stick instead of the normal vanilla recipe. This is what modpack developing at 3 AM in the morning does to you.
+- Added more text to Create's quest tree.
 
 # Genesis 0.1.4a
 
