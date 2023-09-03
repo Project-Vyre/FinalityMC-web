@@ -6,6 +6,48 @@ grand_parent: Finality Genesis Changelog
 nav_order: 5
 ---
 
+# Genesis 0.1.4d
+
+### Future Planned Additions and Changes
+These weapons have been implemented but their effects are going to be implemented in a future update.
+- Something similar to the Skiajati from Warframe, every kill makes you invisible and gives additional speed.
+- Something similar to the Shadow Lance from Terraria that will inflict damage over time that ignores armor.
+- Cast iron related cookware and tools will require molten iron casting into sand casts.
+
+## 9.1.23 Changes
+- Added tooltip explaining the slot at the bottom of a Chalk Box's inventory.
+- Moved Main Menu audio back to the music channel.
+- Increased durability of Tridents to 1024
+- Etherium tools and armor are now unbreakable.
+- Aquamirae's Three-Bolt diving suit set is now unbreakable.
+- Aquamirae's Poisoned Chakra is now unbreakable.
+- Disabled Enigmatic Legacy's update notification message.
+- Added block compression recipes for Cobblestone
+- Added block compression recipes for Cobbled Deepslate
+- Added block compression recipes for Gravel
+- Added block compression recipes for Sand
+- Added block compression recipes for Red Sand
+- Added Zinc Nuggets to the loot pool of Creepers.
+- Reduced Netherite Scrap chance from crushing Netherrack from **0.02%** to **0.002%**
+- Removed Copper Valve Handle as a quest node reward. Now has to be crafted.
+- Corrected block observation objective for the Graveyard branch in the Age of Combat quest tree.
+- Added additional rewards and requirements to quest nodes that needed them.
+- Added additional recipes to make acquisition of Etherium easier.
+- Added Better Combat
+  - Added Better Combat support for Aquamirae
+  - Added Better Combat support for Better Combat for Finality tools
+- Updated REIPC `REIPluginCompatibilities-forge-9.0.78` to `REIPluginCompatibilities-forge-9.0.84`
+- Updated REI `RoughlyEnoughItems-9.1.643` to `RoughlyEnoughItems-9.1.650`
+- Updated Xaero's Minimap `Xaeros_Minimap_23.6.3_Forge_1.19.1` to `Xaeros_Minimap_23.7.0_Forge_1.19.1`
+- Updated Xaero's World Map `XaerosWorldMap_1.33.1_Forge_1.19.1` to `XaerosWorldMap_1.34.0_Forge_1.19.1`
+- Removed First Person Model because of slight conflicts with Real Camera.
+
+## 8.31.23 Changes
+- Updated Apotheosis `Apotheosis-1.19.2-6.3.5` to `Apotheosis-1.19.2-6.4.0`
+- Updated Carry On `carryon-forge-1.19.2-2.0.5.17` to `carryon-forge-1.19.2-2.1.1.21`
+- Updated Create Mechanical Extruder `create_mechanical_extruder-1.19.2-1.5.0.c-36` to `create_mechanical_extruder-1.19.2-1.5.2.c-36`
+- Updated Cupboard `cupboard-1.19.2-1.8` to `cupboard-1.19.2-1.9`
+
 # Genesis 0.1.4c
 
 I have a sneaking suspicion that predictive chunk loading from betterchunkloading by someaddon may be causing issues regarding chunks not visually loading... Please make an issue on the modpack repository with screenshots of this happening if this occurs and provide descriptions, steps to reproduce and the log file from `logs/latest.log`.
