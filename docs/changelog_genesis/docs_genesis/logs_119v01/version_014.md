@@ -6,6 +6,24 @@ grand_parent: Finality Genesis Changelog
 nav_order: 5
 ---
 
+# Genesis 0.1.4e
+- Reversed the Netherite Scrap drop chance from crushing Netherrack back to 0.002% instead of 0.0002% because it was actually too harsh from playtesting.
+- Fixed a major mistake. That mistake was putting the Valuable Riches loot table on the very first introductory quest node... 6 AM brain moment.
+- Clarified the wording for the Vial of Arcane Extraction and the Vial of Searing Expulsion.
+- Added Embeddium, by embeddedt (developer of ModernFix)
+  - Unfortunately crushing wheels still seem to exhibit unusual shading when rotating in a vertically oriented position.
+  - However, you can expect a *significant* and sustained FPS boost across the board.
+- A *small* introduction of one of the modpack's inspirations. 
+  - Also modified Worldshaper recipe for what's to come.
+  - Modified the Entropy Mechanism recipe for what's to come.
+- Added a duplication recipe for Nether Stars with a certain pickaxe.
+- Removed Roughly Enough Items as the default recipe provider, but built-in integration will still be maintained with parity with JEI.
+  - REIPC
+  - Roughly Enough Professions
+  - Roughly Enough Resources
+  - Roughly Enough Trades
+- Updated KubeJS `kubejs-forge-1902.6.1-build.370` to `kubejs-forge-1902.6.2-build.3`
+
 # Genesis 0.1.4d
 
 ### Future Planned Additions and Changes
@@ -28,7 +46,7 @@ These weapons have been implemented but their effects are going to be implemente
 - Added block compression recipes for Sand
 - Added block compression recipes for Red Sand
 - Added Zinc Nuggets to the loot pool of Creepers.
-- Reduced Netherite Scrap chance from crushing Netherrack from **0.02%** to **0.002%**
+- Reduced Netherite Scrap chance from crushing Netherrack from **0.002%** to **0.0002%**
 - Removed Copper Valve Handle as a quest node reward. Now has to be crafted.
 - Corrected block observation objective for the Graveyard branch in the Age of Combat quest tree.
 - Added additional rewards and requirements to quest nodes that needed them.
