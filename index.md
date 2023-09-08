@@ -8,7 +8,7 @@ Finality is a modpack series designed for pushing Create to its limits with a si
 {: .fs-6 .fw-300 }
 
 {: .important }
-The wiki is currently a work in progress and many updates will be made over time. 
+The wiki is currently a work in progress and many updates will be made over time. For now, please refer to the live FancyMenu announcement channels in each variant of the modpack.
 
 Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to be located on the LEFT side of your screen on this website! You can check the Trello Board by clicking the button below to keep up with the latest updates.
 
