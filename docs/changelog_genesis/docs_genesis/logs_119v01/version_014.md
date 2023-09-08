@@ -6,6 +6,9 @@ grand_parent: Finality Genesis Changelog
 nav_order: 5
 ---
 
+# Genesis 0.1.4f
+Please head over to the 0.2.0 changelog as the update now has breaking changes.
+
 # Genesis 0.1.4e
 - Reversed the Netherite Scrap drop chance from crushing Netherrack back to 0.002% instead of 0.0002% because it was actually too harsh from playtesting.
 - Fixed a major mistake. That mistake was putting the Valuable Riches loot table on the very first introductory quest node... 6 AM brain moment.
