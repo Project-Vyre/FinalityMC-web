@@ -13,6 +13,11 @@ I am fully aware of z-fighting on many blocks, but this is currently a limitatio
 
 Please ignore the "Failed to parse recipe" messages related to Architect's Palette mod. This is an issue from the mod itself and not KubeJS. I have attempted to correct the 9 errored recipes many times over with JSON files AND KubeJS but the mod does simply does not care.
 
+- [9.9.2023] Implemented Create's tooltip registry to items wherever applicable to avoid Rhino's concurrency error.
+- [9.9.2023] Implemented rectangle shape components and colored variations... Definitely not looking forward to making the others.
+- [9.8.2023] Witches now drop Lapis Lazuli.
+- [9.8.2023] Blacklisted Create Enchantment Industry from being picked up by Carry On so you no longer pick up your blazes when trying to take the Enchanting Guide you gave them.
+- [9.8.2023] Blacklisted Create Crafts & Additions from being picked up by Carry On.
 - [9.7.2023] Made Echo of the Ship Graveyard renewable with Create's automation methods.
 - [9.7.2023] Made Calcite renewable with Create's automation methods.
 - [9.7.2023] Made the Abyssal Sacrifice able to be fully automated.
@@ -37,6 +42,8 @@ Please ignore the "Failed to parse recipe" messages related to Architect's Palet
 - [9.5-6.2023] Added recipes for compressing HEA into Blocks of HEA and decompressing them into HEA ingots.
 
 ## Mod updates
+- [9.9.2023] Updated Embeddium `embeddium-0.1.2+mc1.19.2` to `embeddium-0.1.4+mc1.19.2`
+- [9.9.2023] Updated KubeJS `kubejs-forge-1902.6.2-build.10` to `kubejs-forge-1902.6.2-build.15`
 - [9.7.2023] Updated KubeJS `kubejs-forge-1902.6.2-build.5` to `kubejs-forge-1902.6.2-build.10`
 - [9.7.2023] ~~Updated Cucumber Library `Cucumber-1.19.2-6.0.7` to `Cucumber-1.19.2-6.0.8`~~
 - [9.7.2023] ~~Updated Extended Crafting `ExtendedCrafting-1.19.2-5.1.7` to `ExtendedCrafting-1.19.2-5.1.8`~~
