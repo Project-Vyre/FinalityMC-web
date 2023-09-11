@@ -1,7 +1,7 @@
 ---
 layout: minimal
-title: 0.1.5 (1.19.2)
-parent: Iteration 0.1
+title: 0.2.0 (1.19.2)
+parent: Iteration 0.2
 grand_parent: Finality Genesis Changelog
 nav_order: 9
 ---
@@ -13,9 +13,10 @@ I am fully aware of z-fighting on many blocks, but this is currently a limitatio
 
 Please ignore the "Failed to parse recipe" messages related to Architect's Palette mod. This is an issue from the mod itself and not KubeJS. I have attempted to correct the 9 errored recipes many times over with JSON files AND KubeJS but the mod does simply does not care.
 
+- [9.10.2023] Increased Zinc Nugget drop rate from Creepers from 5% to 10%.
 - [9.9.2023] Implemented Create's tooltip registry to items wherever applicable to avoid Rhino's concurrency error.
 - [9.9.2023] Implemented rectangle shape components and colored variations... Definitely not looking forward to making the others.
-- [9.8.2023] Witches now drop Lapis Lazuli.
+- [9.8.2023] Witches now drop Lapis Lazuli, starting at 10%
 - [9.8.2023] Blacklisted Create Enchantment Industry from being picked up by Carry On so you no longer pick up your blazes when trying to take the Enchanting Guide you gave them.
 - [9.8.2023] Blacklisted Create Crafts & Additions from being picked up by Carry On.
 - [9.7.2023] Made Echo of the Ship Graveyard renewable with Create's automation methods.
