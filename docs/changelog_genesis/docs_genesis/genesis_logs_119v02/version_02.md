@@ -13,6 +13,8 @@ I am fully aware of z-fighting on many blocks, but this is currently a limitatio
 
 Please ignore the "Failed to parse recipe" messages related to Architect's Palette mod. This is an issue from the mod itself and not KubeJS. I have attempted to correct the 9 errored recipes many times over with JSON files AND KubeJS but the mod does simply does not care.
 
+- [9.11.2023] Finished the majority of shape textures... Last few checks and double checking.
+- [9.11.2023] Made Lil' Wings Enderfly Net unbreakable.
 - [9.10.2023] Increased Zinc Nugget drop rate from Creepers from 5% to 10%.
 - [9.9.2023] Implemented Create's tooltip registry to items wherever applicable to avoid Rhino's concurrency error.
 - [9.9.2023] Implemented rectangle shape components and colored variations... Definitely not looking forward to making the others.
@@ -43,6 +45,8 @@ Please ignore the "Failed to parse recipe" messages related to Architect's Palet
 - [9.5-6.2023] Added recipes for compressing HEA into Blocks of HEA and decompressing them into HEA ingots.
 
 ## Mod updates
+- [9.12.2023] Updated Server Performance - Smooth Chunk Save `smoothchunk-1.19.2-3.1` to `smoothchunk-1.19.2-3.2`
+- [9.11.2023] Updated Artifacts `artifacts-1.19.2-5.0.3` to `artifacts-1.19.2-5.0.4`
 - [9.9.2023] Updated Embeddium `embeddium-0.1.2+mc1.19.2` to `embeddium-0.1.4+mc1.19.2`
 - [9.9.2023] Updated KubeJS `kubejs-forge-1902.6.2-build.10` to `kubejs-forge-1902.6.2-build.15`
 - [9.7.2023] Updated KubeJS `kubejs-forge-1902.6.2-build.5` to `kubejs-forge-1902.6.2-build.10`
