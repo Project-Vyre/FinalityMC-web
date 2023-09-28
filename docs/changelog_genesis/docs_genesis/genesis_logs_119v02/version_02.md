@@ -16,13 +16,12 @@ Apologies if the new changelog format is a bit unusual. Changed it again with RC
 
 ## Release Candidate 3 Changes
 These changes should have been in Release Candidate 2 which was released a bit *too* early, but at least playtesting showed some things that I forgot to address. I **will** be taking my time on this. Full release will require a re-do of every draft texture and other uses for the shapes.
+New versions of Cucumber Library, Extended Crafting and Mystical Agriculture related mods are *still* incompatible with KubeJS. DO NOT UPDATE THEM.
 
 - [9.28.23] Removed Incubation Fried egg recipe as it was causing issues in Fried Egg Create bulk smoking.
 - [9.28.23] Iron Wands no longer cost C.U.E fluid.
 
 ### RC3 Mod Updates
-- [9.28.2023] Updated Extended Crafting `` to
-- [9.28.2023] Updated Cucumber Library `Cucumber-1.19.2-6.0.7` to `Cucumber-1.19.2-6.0.9`
 - [9.28.2023] Updated FTB Backups `ftbbackups2-forge-1.19.2-1.0.19` to `ftbbackups2-forge-1.19.2-1.0.22`
 - [9.28.2023] Updated The Aether `aether-1.19.2-1.0.0-beta.1.1-forge` to `aether-1.19.2-1.0.0-beta.1.2-forge`
 
