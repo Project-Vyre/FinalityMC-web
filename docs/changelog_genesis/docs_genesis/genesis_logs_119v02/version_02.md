@@ -12,11 +12,93 @@ I was debating on if I should release this as Patch F or just go for 0.1.5 just 
 - I am fully aware of z-fighting on many blocks, but this is currently a limitation of Sodium and is outside of my control. Feel free to disable Embeddium (fork of Sodium) if it bothers you too much.
 - Please ignore the "Failed to parse recipe" messages related to Architect's Palette mod. This is an issue from the mod itself and not KubeJS. I have attempted to correct the 9 errored recipes many times over with JSON files AND KubeJS but the mod does simply does not care.
 
-Apologies if the new changelog format is a bit unusual.
+Apologies if the new changelog format is a bit unusual. Changed it again with RC3.
 
-## Changes
+## Release Candidate 3 Changes
+These changes should have been in Release Candidate 2 which was released a bit *too* early, but at least playtesting showed some things that I forgot to address. I **will** be taking my time on this. Full release will require a re-do of every draft texture and other uses for the shapes.
+
+- [9.28.23] Removed Incubation Fried egg recipe as it was causing issues in Fried Egg Create bulk smoking.
+- [9.28.23] Iron Wands no longer cost C.U.E fluid.
+
+### RC3 Mod Updates
+- [9.28.2023] Updated Extended Crafting `` to
+- [9.28.2023] Updated Cucumber Library `Cucumber-1.19.2-6.0.7` to `Cucumber-1.19.2-6.0.9`
+- [9.28.2023] Updated FTB Backups `ftbbackups2-forge-1.19.2-1.0.19` to `ftbbackups2-forge-1.19.2-1.0.22`
+- [9.28.2023] Updated The Aether `aether-1.19.2-1.0.0-beta.1.1-forge` to `aether-1.19.2-1.0.0-beta.1.2-forge`
+
+### RC3 Mod Removals
+None at this time.
+
+### RC3 Mod Additions
+None at this time.
+
+---
+
+## Release Candidate 2 Changes
+Hello.
+PLEASE
+READ
+THE
+CHANGELOG, thank you.
+
+Since **someone** was so eager to play the new update... Please report any issues you experience on the GitHub repository, thank you. There may be issues that I have not accounted for.
+- [9.26.2023] Entropy Mechanism will now require 3 loops to craft, with weights adjusted.
+- [9.26.2023] Fixed Eccentric Tome's tooltip. 758ada8
+- [9.26.2023] Forcibly apply modpack resources to resolve seeing missing textures in some areas. adb6734
+- [9.26.2023] Changed default keybind for disabling voice chat to `Not bound` to remove conflict with the keybind for sitting. https://github.com/Project-Vyre/Finality-Genesis/commit/7da3262141e77bb6c2dab3799acc8f81ddcf08d2#diff-c43fc778bde2aa1368f744a3fbdca45d8ea7a75f794f40fceab72dae0b439dffL93-R93
+- [9.25.2023] Re-implemented Create Crafts and Additions bioethanol. https://github.com/Project-Vyre/Finality-Genesis/commit/7da3262141e77bb6c2dab3799acc8f81ddcf08d2#diff-56b6088c8858d7947b9bb27f4ee3bcdc07ced278b4e0be381fc983565554e3c5
+- [9.25.2023] Liquid fuels in buckets from Create Crafts & Additions are now compatible with Blaze Burners. For example, Seed Oil and Bioethanol buckets. https://github.com/Project-Vyre/Finality-Genesis/commit/7da3262141e77bb6c2dab3799acc8f81ddcf08d2#diff-32d2795f04017334ba7d4b5c0e9f9b45fbb2ff60a796d84f7b8335dcfef9d0f1R524-R526
+- [9.25.2023] Increased limit for the Boon of the Earth enchantment. 414ec90
+- [9.24.2023] Added recipe for Lil' Wings Swallowtail paper wings to be able to converted into 3x string.
+- [9.24.2023] Added Quartz block reversal recipe in case you have friends who compressed your Quartz into Quartz blocks. Thank me later.
+- [9.24.2023] Added the Pixelated Enhanced Visuals resourcepack to remove the HD textures of Enhanced Visuals. Please note that you will need to update selected resourcepacks on your end.
+- [9.24.2023] Added more blocks to the Blockrunner tag list.
+- [9.24.2023] Added conversion recipe for BOP Rose Quartz and recipes for flesh blocks.
+- [9.23.2023] Added forge:wither_bones to Architect's Palette Withered Bones
+- [9.23.2023] Create Crafts and Additions now has uses for gold rods so it has been removed from the REI / JEI hide list.
+- [9.23.2023] Changed maximum trade limit on Andesite Alloy from the Goblin Trader from 128 to 32.
 - [9.21.2023] Added Goblin Trader trades for Raw Zinc to Zinc Ingot conversion.
 - [9.21.2023] Reduced enchanting time for Enchanted Gravitite Blocks from 750 ticks to 500 ticks.
+
+### RC2 Mod Updates
+- [9.26.2023] Updated ESSENTIAL `essential_1-2-2-1_forge_1-19-2` to `essential_1-2-2-2_forge_1-19-2`
+- [9.25.2023] Updated Embeddium `embeddium-0.1.8+mc1.19.2` to `embeddium-0.1.10+mc1.19.2`
+- [9.25.2023] Updated Xaero's Minimap `Xaeros_Minimap_23.8.0_Forge_1.19.1` to `Xaeros_Minimap_23.8.2_Forge_1.19.1`
+- [9.25.2023] Updated Simple Voice Chat `voicechat-forge-1.19.2-2.4.24` to `voicechat-forge-1.19.2-2.4.25`
+- [9.25.2023] Updated ModernFix `modernfix-forge-5.7.2+mc1.19.2` to `modernfix-forge-5.7.4+mc1.19.2`
+- [9.25.2023] Updated Create Crafts & Additions `createaddition-1.19.2-1.1.0` to `createaddition-1.19.2-1.1.1`
+- [9.23.2023] Updated Create Central Kitchen `create_central_kitchen-1.19.2-for-create-0.5.1.c-1.3.9.c` to `create_central_kitchen-1.19.2-for-create-0.5.1.e-1.3.9.d`
+- [9.23.2023] Updated Chalk `chalk-1.19.2-1.6.0` to `chalk-1.19.2-1.6.2`
+- [9.23.2023] Updated Better Chunk Loading `betterchunkloading-1.19.2-2.1` to `betterchunkloading-1.19.2-2.2`
+- [9.23.2023] Updated Chunk Sending `chunksending-1.19.2-2.6` to `chunksending-1.19.2-2.7`
+- [9.23.2023] Updated Clickable Advancements `clickadv-1.19.2-3.4` to `clickadv-1.19.2-3.5`
+- [9.23.2023] Updated Collective `collective-1.19.2-6.65` to `collective-1.19.2-6.66`
+- [9.23.2023] Updated Connectivity `connectivity-1.19.2-4.5` to `connectivity-1.19.2-4.6`
+- [9.23.2023] Updated Create Enchantment Industry `create_enchantment_industry-1.19.2-for-create-0.5.1.c-1.2.6.b` to `create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.6.c`
+- [9.23.2023] Updated Embeddium `embeddium-0.1.7+mc1.19.2` to `embeddium-0.1.8+mc1.19.2`
+- [9.23.2023] Updated Cataclysm `L_Enders_Cataclysm-1.34 -1.19.2` to `L_Enders_Cataclysm-1.35 -1.19.2`
+- [9.23.2023] Updated Server Performance - Smooth Chunk Save `smoothchunk-1.19.2-3.2` to `smoothchunk-1.19.2-3.4`
+- [9.23.2023] Updated Structure Gel API `structure_gel-1.19.2-2.7.2` to `structure_gel-1.19.2-2.7.3`
+- [9.23.2023] Updated EnderChests `enderchests-forge-1.19.0-1.10.1.03` to `enderchests-forge-1.19-1.10.7`
+- [9.23.2023] Updated EnderTanks `endertanks-forge-1.19.0-1.12.1.04` to `endertanks-forge-1.19-1.12.8`
+- [9.23.2023] Updated ShetiPhianCore `shetiphiancore-forge-1.19.0-3.11.3.04` to `shetiphiancore-forge-1.19-3.11.10`
+- [9.22.2023] Updated Create Mechanical Extruder `create_mechanical_extruder-1.19.2-1.5.6.c-36.jar` to `create_mechanical_extruder-1.19.2-1.5.7.e-44`
+- [9.21.2023] Updated YUNG's Better Ocean Monuments `YungsBetterOceanMonuments-1.19.2-Forge-2.1.0` to `YungsBetterOceanMonuments-1.19.2-Forge-2.1.1`
+- [9.21.2023] Updated Embeddium `embeddium-0.1.6+mc1.19.2` to `embeddium-0.1.7+mc1.19.2`
+- [9.21.2023] Updated Create `0.5.1c` to `0.5.1e`
+
+### RC2 Removals
+- [9.26.2023] Removed Seals
+- [9.26.2023] Removed Raised
+
+### RC2 Mod Additions
+- [9.26.2023] Added Structure Essentials
+- [9.26.2023] Added MmmMmmMmmMmm (Target Dummy)
+- [9.23.2023] Added ImmediatelyFast
+
+---
+
+## Release Candidate 1 Changes
 - [9.20.2023] Forgot to document moving Jade to the center of the screen directly under the reticle, oops.
 - [9.20.2023] Removed BHC's Enchanted Golden Apple recipe.
 - [9.20.2023] Deepslate now requires a Stone Pickaxe to mine.
@@ -30,8 +112,8 @@ Apologies if the new changelog format is a bit unusual.
 - [9.17.2023] Implemented Create integration for Grimoire of Gaia items.
 - [9.17.2023] Added a tooltip for the Balloon Stand.
 - [9.17.2023] Added a recipe for making Static Cloud Blocks. The power of science!
-- [9.17.2023] Changed the Jade tooltip color from gold to yellow and slightly moved it. ~~I'm fully aware that Explorer's and Nature's Compass do conflict with it in UI terms, but Jade isn't always visible so it will remain on the top left corner.~~ Edit: Moved it to the center of the screen.
-- [9.16.2023] Increased duration of Create Cafe effects significantly from 10 seconds to 5 minutes. This is not properly displayed on the tooltip of each drink, however. Please note that this is a serverconfig change, so you will need to copy the new config file from the defaultconfigs folder!
+- [9.17.2023] Changed the Jade tooltip color from gold to yellow and slightly moved it. ~~I'm fully aware that Explorer's and Nature's Compass do conflict with it in UI terms, but Jade isn't always visible so it will remain on the top left corner.~~ Edit: Moved it to the center of the screen. f22b6bc
+- [9.16.2023] Increased duration of Create Cafe effects significantly from 10 seconds to 5 minutes. This is not properly displayed on the tooltip of each drink, however. Please note that this is a serverconfig change, so you will need to copy the new config file from the defaultconfigs folder! 0dcbe21
 - [9.16.2023] Supplementaries Quivers now hold 9 stacks of arrows instead of 6.
 - [9.15.2023] Cosmic Cod spawning has been disabled entirely. They have been determined as the source of lag during the End Dragon boss fight as linked here: https://github.com/someaddons/SavageEnderDragon/issues/37 
 - [9.15.2023] You now get struck by lightning if you *miss the point* of sandpaper.
@@ -76,7 +158,7 @@ Apologies if the new changelog format is a bit unusual.
   - Re-implemented the old method of acquiring Condensed Universal Entropy which involved no heating whatsoever.
   - Now provides an increased yield if superheated.
 - [9.5-6.2023] Added quest nodes for Construction Wand related items. 962023
-- [9.5-6.2023] Added Drowned, Hoglin and Husk Gateway pearls for unlimited copper and hogskin.
+- [9.5-6.2023] Added Drowned, Hoglin and Husk Gateway pearls for unlimited copper and hogskin. cf5ea19
 - [9.5-6.2023] Added text for Phantom Membranes being renewable by haunting rotten flesh.
 - [9.5-6.2023] Added text for the Enigmatic Amulet and a certain ring for new players to understand their purposes.
 - [9.5-6.2023] Corrected multiple Handcrafted recipes. I genuinely do not know why they decided to handicap Create with lower percentages when making wood boards.
@@ -88,21 +170,14 @@ Apologies if the new changelog format is a bit unusual.
 - [9.5-6.2023] Added Tier 2 and Tier 3 Artifact reward tables.
 - [9.5-6.2023] Added recipes for compressing HEA into Blocks of HEA and decompressing them into HEA ingots.
 
-## Mod removals
+### RC1 Removals
 - [9.16.2023] ~~Removed The Aether mod due to incompatibilities with Controlling, Catalogue and a few others. Will add back at a later date once things are more stable with it.~~ Edit: The Aether has been re-instated because of the newest patch fixing this issue.
 - [9.16.2023] Removed BetterF3 due to incompatibility with The Aether.
   - They did release a fix for it for 1.19.4, in however. See the following links:
   - https://github.com/The-Aether-Team/The-Aether/issues/1693#issuecomment-1712915654
   - https://github.com/cominixo/BetterF3/issues/147
 
-## Mod updates
-- [9.23.2023] Updated EnderChests `enderchests-forge-1.19.0-1.10.1.03` to `enderchests-forge-1.19-1.10.7`
-- [9.23.2023] Updated EnderTanks `endertanks-forge-1.19.0-1.12.1.04` to `endertanks-forge-1.19-1.12.8`
-- [9.23.2023] Updated ShetiPhianCore `shetiphiancore-forge-1.19.0-3.11.3.04` to `shetiphiancore-forge-1.19-3.11.10`
-- [9.22.2023] Updated Create Mechanical Extruder `create_mechanical_extruder-1.19.2-1.5.6.c-36.jar` to `create_mechanical_extruder-1.19.2-1.5.7.e-44`
-- [9.21.2023] Updated YUNG's Better Ocean Monuments `YungsBetterOceanMonuments-1.19.2-Forge-2.1.0` to `YungsBetterOceanMonuments-1.19.2-Forge-2.1.1`
-- [9.21.2023] Updated Embeddium `embeddium-0.1.6+mc1.19.2` to `embeddium-0.1.7+mc1.19.2`
-- [9.21.2023] Updated Create `0.5.1c` to `0.5.1e`
+### RC1 Mod Updates
 - [9.20.2023] Updated Placebo `Placebo-1.19.2-7.3.2` to `Placebo-1.19.2-7.3.3`
 - [9.20.2023] Updated FTB Quests `ftb-quests-forge-1902.5.4-build.275` to `ftb-quests-forge-1902.5.5-build.297`
 - [9.20.2023] Updated Embeddium `embeddium-0.1.5+mc1.19.2` to `embeddium-0.1.6+mc1.19.2`
@@ -130,13 +205,13 @@ Apologies if the new changelog format is a bit unusual.
 - [9.7.2023] ~~Updated Cucumber Library `Cucumber-1.19.2-6.0.7` to `Cucumber-1.19.2-6.0.8`~~
 - [9.7.2023] ~~Updated Extended Crafting `ExtendedCrafting-1.19.2-5.1.7` to `ExtendedCrafting-1.19.2-5.1.8`~~
 - [9.7.2023] ~~Updated Mystical Agriculture `MysticalAgriculture-1.19.2-6.0.11` to `MysticalAgriculture-1.19.2-6.0.12`~~
-- [9.7.2023] Edit: Do not update these mods to the latest version! ExtendedCrafting will delete all singularities, including its own.
+- [9.7.2023] Edit: Do not update `Cucumber Library`, `Extended Crafting`, and `Mystical Agriculture` to the latest version on 1.19.2! Extended Crafting will delete all singularities, including its own.
 - [9.5-6.2023] Updated KubeJS `kubejs-forge-1902.6.2-build.3` to `kubejs-forge-1902.6.2-build.5`~~
 - [9.5-6.2023] Updated Clickable advancements `clickadv-1.19.2-3.1` to `clickadv-1.19.2-3.4`
 - [9.5-6.2023] Updated Embeddium `embeddium-0.1.0+mc1.19.2` to `embeddium-0.1.2+mc1.19.2`
 - [9.5-6.2023] Updated Create Slice & Dice `sliceanddice-forge-2.3.1` to `sliceanddice-forge-2.3.2`
 
-## Mod additions
+### RC1 Mod Additions
 - [9.20.2023] Added Paper Doll
 - [9.20.2023] Added Loot Beams
 - [9.20.2023] Added Armor Stand Shift Swap
