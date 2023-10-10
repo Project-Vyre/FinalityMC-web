@@ -21,6 +21,16 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 
 Updated to `Forge 43.2.14` from `Forge 43.2.11`.
 
+## 0.4.0 release
+
+8.9.23
+
+### Mod updates
+- 
+
+### Mod additions
+- 
+
 ## 04b5 Update Release
 7.29.32
 

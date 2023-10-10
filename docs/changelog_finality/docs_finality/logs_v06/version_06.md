@@ -27,6 +27,54 @@ A few mistakes that I missed, the lack of sleep is really affecting this.
 
 - Corrected amount of Inferior Infusion Essence required to make the Infusion Crystal.
 
+# Alpha Build 06a3
+Changelog for 9.15.23
+
+## Mod updates
+It's been a while...
+- Chunk Loaders `chunkloaders-1.2.5-forge-mc1.18` to `chunkloaders-1.2.7-forge-mc1.18`
+- Collective `collective-1.18.2-6.62` to `collective-1.18.2-6.65`
+- Create Central Kitchen `0.5.1b-1.3.7d` to `0.5.1c-1.3.7g`
+- Create Crafts & Additions `createaddition-1.18.2-20230623a.jar` to `createaddition-1.18.2-1.0.0`
+- Create Enchantment Industry `0.5.1b-1.2.5` to `0.5.1c-1.2.6b`
+- Create Slice & Dice `sliceanddice-forge-1.2.1` to `sliceanddice-forge-1.3.2`
+- Cyclops Core `CyclopsCore-1.18.2-1.17.5` to `CyclopsCore-1.18.2-1.17.6`
+- EnergeticSheep `EnergeticSheep-1.18.2-1.1.8` to `EnergeticSheep-1.18.2-1.1.9`
+- Essential `Essential-forge_1-18-2` to `essential_1-2-2_forge_1-18-2`
+- Etched `etched-forge-2.2.0+1.18.2` to `etched-forge-2.2.1+1.18.2`
+- Every Compat `everycomp-1.18.2-1.5.18` to `everycomp-1.18.2-1.6.4`
+- FancyMenu `fancymenu_forge_2.14.7_MC_1.18.2` to `fancymenu_forge_2.14.9_MC_1.18.2`
+- Farmer's Delight `FarmersDelight-1.18.2-1.2.1` to `FarmersDelight-1.18.2-1.2.3`
+- Fusion `fusion-1.0.3-forge-mc1.18` to `fusion-1.0.5-forge-mc1.18`
+- Grimoire of Gaia `GrimoireOfGaia4-1.18.2-2.0.0-alpha.38` to `GrimoireOfGaia4-1.18.2-2.0.0-beta.5`
+- Login Protection `logprot-1.18.2-1.6` to `logprot-1.18.2-1.7`
+- Mahou Tsukai `mahoutsukai-1.18.2-v1.34.52` to `mahoutsukai-1.18.2-v1.34.57`
+- ModernFix `modernfix-forge-5.2.2+mc1.18.2` to `modernfix-forge-5.7.2+mc1.18.2`
+- Modonomicon `modonomicon-1.18.2-1.33.0` to `modonomicon-1.18.2-1.33.1`
+- Moonlight Lib `selene-1.18.2-1.17.9` to `selene-1.18.2-1.17.14`
+- Occultism `occultism-1.18.2-1.81.0` to `occultism-1.18.2-1.84.0`
+- Open Parties and Claims `open-parties-and-claims-forge-1.18.2-0.19.0` to `open-parties-and-claims-forge-1.18.2-0.19.3`
+- Puzzles Lib `PuzzlesLib-v3.4.6-1.18.2-Forge` to `PuzzlesLib-v3.5.8-1.18.2-Forge`
+- Raised `raised-forge-1.18.2-1.2.3` to `raised-forge-1.18.2-2.0.0`
+- Rechiseled `rechiseled-1.1.1-forge-mc1.18` to `rechiseled-1.1.4-forge-mc1.18`
+- Simple Discord RPC `simple-rpc-1.18.2-3.2.2` to `simple-rpc-1.18.2-3.2.3`
+- Some Assembly Required `some-assembly-required-1.18.2-2.0.9` to `some-assembly-required-1.18.2-2.0.10`
+- Sophisticated Backpacks `sophisticatedbackpacks-1.18.2-3.18.56.880` to `sophisticatedbackpacks-1.18.2-3.18.60.906`
+- Sophisticated Core `sophisticatedcore-1.18.2-0.5.77.360` to `sophisticatedcore-1.18.2-0.5.87.416`
+- Sophisticated Storage `sophisticatedstorage-1.18.2-0.8.35.544` to `sophisticatedstorage-1.18.2-0.8.42.599`
+- SuperMartin Config Lib `supermartijn642configlib-1.1.8-forge-mc1.18` to `supermartijn642configlib-1.1.8-forge-mc1.18`
+- SuperMartin Core Lib `supermartijn642corelib-1.1.10-forge-mc1.18` to `supermartijn642corelib-1.1.12-forge-mc1.18`
+- Torchmaster `torchmaster-18.2.0` to `torchmaster-18.2.1`
+- Xaero's Minimap `Xaeros_Minimap_23.5.0_Forge_1.18.2` to `Xaeros_Minimap_23.8.0_Forge_1.18.2`
+- Xaero's Worldmap `XaerosWorldMap_1.30.6_Forge_1.18.2` to `XaerosWorldMap_1.34.1_Forge_1.18.2`
+
+## Mod purge
+- Removed Variant Crafting Tables
+- Removed Unusual End
+- Removed Create Confectionery
+- Removed Create Stuff & Additions
+- Removed Inventory HUD+
+
 # Alpha Build 06a2
 Changelog for 7.10.23
 

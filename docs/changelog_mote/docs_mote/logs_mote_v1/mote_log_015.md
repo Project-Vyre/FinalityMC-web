@@ -6,6 +6,45 @@ grand_parent: Finality Mote Changelog
 nav_order: 6
 ---
 
+# Version 0.1.5c
+
+## 9.15.23 Changes
+
+
+### Mod additions
+- Embeddium
+- Lazy DFU
+- Redirector / Redirectionor
+
+### Mod updates
+- Artifacts `artifacts-1.19.2-5.0.3` to `artifacts-1.19.2-5.0.4`
+- Balm `balm-forge-1.19.2-4.5.7` to `balm-forge-1.19.2-4.6.0`
+- Blueprint `blueprint-1.19.2-6.1.2` to `blueprint-1.19.2-6.2.0`
+- Cupboard `cupboard-1.19.2-1.9` to `cupboard-1.19.2-2.0`
+- Functional Storage `functionalstorage-1.19.2-1.1.3` to `functionalstorage-1.19.2-1.1.6`
+- KubeJS `kubejs-forge-1902.6.1-build.370` to `kubejs-forge-1902.6.2-build.3`
+- Savage Ender Dragon `dragonfight-1.19.2-4.0` to `dragonfight-1.19.2-4.1`
+- Server Performance `smoothchunk-1.19.2-3.1` to `smoothchunk-1.19.2-3.2`
+- Xaero's Minimap `Xaeros_Minimap_23.6.3_Forge_1.19.1` to `Xaeros_Minimap_23.7.0_Forge_1.19.1`
+- Xaero's World Map `XaerosWorldMap_1.33.1_Forge_1.19.1` to `XaerosWorldMap_1.34.0_Forge_1.19.1`
+
+## 8.31.23 Changes
+- Updated Apotheosis `Apotheosis-1.19.2-6.3.5` to `Apotheosis-1.19.2-6.4.0`
+- Updated Carry On `carryon-forge-1.19.2-2.0.5.17` to `carryon-forge-1.19.2-2.1.1.21`
+- Updated Cupboard `cupboard-1.19.2-1.8` to `cupboard-1.19.2-1.9`
+- Updated ModernFix `modernfix-forge-5.7.1+mc1.19.2` to `modernfix-forge-5.7.2+mc1.19.2`
+- Added Slightly Improved Font
+
+## 8.27.23 - 8.29.23 Changes
+- Forcefully applied GUI Scale 2 to all FancyMenu customized screens. In-game GUI scale is unaffected.
+- New loading screen.
+- Updated KubeJS `kubejs-forge-1902.6.1-build.364` to `kubejs-forge-1902.6.1-build.370`
+- Updated Backpacked `backpacked-2.1.12-1.19.2` to `backpacked-forge-1.19.2-2.1.13`
+
+## 8.26.23 Changes
+- Fixed a dumb mistake in FTB quests for the windmill quest node. You should have a total of 128 windmill sails not 124 and I have no idea why I made this change.
+- Implemented rei.js for REI compatibility for those who would rather use it.
+
 # Version 0.1.5b
 
 ## 8.26.23 Changes

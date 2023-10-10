@@ -14,22 +14,95 @@ I was debating on if I should release this as Patch F or just go for 0.1.5 just 
 
 Apologies if the new changelog format is a bit unusual. Changed it again with RC3.
 
-## Release Candidate 3 Changes
-These changes should have been in Release Candidate 2 which was released a bit *too* early, but at least playtesting showed some things that I forgot to address. I **will** be taking my time on this. Full release will require a re-do of every draft texture and other uses for the shapes.
-New versions of Cucumber Library, Extended Crafting and Mystical Agriculture related mods are *still* incompatible with KubeJS. DO NOT UPDATE THEM.
+## Release Candidate 3.1 Changes
+So I forgot about adding a way to get Lemon Seeds...
 
+- Added farmer trade to get lemon seeds
+- Lemon seeds can be acquired from grass
+- Added JEI and REI information on how to get lemon seeds
+- Spawners now drop 3 Experience Nuggets when broken
+
+## Release Candidate 3 Changes
+This update has breaking changes for Iron's Spells and Spellbooks users due to the mod author's rework. Don't say I warned you!
+- Updated Forge loader version from `43.2.21` to `43.3.2`
+- ~~Changed from release candidate to development / beta build.~~
+- [10.9.2023] Changed from development build 3 back to release candidate 3.
+- As of Embeddium 0.2 you can now disable Compact Vertex Format, which means you can disable the optimization that **causes Z-fighting and flickering**!
+- Quark-3.4-414 is being used and has not presented any *immediate* problems so far from playtesting. If issues arise, downgrade to Quark-3.4.409.
+- The duplication bug with Eccentric Tome has not yet been fixed, so I guess it will have to wait for either rc4 or just plain 0.2 release.
+
+These changes should have been in Release Candidate 2 which was released a bit *too* early, but at least playtesting showed some things that I forgot to address. I **will** be taking my time on this. Full release will require a re-do of every draft texture and other uses for the shapes.
+
+- [10.9.23] The rest is in GitHub commits...
+- [10.8.23] Tempad cooldown reduced from 30 seconds to 10 seconds.
+- [10.7.23] Finalized first iteration of retextures for GUI and the Monobank.
+- [10.7.23] Added information for Aether's Obsidian armor pieces.
+- [10.6.23] You can now craft Nether Wart Jam
+- [10.6.23] Added lemons, literally. The texture is *not* final!
+- [10.5.23] Increased maximum sandwich height limit from 32 to 256.
+- [10.5.23] You can now craft Grimoire of Gaia's Golden Apple Pie
+- [10.5.23] Restored the ability to find Buckets in all chest loot tables.
+- [10.5.23] Changed pearl processing recipes to use Crushing to allow for more possibilities. Millstones don't visually support more than 4 different results in the JEI / REI interface.
+- [10.1-2.23] Updated GUI hotbar and reticle texture, also some UI for Create's toolboxes for consistency.
+- [10.1.23] Updated Final Scythe and Final Sword texture.
+- [10.1.23] Making Netherite with Shimmer no longer requires superheating.
+- [10.1.23] Removed the Laurel Cabinet due to missing recipe on the mod author's end.
+- [10.1.23] Added tooltip for Supplementaries's Key in addition to making it fire-proof.
+- [9.29.23] Added more Denied Result recipes to let players know that recipes have been changed.
+- [9.28.23] Caupona Create integration... will have to be careful about this though.
+- [9.28.23] Create-ified Mob Grinding Utils recipes.
 - [9.28.23] Removed Incubation Fried egg recipe as it was causing issues in Fried Egg Create bulk smoking.
-- [9.28.23] Iron Wands no longer cost C.U.E fluid.
+- [9.28.23] Iron Wands no longer cost C.U.E fluid, you can just use regular Iron Ingots now.
 
 ### RC3 Mod Updates
+- [10.8.2023] Updated SuperMartin's Core Lib `1.1.14-forge-mc1.19.2` to `1.1.15-forge-mc1.19.2`
+- [10.8.2023] Updated Open Parties and Claims `1.19.2-0.20.0` to `1.19.2-0.20.1`
+- [10.8.2023] Updated Embeddium `0.1.15` to `0.2.0`
+- [10.7.2023] Updated Create Enchantment Industry `0.5.1.e-1.2.7` to `0.5.1.e-1.2.7.b`
+- [10.6.2023] Updated Quark `Quark-3.4-409` to `Quark-3.4-413` Roll back to `Quark-3.4-409` if you experience a crash on startup or other issues.
+- [10.6.2023] Updated Neapolitan `neapolitan-1.19.2-4.0.2` to `neapolitan-1.19.2-4.1.0`
+- [10.6.2023] Updated Create Enchantment Industry `create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.6.c` to `create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7`
+- [10.5.2023] Updated Simple Voice Chat `voicechat-forge-1.19.2-2.4.25` to `voicechat-forge-1.19.2-2.4.26`
+- [10.5.2023] Updated Open Parties and Claims `open-parties-and-claims-forge-1.19.2-0.19.3` to `open-parties-and-claims-forge-1.19.2-0.20.0`
+- [10.5.2023] Updated ImmediatelyFast `ImmediatelyFast-1.2.5+1.19.2` to `ImmediatelyFast-1.2.6+1.19.2`
+- [10.5.2023] Updated Grimoire of Gaia `GrimoireOfGaia4-1.19.2-3.0.0-alpha.7` to `GrimoireOfGaia4-1.19.2-3.0.0-alpha.8`
+- [10.5.2023] Updated FTB Ranks `ftb-ranks-forge-1902.1.15-build.77` to `ftb-ranks-forge-1902.1.16-build.98`
+- [10.3.2023] Updated Iron's Spells and Spellbooks `irons_spellbooks-1.19.2-1.2.1` to `irons_spellbooks-1.19.2-2.0.1`
+- [10.2.2023] Updated Embeddium `embeddium-0.1.14+mc1.19.2` to `embeddium-0.1.15+mc1.19.2` to resolve crash with Snow Real Magic
+- [10.2.2023] Updated Snow! Real Magic! `SnowRealMagic-1.19.2-forge-6.5.3` to `SnowRealMagic-1.19.2-forge-6.5.4`
+- [10.2.2023] Updated FTB Quests `ftb-quests-forge-1902.5.5-build.297` to `ftb-quests-forge-1902.5.6-build.304`
+- [10.2.2023] Updated Embeddium `embeddium-0.1.12+mc1.19.2` to `embeddium-0.1.14+mc1.19.2`
+- [10.1.2023] Updated SuperMartin642's Core Lib `supermartijn642corelib-1.1.13-forge-mc1.19.2` to `supermartijn642corelib-1.1.14-forge-mc1.19.2`
+- [10.1.2023] Updated Cataclysm `L_Enders_Cataclysm-1.35 -1.19.2` to `L_Enders_Cataclysm-1.38 -1.19.2`
+- [9.30.2023] Updated Embeddium `embeddium-0.1.11+mc1.19.2` to `embeddium-0.1.12+mc1.19.2`
+- [9.30.2023] Updated Simple Discord RPC `simple-rpc-forge-1.19.x-3.2.3` to `SimpleRPC-forge-1.19-3.2.4`
+- [9.30.2023] Updated Woodworks `woodworks-1.19.2-2.2.1` to `woodworks-1.19.2-2.2.2`
+- [9.30.2023] Updated Savage & Ravage `savage_and_ravage-1.19.2-5.0.4` to `savage_and_ravage-1.19.2-5.0.5`
+- [9.30.2023] Updated Personality `personality-1.19-3.0.1` to `personality-1.19.2-3.0.2`
+- [9.30.2023] Updated Incubation `incubation-1.19-3.0.0` to `incubation-1.19.2-3.0.1`
+- [9.30.2023] Updated Clayworks `clayworks-1.19.2-2.0.1` to `clayworks-1.19.2-2.1.0`
+- [9.30.2023] Updated Buzzier Bees `buzzier_bees-1.19-5.0.1` to `buzzier_bees-1.19.2-5.0.1`
+- [9.30.2023] Updated Boatload `boatload-1.19.2-4.2.1` to `boatload-1.19.2-4.2.2`
+- [9.30.2023] Updated Autumnity `autumnity-1.19.2-4.0.0` to `autumnity-1.19.2-4.0.1`
+- [9.30.2023] Updated Allurement `allurement-1.19.2-3.1.0` to `allurement-1.19.2-3.2.0`
+- [9.30.2023] Updated Abnormals Delight `abnormals_delight-1.19.2-4.0.2` to `abnormals_delight-1.19.2-4.1.0`
+- [9.29.2023] Updated SuperMartin's Core Lib `supermartijn642corelib-1.1.12-forge-mc1.19.2` to `supermartijn642corelib-1.1.13-forge-mc1.19.2`
+- [9.29.2023] Updated Grimoire of Gaia `GrimoireOfGaia4-1.19.2-3.0.0-alpha.6` to `GrimoireOfGaia4-1.19.2-3.0.0-alpha.7`
+- [9.29.2023] Updated Embeddium `embeddium-0.1.10+mc1.19.2` to `embeddium-0.1.11+mc1.19.2`
+- [9.29.2023] Updated Chunk Loaders `chunkloaders-1.2.7-forge-mc1.19` to `chunkloaders-1.2.8-forge-mc1.19`
 - [9.28.2023] Updated FTB Backups `ftbbackups2-forge-1.19.2-1.0.19` to `ftbbackups2-forge-1.19.2-1.0.22`
 - [9.28.2023] Updated The Aether `aether-1.19.2-1.0.0-beta.1.1-forge` to `aether-1.19.2-1.0.0-beta.1.2-forge`
 
 ### RC3 Mod Removals
-None at this time.
+- [9.30.2023] Removed Allurement
+- [9.30.2023] Removed Sound Physics Remastered due to lag spikes when around Create machinery, the worst example being a boiler with 18 Steam Engines on it. I know the Nether won't sound as hellish with the distorted moos echoing across the Nether, but the FPS lag was not worth it.
 
 ### RC3 Mod Additions
-None at this time.
+- [10.8.2023] Added Chunky
+- [10.7.2023] Added Achievements Optimizer
+- [10.7.2023] Added FTB Quests Optimizer
+- [10.2.2023] Added Not Enough Recipe Book [NERB] to address TPS lag with recipes, thanks embeddedt and thanks to chasr for discovering this in a cursed scenario.
+- [10.2.2023] Added ProbeJS even though it will be a while before I add my own ponder scenes.
 
 ---
 
