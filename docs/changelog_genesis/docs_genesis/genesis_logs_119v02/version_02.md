@@ -17,6 +17,7 @@ Apologies if the new changelog format is a bit unusual. Changed it again with RC
 ## Release Candidate 3 Patch A Changes
 So I forgot about adding a way to get Lemon Seeds...
 
+- *Actually* fixed server watcher script.
 - Locked required resourcepacks
 - [10.10.23] Re-versioned from 0.2.0-rc3.1 to 0.2.0-rc3a
 - Added farmer trade to get lemon seeds
