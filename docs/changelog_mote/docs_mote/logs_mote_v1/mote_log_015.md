@@ -8,6 +8,62 @@ nav_order: 6
 
 # Version 0.1.5c
 
+## 10.10.23 Changes
+
+Updated Forge `43.2.21` to `43.3.2`
+
+- Bringing over minor changes from Genesis, saving the rest for the 0.2 update.
+
+### Mod updates
+- ModernFix `modernfix-forge-5.7.4+mc1.19.2` to `modernfix-forge-5.8.1+mc1.19.2`
+- Better chunk loading `betterchunkloading-1.19.2-2.1.jar` to `betterchunkloading-1.19.2-2.2`
+- Chalk `chalk-1.19.2-1.6.0` to `chalk-1.19.2-1.6.2`
+- Chunk Sending `chunksending-1.19.2-2.6` to `chunksending-1.19.2-2.7`
+- Collective `collective-1.19.2-6.65` to `collective-1.19.2-6.66`
+- Connectivity `connectivity-1.19.2-4.5` to `connectivity-1.19.2-4.6`
+- Create `5.1.c` to `0.5.1.e`
+- Create Central Kitchen `create_central_kitchen-1.19.2-for-create-0.5.1.c-1.3.9.c` to `create_central_kitchen-1.19.2-for-create-0.5.1.e-1.3.9.d`
+- Create Crafts & Additions `createaddition-1.19.2-1.0.0` to `createaddition-1.19.2-1.1.1`
+- Create Enchantment Industry `create_enchantment_industry-1.19.2-for-create-0.5.1.c-1.2.6.b` to `create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.b`
+- Cucumber Library `Cucumber-1.19.2-6.0.7` to `Cucumber-1.19.2-6.0.10`
+- Embeddium `embeddium-0.1.4+mc1.19.2` to `embeddium-0.2.0+mc1.19.2`
+- EnderChests `enderchests-forge-1.19.0-1.10.1.03` to `enderchests-forge-1.19-1.10.7`
+- EnderTanks `endertanks-forge-1.19.0-1.12.1.04` to `endertanks-forge-1.19-1.12.8`
+- Essential `essential_1-2-2_forge_1-19-2` to `essential_1-2-2-2_forge_1-19-2`
+- Extended Crafting `ExtendedCrafting-1.19.2-5.1.7` to `ExtendedCrafting-1.19.2-5.1.9`
+- FTB Backups 2 `ftbbackups2-forge-1.19.2-1.0.19` to `ftbbackups2-forge-1.19.2-1.0.22`
+- FTB Quests `ftb-quests-forge-1902.5.4-build.275` to `ftb-quests-forge-1902.5.6-build.304`
+- Functional Storage `functionalstorage-1.19.2-1.1.6` to `functionalstorage-1.19.2-1.1.7`
+- Grimoire of Gaia `GrimoireOfGaia4-1.19.2-3.0.0-alpha.6` to `GrimoireOfGaia4-1.19.2-3.0.0-alpha.8`
+- Cataclysm `L_Enders_Cataclysm-1.29-1.19.2` to `L_Enders_Cataclysm-1.38 -1.19.2`
+- ModernFix `modernfix-forge-5.7.2+mc1.19.2` to `modernfix-forge-5.7.4+mc1.19.2`
+- Moonlight Lib `moonlight-1.19.2-2.2.44-forge` to `moonlight-1.19.2-2.2.46-forge`
+- Mystical Agriculture `MysticalAgriculture-1.19.2-6.0.11` to `MysticalAgriculture-1.19.2-6.0.12`
+- Open Parties and Claims `open-parties-and-claims-forge-1.19.2-0.19.3` to `open-parties-and-claims-forge-1.19.2-0.20.1`
+- Placebo `Placebo-1.19.2-7.3.2` to `Placebo-1.19.2-7.3.3`
+- Quark `Quark-3.4-409` to `Quark-3.4-414`
+- Server Performance - Smooth Chunk Save `smoothchunk-1.19.2-3.2` to `smoothchunk-1.19.2-3.4`
+- ShetiPhianCore `shetiphiancore-forge-1.19.0-3.11.3.04` to `shetiphiancore-forge-1.19-3.11.10`
+- Simple Discord RPC `simple-rpc-forge-1.19.x-3.2.3` to `SimpleRPC-forge-1.19-3.2.4`
+- Titanium `titanium-1.19.2-3.7.3-27` to `titanium-1.19.2-3.7.4-28`
+- Woodworks `woodworks-1.19.2-2.2.1` to `woodworks-1.19.2-2.2.2`
+- Xaero's Minimap `Xaeros_Minimap_23.8.0_Forge_1.19.1` to `Xaeros_Minimap_23.8.2_Forge_1.19.1`
+- Yung's Better Ocean Monuments `YungsBetterOceanMonuments-1.19.2-Forge-2.1.0` to `YungsBetterOceanMonuments-1.19.2-Forge-2.1.1`
+
+### Mod additions
+- Added Resource Pack Overrides
+- Added YUNG's Better Dungeons
+- Added YUNG's Better Jungle Temples
+- Added YUNG's Better End Island
+
+### Mod additions
+- ImmediatelyFast
+
+### Mod removals
+- Raised
+- Snow Real Magic
+- BetterF3
+
 ## 9.15.23 Changes
 
 

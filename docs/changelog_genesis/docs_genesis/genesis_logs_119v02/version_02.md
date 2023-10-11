@@ -14,6 +14,11 @@ I was debating on if I should release this as Patch F or just go for 0.1.5 just 
 
 Apologies if the new changelog format is a bit unusual. Changed it again with RC3.
 
+## Release Candidate 3 Patch B Changes
+
+- Added Inferium Essence to Millstone seed reprocessing
+- Added Cosmetic Armor Reworked
+
 ## Release Candidate 3 Patch A Changes
 So I forgot about adding a way to get Lemon Seeds...
 
