@@ -14,13 +14,22 @@ I was debating on if I should release this as Patch F or just go for 0.1.5 just 
 
 Apologies if the new changelog format is a bit unusual. Changed it again with RC3.
 
-## Release Candidate 3.1 Changes
+## Release Candidate 3 Patch A Changes
 So I forgot about adding a way to get Lemon Seeds...
 
+- Locked required resourcepacks
+- [10.10.23] Re-versioned from 0.2.0-rc3.1 to 0.2.0-rc3a
 - Added farmer trade to get lemon seeds
-- Lemon seeds can be acquired from grass
+- Lemon seeds can now be acquired from breaking grass
 - Added JEI and REI information on how to get lemon seeds
 - Spawners now drop 3 Experience Nuggets when broken
+
+### Updated mods
+- [10.10.23] Updated ModernFix `modernfix-forge-5.8.0+mc1.19.2` to `modernfix-forge-5.8.1+mc1.19.2`
+- [10.10.23] Updated ModernFix `modernfix-forge-5.7.4+mc1.19.2` to `modernfix-forge-5.8.0+mc1.19.2`
+
+### Added mods
+- Resource Pack Overrides
 
 ## Release Candidate 3 Changes
 This update has breaking changes for Iron's Spells and Spellbooks users due to the mod author's rework. Don't say I warned you!
