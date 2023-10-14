@@ -17,7 +17,38 @@ Apologies if the new changelog format is a bit unusual. Changed it again with RC
 ## Release Candidate 3 Patch B Changes
 
 - Added Inferium Essence to Millstone seed reprocessing
+- Added Boss Gateway Pearl and Large Boss Gateway Pearl
+- Added check for Ad Astra and steel essence related recipes
+- Added additional warnings for using the Eccentric Tome
+- Added Apotheosis override for Create's Potato Cannon to make it able to be reforged. Please note that **not all** bow reforges will affect it!
+- Increased limit for Power from 20(+1) to 50(+1) as I'm trying to figure out a solution to make Create's Potato Cannon more effective against armored targets.
+- Lowered maximum level for Quick Draw from XX back to V due to being too fast to *actually* fire or do anything.
+- Added tooltips for Lil' Wings Butterfly Net and Enderfly Net
+- Fixed the frEEeeeE? Raw Iron message not working in Multiplayer environments.
+- Enabled shouldGlow to make it easier to see players that are bleeding out
+- Added more deathMessages
+- Disabled rendering player model by default when RealCamera is enabled.
+- Increased durability of Super Glue from 99 to 128
+- Set default keybind to mute microphone to `-`
+- Added tooltips for solapplepie food container items
+- Added recipe for Gilded Blackstone for decoration purposes
+- Added recipes for Icestone, Holystone and Holy Dirt
+- Blacklisted Cosmic Cod from spawning in all Blue Skies dimensions due to lag... hopefully they don't spawn ever again due to the mod being ARR which resulted in me being unable to easily find the registry names of the biomes.
+- Decreased spawn weight of cosmic cod entirely to 0... was not aware that this was even an option in the config.
+- Implemented textures for the Create Bobber block based on the updated Smart Observer's textures.
+
+### Mod updates
+- Updated Quark `Quark-3.4-414` to `Quark-3.4-415` Edit: Remain on `Quark-3.4-414` until the issue with crash due to Wandering Traders is fixed.
+- Updated Better Advancements `BetterAdvancements-1.19.2-0.2.2.142` to `BetterAdvancements-1.19.2-0.3.0.148`
+- Updated Terrablender `TerraBlender-forge-1.19.2-2.0.1.136` to `TerraBlender-forge-1.19.2-2.0.1.166`
+- Updated Achievements Optimizer `AchievementOptimizer-1.19.2-1.0.2` on 9.14.23 to `AchievementOptimizer-1.19.2-1.0.2` 10.11.23 which adds config
+
+### Mod additions
+- Added Create: Fishing Bobber Detector | Automatic Fishing with Create
 - Added Cosmetic Armor Reworked
+
+### Mod removals
+- Removed Toast Control due to causing occasional crashes on join.
 
 ## Release Candidate 3 Patch A Changes
 So I forgot about adding a way to get Lemon Seeds...
