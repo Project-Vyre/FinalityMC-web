@@ -14,6 +14,95 @@ I was debating on if I should release this as Patch F or just go for 0.1.5 just 
 
 Apologies if the new changelog format is a bit unusual. Changed it again with RC3.
 
+## Full Release
+
+### Mod Additions
+- Added Malum
+
+---
+
+## Release Candidate 3 Patch C Changes
+
+I think I will call Patch C the Stardew Valley patch. Enjoy!
+
+Notice: If you happen to be missing *any* assets and textures from the previous updates, I suggest updating via the CurseForge launcher then importing the updated instance to Prism Launcher or Prism Launcher *with* your Xaero's, Essential, Create schematics, world saves, options data, etc. attached.
+
+**.minecraft is your instance's folder**
+
+| Location | Description |
+| -------- | ----------- |
+| `.minecraft/resourcepacks` | Contains your resourcepacks. |
+| `.minecraft/essential` | Contains your Essential related data and screenshot metadata. |
+| `.minecraft/saves` | Contains your world saves. |
+| `.minecraft/screenshots` | Contains your screenshots if you took any memorable ones. |
+| `.minecraft/schematics` | Contains all of your schematics saved with Create's Schematic and Quill Item. |
+| `.minecraft/XaeroWaypoints` | Contains all of your Xaero's Minimap / World Map related waypoints. |
+| `.minecraft/XaeroWaypoints_BACKUP032021` | or whichever name it has at the time of backup generation. Contains a backup of your Xaero's Minimap / World Map related waypoints. |
+| `.minecraft/XaeroWorldMap` | Contains all of your Xaero's World Map related data. |
+| `.minecraft/options.txt` | Your Minecraft settings and keybinds. |
+
+### The changes
+
+- Fixed Create's Smart Observer texture having the incorrect texture on the bottom due to being unable to find the correct texture.
+- Made a lot of blocks able to be picked up by the power of Create's Wrench.
+- Removed Netherite Monstrosity from all boss gateway pearls.
+- Added the Scythe of Eternal Oblivion for combat purposes to replace the Agricula Manus.
+- The Final Katana now uses a GUI and handheld model for sanity purposes.
+- Added Ancient Knights to the Boss Gate Pearl in place of it and moved the Ignited Revenants to the end.
+- Made a recipe for renewing Soulium Ore.
+- Blacklisted the Alchemist's Cauldron from Iron's Spells and Spellbooks due to permanent duplication of cauldrons and being unable to let go of said cauldron.
+- Blacklisted the entirety of Handcrafted from being used with Carry On due to duplication.
+- Blacklisted the entierty of Chipped from being used with Carry On as a precaution.
+- Actually fixed Discord rich presence message... this isn't Finality Tau edition.
+- Added the ability to create Wither Bones from Baubley Heart Canisters and Withered bones from Architect's Palette.
+- Added even more Wandering Trader trades to account for the addition of Farmer's Delight add-ons.
+- Added dried matcha leaves.
+- Added recipes to repair Upgraded Netherite related tools.
+- [10.18.23] Fixed Chalk tooltips... this has been *broken* for a while now due to a typo in the itemID.
+- [10.18.23] Added tooltip to the Enchanter's Pearl to clarify that it is currently useless due to a lack of compatibility with Apotheosis.
+- [10.19.23] Made the Axe of the Executioner repairable with Netherite Ingots
+- [10.20.23] Quark's gold bars are now transparent to Create's Encased Fans.
+- [10.22.23] Added repair recipes for Blue Skies
+- [10.22.23] Valkyrie Gloves are now unbreakable.
+- [10.21-22.23] Updated GUI textures, they are a work in progress.
+- Changes that are undocumented can be found in the GitHub commit history.
+
+### Mod updates
+- Updated Create Enchantment Industry `create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.b` to `create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.c`
+- Updated KubeJS `kubejs-forge-1902.6.2-build.27` to `kubejs-forge-1902.6.2-build.33`
+- Updated Quark `Quark-3.4-416` to `Quark-3.4-417`
+- Updated Vertical Slabd Compat `v_slab_compat-1.19.2-1.6` to `v_slab_compat-1.19.2-1.9`
+- Updated Vertical Slabs Compat `v_slab_compat-1.19.2-1.4` to `v_slab_compat-1.19.2-1.6`
+- Updated Rhino `rhino-forge-1902.2.2-build.272` to `rhino-forge-1902.2.2-build.280`
+- Updated KubeJS `kubejs-forge-1902.6.2-build.23` to `kubejs-forge-1902.6.2-build.27`
+- Updated KubeJS `kubejs-forge-1902.6.2-build.19` to `kubejs-forge-1902.6.2-build.23`
+- Updated KubeJS `kubejs-forge-1902.6.2-build.15` to `kubejs-forge-1902.6.2-build.19`
+- Updated Comforts `comforts-forge-6.0.5+1.19.2` to `comforts-forge-6.0.6+1.19.2`
+- Updated Jade `Jade-1.19.1-forge-8.9.0` to `Jade-1.19.1-forge-8.9.1`
+- Updated Embeddium `embeddium-0.2.0+mc1.19.2` to `embeddium-0.2.3+mc1.19.2` for some more performance. ALL HAIL EMBEDDEDT
+- Updated Quark `Quark-3.4-414` to `Quark-3.4-416` as the crash seems to have been fixed.
+- Updated Simple Voice Chat `voicechat-forge-1.19.2-2.4.26` to `voicechat-forge-1.19.2-2.4.27`
+- Updated Xaero's Minimap `Xaeros_Minimap_23.8.2_Forge_1.19.1` to `Xaeros_Minimap_23.8.3_Forge_1.19.1`
+- Updated Xaero's World Map `XaerosWorldMap_1.34.1_Forge_1.19.1` to `XaerosWorldMap_1.35.0_Forge_1.19.1`
+
+### Mod additions
+- Added Collector's Reap
+- Added Cultural Delights
+- Added Crabber's Delight
+- Added Delightful
+- Added End's Delight
+- Added Miner's Delight
+- Added Nether's Delight
+- Added Windswept!
+- Added Crafting Automat, a backport of Mojang's Crafter.
+
+### Removed mods
+- ImmediatelyFast (UI issues.)
+- Achievements Optimizer (Actually does nothing at the moment.)
+- FTB Quests Optimizer (Actually does nothing at the moment.)
+
+---
+
 ## Release Candidate 3 Patch B Changes
 
 - Added Inferium Essence to Millstone seed reprocessing
