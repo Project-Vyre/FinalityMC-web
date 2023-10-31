@@ -14,12 +14,36 @@ I was debating on if I should release this as Patch F or just go for 0.1.5 just 
 
 Apologies if the new changelog format is a bit unusual. Changed it again with RC3.
 
-## Full Release
+## Full 0.2 Release
+- [10.29.23] Corrected typo in update checker script.
+- Reworked essence to item / block conversion.
 
 ### Mod Additions
 - Added Malum
 
+### Mod updates
+- [10.29.23] Uodated Supplementaries `supplementaries-1.19.2-2.3.24` to `supplementaries-1.19.2-2.4.4`
+- [10.29.23] Updated Moonlight Lib `moonlight-1.19.2-2.2.46-forge` to `moonlight-1.19.2-2.3.3-forge`
+- [10.29.23] Updated ModernFix `modernfix-forge-5.8.1+mc1.19.2` to `modernfix-forge-5.9.0+mc1.19.2`
+- [10.29.23] Updated Iron's Spells n' Spellbooks `irons_spellbooks-1.19.2-2.0.1` to `irons_spellbooks-1.19.2-2.0.2`
+- [10.29.23] Updated Essential `essential_1-2-2-2_forge_1-19-2` to `essential_1-2-2-3_forge_1-19-2`
+- [10.29.23] Updated Embeddium `embeddium-0.2.3+mc1.19.2` to `embeddium-0.2.5+mc1.19.2`
+- [10.26.23] Updated Windswept! `windswept-1.19.2-2.2.2` to `windswept-1.19.2-2.2.3`
+- [10.26.23] Updated The Aether `aether-1.19.2-1.0.0-beta.1.2-forge` to `aether-1.19.2-1.0.0-beta.1.3-forge`
+- [10.26.23] Updated KubeJS `kubejs-forge-1902.6.2-build.33` to `kubejs-forge-1902.6.2-build.37`
+- Updated Cupboard `cupboard-1.19.2-2.0` to `cupboard-1.19.2-2.1`
+- Updated Polymorph `polymorph-forge-0.46.4+1.19.2` to `polymorph-forge-0.46.5+1.19.2`
+
 ---
+
+## Release Candidate 3 Patch D Changes
+This will be the last patch before full release.
+
+- Fixed a recipe from the Aether module returning `minecraft:air` due to being invalid.
+  - Apologies for making a mistake at 4 AM.
+- Updated Quark `Quark-3.4-417` to `Quark-3.4-418`
+- Updated Xaero's Minimap `Xaeros_Minimap_23.8.3_Forge_1.19.1` to `Xaeros_Minimap_23.8.4_Forge_1.19.1`
+- Updated Xaero's World Map `XaerosWorldMap_1.35.0_Forge_1.19.1` to `XaerosWorldMap_1.36.0_Forge_1.19.1`
 
 ## Release Candidate 3 Patch C Changes
 

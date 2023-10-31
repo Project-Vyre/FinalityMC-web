@@ -23,12 +23,58 @@ All files have been scanned for Fractureiser malware before exporting. None of t
 This changelog has been written after I wrote the changelog for Finality Tau, so this is going to be a lot of repeated lines.
 
 # Alpha Build 06a3
+
+## 10.17.23
+
+### Mod updates
+- AppleSkin `appleskin-forge-mc1.18.2-2.4.1` to `appleskin-forge-mc1.18.2-2.5.1.jar`
+- Boat Break Fix `BoatBreakFix-Universal-1.0.11` to `BoatBreakFix-Universal-1.0.2`
+- Brandon's Core `BrandonsCore-1.18.2-3.1.9.280-universal` to `BrandonsCore-1.18.2-3.1.10.283-universal`
+- Chunk Loaders `chunkloaders-1.2.7-forge-mc1.18` to `chunkloaders-1.2.8-forge-mc1.18`
+- CoFH Core `cofh_core-1.18.2-9.2.1.39` to `cofh_core-1.18.2-9.2.3.47`
+- Collective `collective-1.18.2-6.65` to `collective-1.18.2-6.66`
+- Connected Glass `connectedglass-1.1.7-forge-mc1.18` to `connectedglass-1.1.8-forge-mc1.18`
+- Create `create-1.18.2-0.5.1.c` to `create-1.18.2-0.5.1.e`
+- Create Central Kitchen `create_central_kitchen-1.18.2-for-create-0.5.1.c-1.3.7.g` to `create_central_kitchen-1.18.2-for-create-0.5.1.e-1.3.9.b`
+- Create Enchantment Industry `create_enchantment_industry-1.18.2-for-create-0.5.1.c-1.2.6.b` to `create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.b`
+- Draconic Evolution `Draconic-Evolution-1.18.2-3.0.29.524-universal` to `Draconic-Evolution-1.18.2-3.0.30.529-universal`
+- Essential `essential_1-2-2_forge_1-18-2` to `essential_1-2-2-2_forge_1-18-2`
+- Friends & Foes `friendsandfoes-forge-mc1.18.2-1.4.7` to `friendsandfoes-forge-mc1.18.2-1.4.8`
+- FTB Backups 2 `ftbbackups2-forge-1.18.2-1.0.19` to `ftbbackups2-forge-1.18.2-1.0.22`
+- FTB Quests `ftb-quests-forge-1802.3.14-build.191` to `ftb-quests-forge-1802.3.15-build.298`
+- Fusion `fusion-1.0.5-forge-mc1.18` to `fusion-1.0.6-forge-mc1.18`
+- Grimoire of Gaia `GrimoireOfGaia4-1.18.2-2.0.0-beta.5` to `GrimoireOfGaia4-1.18.2-2.0.0-beta.7`
+- Jade `Jade-1.18.2-forge-5.3.0` to `Jade-1.18.2-forge-5.3.1`
+- Lootr `lootr-1.18.2-0.3.25.63` to `lootr-1.18.2-0.3.25.64`
+- ModernFix `modernfix-forge-5.7.2+mc1.18.2` to `modernfix-forge-5.8.1+mc1.18.2`
+- Open Parties and Claims `open-parties-and-claims-forge-1.18.2-0.19.3` to `open-parties-and-claims-forge-1.18.2-0.20.1`
+- Rechiseled `rechiseled-1.1.4-forge-mc1.18` to `rechiseled-1.1.4a-forge-mc1.18`
+- Simple Discord RPC `simple-rpc-1.18.2-3.2.3` to `simple-rpc-1.18.2-3.2.4`
+- SuperMartin's Core Lib `supermartijn642corelib-1.1.12-forge-mc1.18` to `supermartijn642corelib-1.1.15-forge-mc1.18`
+- Thermal Cultivation `thermal_cultivation-1.18.2-9.2.0.16` to `thermal_cultivation-1.18.2-9.2.1.20`
+- Thermal Dynamics `thermal_dynamics-1.18.2-9.2.1b.13` to `thermal_dynamics-1.18.2-9.2.2.19`
+- Thermal Expansion `thermal_expansion-1.18.2-9.2.0.20` to `thermal_expansion-1.18.2-9.2.2.24`
+- Thermal Foundation `thermal_foundation-1.18.2-9.2.0.46` to `thermal_foundation-1.18.2-9.2.2.58`
+- Thermal Innovation `thermal_innovation-1.18.2-9.2.0.17` to `thermal_innovation-1.18.2-9.2.1.19`
+- Thermal Integration `thermal_integration-1.18.2-9.2.0.16` to `thermal_integration-1.18.2-9.2.1.18`
+- Titanium `titanium-1.18.2-3.5.9-43` to `titanium-1.18.2-3.5.11-45`
+- Xaero's Minimap `Xaeros_Minimap_23.8.0_Forge_1.18.2` to `Xaeros_Minimap_23.8.3_Forge_1.18.2`
+- Xaero's World Map `XaerosWorldMap_1.34.1_Forge_1.18.2` to `XaerosWorldMap_1.35.0_Forge_1.18.2`
+
+### Added mods
+- Embeddium
+- Redirector
+- Cupboard
+- Better chunk loading
+
+### Removed mods
+- Removed Raised
+
 A few mistakes that I missed, the lack of sleep is really affecting this.
 
 - Corrected amount of Inferior Infusion Essence required to make the Infusion Crystal.
 
-# Alpha Build 06a3
-Changelog for 9.15.23
+## Changelog for 9.15.23
 
 ## Mod updates
 It's been a while...
