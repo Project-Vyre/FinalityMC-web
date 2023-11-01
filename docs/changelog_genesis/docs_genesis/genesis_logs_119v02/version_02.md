@@ -21,16 +21,29 @@ Apologies if the new changelog format is a bit unusual. Changed it again with RC
 ### Mod Additions
 - Added Malum
 
-### Mod updates
-- [10.29.23] Uodated Supplementaries `supplementaries-1.19.2-2.3.24` to `supplementaries-1.19.2-2.4.4`
-- [10.29.23] Updated Moonlight Lib `moonlight-1.19.2-2.2.46-forge` to `moonlight-1.19.2-2.3.3-forge`
-- [10.29.23] Updated ModernFix `modernfix-forge-5.8.1+mc1.19.2` to `modernfix-forge-5.9.0+mc1.19.2`
-- [10.29.23] Updated Iron's Spells n' Spellbooks `irons_spellbooks-1.19.2-2.0.1` to `irons_spellbooks-1.19.2-2.0.2`
-- [10.29.23] Updated Essential `essential_1-2-2-2_forge_1-19-2` to `essential_1-2-2-3_forge_1-19-2`
-- [10.29.23] Updated Embeddium `embeddium-0.2.3+mc1.19.2` to `embeddium-0.2.5+mc1.19.2`
-- [10.26.23] Updated Windswept! `windswept-1.19.2-2.2.2` to `windswept-1.19.2-2.2.3`
-- [10.26.23] Updated The Aether `aether-1.19.2-1.0.0-beta.1.2-forge` to `aether-1.19.2-1.0.0-beta.1.3-forge`
-- [10.26.23] Updated KubeJS `kubejs-forge-1902.6.2-build.33` to `kubejs-forge-1902.6.2-build.37`
+### Mod Updates
+Mod updates for full release.
+
+#### 10.31.23 Mod Updates
+- Updated Chalk `chalk-1.19.2-1.6.2` to `chalk-1.19.2-1.6.3`
+- Updated Collective `collective-1.19.2-6.66` to `collective-1.19.2-6.72`
+- Updated Essential `essential_1-2-2-3_forge_1-19-2` to `essential_1-2-2-4_forge_1-19-2`
+- Updated Iron's Spells n' Spellbooks `irons_spellbooks-1.19.2-2.0.2` to `irons_spellbooks-1.19.2-2.0.3`
+
+#### 10.29.23 Mod Updates
+- Uodated Supplementaries `supplementaries-1.19.2-2.3.24` to `supplementaries-1.19.2-2.4.4`
+- Updated Moonlight Lib `moonlight-1.19.2-2.2.46-forge` to `moonlight-1.19.2-2.3.3-forge`
+- Updated ModernFix `modernfix-forge-5.8.1+mc1.19.2` to `modernfix-forge-5.9.0+mc1.19.2`
+- Updated Iron's Spells n' Spellbooks `irons_spellbooks-1.19.2-2.0.1` to `irons_spellbooks-1.19.2-2.0.2`
+- Updated Essential `essential_1-2-2-2_forge_1-19-2` to `essential_1-2-2-3_forge_1-19-2`
+- Updated Embeddium `embeddium-0.2.3+mc1.19.2` to `embeddium-0.2.5+mc1.19.2`
+
+#### 10.26.23 Mod Updates
+- Updated Windswept! `windswept-1.19.2-2.2.2` to `windswept-1.19.2-2.2.3`
+- Updated The Aether `aether-1.19.2-1.0.0-beta.1.2-forge` to `aether-1.19.2-1.0.0-beta.1.3-forge`
+- Updated KubeJS `kubejs-forge-1902.6.2-build.33` to `kubejs-forge-1902.6.2-build.37`
+
+#### Untracked mod update date
 - Updated Cupboard `cupboard-1.19.2-2.0` to `cupboard-1.19.2-2.1`
 - Updated Polymorph `polymorph-forge-0.46.4+1.19.2` to `polymorph-forge-0.46.5+1.19.2`
 
