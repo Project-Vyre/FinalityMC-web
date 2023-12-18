@@ -21,6 +21,9 @@ Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to 
 [Finality Mote Repository]{: .btn .btn-outline .fs-4 }
 
 # Developer Announcements
+
+Hello to all new visitors! Currently this website hasn't been kept up to date. Changelogs are now updated on each modpack's repository Wiki page, so please go there!
+
 KubeJS 6.1 has been released, in addition to KubeJS Create being fixed. Thank you so much Max! <3
 
 Also, apparently I absentmindedly had duplicate recipes in one of my script files, which has since been patched in the following modpack versions:
