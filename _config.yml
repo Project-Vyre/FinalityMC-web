@@ -9,7 +9,7 @@ permalink: pretty
 
 # Aux links for the upper right navigation
 aux_links:
-  Modpack Download: https://www.curseforge.com/minecraft/modpacks/finality
+  Discord: https://discord.gg/UF8yMZEmmc
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
