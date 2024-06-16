@@ -3,56 +3,41 @@ title: Home
 layout: home
 nav_order: 1
 ---
+
 # Finality
-Finality is a modpack series designed for pushing Create to its limits with a side of adventure and combat.
+
+Finality is a modpack series designed for pushing Create to its limits.
 {: .fs-6 .fw-300 }
 
 {: .important }
-The wiki is currently a work in progress and many updates will be made over time. For now, please refer to the live FancyMenu announcement channels in each variant of the modpack.
+The wiki is currently a work in progress and many updates will be made over time. For now, please join the Discord server if you have any issues or questions.
 
-Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to be located on the LEFT side of your screen on this website! You can check the Trello Board by clicking the button below to keep up with the latest updates.
+Welcome to the Finality modpack wiki! Changelogs, recipes and tips are going to be located on the LEFT side of your screen on this website! You can check the Discord by clicking the button below to keep up with the latest updates.
 
-[Trello Board]{: .btn .btn-primary .fs-4 .mr-2 }
-[Another Create Wiki]{: .btn .btn-yellow .fs-4 .mr-2 }
+[Discord]{: .btn .btn-primary .fs-4 .mr-2 }
 
-[Finality Repository]{: .btn .btn-outline .fs-4 }
-[Finality Tau Repository]{: .btn .btn-outline .fs-4 }
-[Finality Genesis Repository]{: .btn .btn-outline .fs-4 }
-[Finality Mote Repository]{: .btn .btn-outline .fs-4 }
-
-# Developer Announcements
+## Developer Announcements
 
 Hello to all new visitors! Currently this website hasn't been kept up to date. Changelogs are now updated on each modpack's repository Wiki page, so please go there!
 
-KubeJS 6.1 has been released, in addition to KubeJS Create being fixed. Thank you so much Max! <3
+## Availability
 
-Also, apparently I absentmindedly had duplicate recipes in one of my script files, which has since been patched in the following modpack versions:
-- Mote 0.1.5b (in progress)
-- Tau 04a6 (in progress)
-- Omnia 06a3 (in progress)
-- Genesis 0.1.2b (in progress)
+Currently there are **four** variants of the modpack. see the tables below.
 
-After further playtesting, the Create Mixing recipe for creating Mystical Agriculture's Infusion Crystal does not work on 1.19.2 and 1.18.2. The issue at hand is that the crystal is just never made despite the recipe being able to be executed in-game with the correct ingredients.
-This has since been fixed in the following Finality versions:
-- Mote 0.1.1b and higher
-- Tau 04a1 and higher
-- Omnia 06a2 and higher
-- Genesis 0.1.2b and higher
+| ---- | ----------- | -------------------------- | -------------------- |
+| Name | Description | Recommended Specifications | Available Version(s) |
+| ---- | ----------- | -------------------------- | -------------------- |
+| Finality | The largest variant with 270+ mods. | Desktop grade AMD or Intel CPU paired with 6GB allocated RAM recommended. | `1.18.2`|
+| Finality Tau | The variant that has a focus on horror. | Desktop grade AMD or Intel CPU paired with 5-6GB recommended. | `1.19.2` |
+| Finality Genesis | The lightweight variant and has a tighter focus on Create. | High performance mobile grade AMD or Intel CPU minimum paired with 4-6GB recommended. | `1.20.1`, `1.19.2` |
+| Finality Mote | The lightest variant with an even tighter focus on Create while providing an enhanced vanilla+ experience. | Mobile grade AMD or Intel CPU minimum. 4 GB recommended. | `1.19.2` |
 
-On the side of modpack contents...
-- [ ] Implement more thorough information regarding each mod to help new players understand more of each and every important component.
-- [ ] "Chapter" based progression quests.
-- [ ] Tome of Finality (in-game documentation)
-- [*] Implement an actual cancel damage script for armor.
+---
 
-Currently there are **four** variants of the modpack, see the table below.
+# Ancient Text
 
-| Name | Description | Recommended Specifications | Supported Version |
-| ---- | ----------- | -------------------------- | ----------------- |
-| [Finality] | The largest variant with 270+ mods. | Desktop grade AMD or Intel CPU paired with 6GB allocated RAM recommended. | `Minecraft 1.18.2`, `Forge 40.2.4`|
-| [Finality Tau] | The variant that has a focus on horror. | Desktop grade AMD or Intel CPU paired with 5-6GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
-| [Finality Genesis] | The lightweight variant and has a tighter focus on Create. | High performance mobile grade AMD or Intel CPU minimum paired with 4GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.11` |
-| [Finality Mote] | The lightest variant with an even tighter focus on Create while providing an enhanced vanilla+ experience. | Mobile grade AMD or Intel CPU minimum. 4 GB recommended. | `Minecraft 1.19.2`, `Forge 43.2.14` |
+{: .highlight }
+Need to update the text below. It's been over a year.
 
 ## Create 0.5.1 Support
 
@@ -102,6 +87,10 @@ Also, note to self in that footnotes will not show up unless called beforehand.[
 - [x] Uhhhhh
 - [x] Fixed the testing formatting pages and placed them under Miscellaneous.
 
+## Other Projects
+
+[Another Create Wiki]{: .btn .btn-yellow .fs-4 .mr-2 }
+
 ---
 
 [^1]: Colors would not be possible without my Google Pixel and Google's Material You dynamic color theming tool which can be found at [Material Theme Builder (Web)].
@@ -112,10 +101,6 @@ Also, note to self in that footnotes will not show up unless called beforehand.[
 [Finality Tau]: https://www.curseforge.com/minecraft/modpacks/finality-tau
 [Finality Genesis]: https://www.curseforge.com/minecraft/modpacks/finality-genesis
 [Finality Mote]: https://www.curseforge.com/minecraft/modpacks/finality-mote
-[Finality Repository]: https://github.com/CelestialAbyss/Finality-Minecraft-Things
-[Finality Tau Repository]: https://github.com/CelestialAbyss/Finality-Tau
-[Finality Genesis Repository]: https://github.com/Project-Vyre/Finality-Genesis
-[Finality Mote Repository]: https://github.com/Project-Vyre/finality-mote
-[Trello Board]: https://trello.com/b/60JjUmBh/finality-development
+[Discord]: https://discord.gg/UF8yMZEmmc
 [Another Create Wiki]: https://project-vyre.github.io/another-create-wiki/
 [Material Theme Builder (Web)]: https://goo.gle/material-theme-builder-web

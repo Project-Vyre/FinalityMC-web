@@ -3,7 +3,6 @@ layout: default
 title: Finality Mote Changelog
 nav_order: 7
 has_children: true
-permalink: /docs/changelog_mote
 ---
 This is the lightweight focused variant of Finality.
 

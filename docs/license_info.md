@@ -3,11 +3,12 @@ title: License Info
 layout: default
 nav_order: 9
 ---
+
 # License Info
 License clarifications.
 {: .fs-6 .fw-300 }
 
-Finality is released on CurseForge only as **All Rights Reserved** with the exception of music and artwork from other artists. There are also slightly retextured textures of mod assets to better fit the modpack. However, I still consider the custom retextures belonging to the respective mod authors. Please see the credits page to see credits.
+All Finality modpacks are released on CurseForge only as **All Rights Reserved** with the exception of music and artwork from other artists. There are also slightly retextured textures of mod assets to better fit the modpack. However, I still consider the custom retextures belonging to the respective mod authors. Please see the credits page to see credits.
 
 This covers the following files / folders.
 * All FTB Quests, their Rewards and arrangement in `\instance\config\ftbquests\quests`

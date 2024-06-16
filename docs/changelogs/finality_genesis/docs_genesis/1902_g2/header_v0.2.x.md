@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Iteration 0.2
+title: Iteration 0.2 - 1.19.2
 parent: Finality Genesis Changelog
 has_children: true
 nav_order: 8
